@@ -31,7 +31,7 @@
 - Build and validate with `npm run build`.
 - Publish `docs/` to HTTPS static hosting.
 - Google Calendar subscription URL is `https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics`.
-- GitHub Actions refreshes the feed every 12 hours from June 11 through July 19, UTC, and commits changed generated files.
+- GitHub Actions refreshes the feed every 12 hours from June 11 through July 19, 2026, UTC, and commits changed generated files.
 - The generator preserves the previous `generatedAt` timestamp when FIFA match data is unchanged, so scheduled runs do not create empty churn commits.
 
 ## Calendar Notes

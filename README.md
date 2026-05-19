@@ -59,7 +59,7 @@ The build does two things:
 
 ## Automatic Updates
 
-GitHub Actions runs `.github/workflows/refresh-calendar.yml` every 12 hours from June 11 through July 19, UTC, and can also be triggered manually. It runs `npm run build`, commits changed `data/fifa-2026-matches.json` and `docs/worldcup-2026.ics`, and pushes them back to `main`. If FIFA data has not changed, the generator preserves the previous timestamp so the workflow exits without a commit.
+GitHub Actions runs `.github/workflows/refresh-calendar.yml` every 12 hours from June 11 through July 19, 2026, UTC, and can also be triggered manually. The workflow includes an explicit 2026 date guard because GitHub cron has no year field. It runs `npm run build`, commits changed `data/fifa-2026-matches.json` and `docs/worldcup-2026.ics`, and pushes them back to `main`. If FIFA data has not changed, the generator preserves the previous timestamp so the workflow exits without a commit.
 
 The generator includes scores and winners when FIFA starts returning result data. Google Calendar then picks up the changed feed on its normal subscription refresh cycle.
 
@@ -75,4 +75,4 @@ FIFA image references are emitted as ICS `ATTACH` properties and in event descri
 
 - Group-stage matches use a 2-hour event duration.
 - Knockout matches use a 3-hour event duration.
-- The feed URL is stable. GitHub Actions refreshes the generated file every 12 hours from June 11 through July 19, UTC; manual refresh is still possible with `npm run build`.
+- The feed URL is stable. GitHub Actions refreshes the generated file every 12 hours from June 11 through July 19, 2026, UTC; manual refresh is still possible with `npm run build`.

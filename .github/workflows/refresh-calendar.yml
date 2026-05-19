@@ -17,12 +17,33 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
+      - name: Check refresh window
+        id: refresh-window
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          today="$(date -u +%F)"
+          if [[ "$today" < "2026-06-11" || "$today" > "2026-07-19" ]]; then
+            echo "Outside scheduled refresh window: $today"
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "should_run=true" >> "$GITHUB_OUTPUT"
       - uses: actions/checkout@v4
+        if: steps.refresh-window.outputs.should_run == 'true'
       - uses: actions/setup-node@v4
+        if: steps.refresh-window.outputs.should_run == 'true'
         with:
           node-version: "22"
       - run: npm run build
+        if: steps.refresh-window.outputs.should_run == 'true'
       - name: Commit regenerated feed
+        if: steps.refresh-window.outputs.should_run == 'true'
         run: |
           if git diff --quiet -- data/fifa-2026-matches.json docs/worldcup-2026.ics; then
             echo "No calendar changes detected."
