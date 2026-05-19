@@ -72,6 +72,10 @@ function normalizeMatch(match: FifaMatch): NormalizedMatch {
     durationMinutes: stage === "First Stage" ? GROUP_STAGE_DURATION_MINUTES : KNOCKOUT_DURATION_MINUTES,
     home: normalizeParticipant(match.Home, match.PlaceHolderA),
     away: normalizeParticipant(match.Away, match.PlaceHolderB),
+    score: normalizeScore(match),
+    winner: normalizeWinner(match),
+    matchStatus: match.MatchStatus ?? undefined,
+    resultType: match.ResultType ?? undefined,
     venue: {
       name: venueName,
       city,
@@ -80,6 +84,25 @@ function normalizeMatch(match: FifaMatch): NormalizedMatch {
     },
     sourceUrl: FIFA_API_URL
   };
+}
+
+function normalizeScore(match: FifaMatch): NormalizedMatch["score"] {
+  if (match.HomeTeamScore === null || match.HomeTeamScore === undefined) return undefined;
+  if (match.AwayTeamScore === null || match.AwayTeamScore === undefined) return undefined;
+
+  return {
+    home: match.HomeTeamScore,
+    away: match.AwayTeamScore,
+    homePenalties: match.HomeTeamPenaltyScore ?? undefined,
+    awayPenalties: match.AwayTeamPenaltyScore ?? undefined
+  };
+}
+
+function normalizeWinner(match: FifaMatch): NormalizedMatch["winner"] {
+  if (!match.Winner) return undefined;
+  if (match.Home?.IdTeam && match.Winner === match.Home.IdTeam) return "home";
+  if (match.Away?.IdTeam && match.Winner === match.Away.IdTeam) return "away";
+  return undefined;
 }
 
 function normalizeParticipant(team: FifaTeam | null | undefined, placeholder: string | null | undefined): Participant {

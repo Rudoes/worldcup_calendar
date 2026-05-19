@@ -10,6 +10,7 @@
 - Generator entrypoint: `src/generate.ts`.
 - Validator entrypoint: `src/validate.ts`.
 - Build command: `npm run build`.
+- Automatic refresh workflow: `.github/workflows/refresh-calendar.yml`.
 - Runtime requirement: Node.js 22.6 or newer.
 
 ## Data Source
@@ -24,6 +25,7 @@
 - Run `npm run build` after fixture changes or before publishing.
 - Publish the `docs/` directory to an HTTPS static host.
 - Google Calendar subscription URL is `https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics`.
+- GitHub Actions refreshes the feed every 6 hours and commits changed generated files.
 
 ## Memory
 

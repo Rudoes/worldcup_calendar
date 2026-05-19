@@ -33,7 +33,9 @@ function buildEvent(match: NormalizedMatch, generatedAt: string): string[] {
   }
 
   const end = new Date(start.getTime() + match.durationMinutes * 60_000);
-  const summary = `Match ${match.matchNumber}: ${match.home.name} vs ${match.away.name}`;
+  const summary = match.score
+    ? `Match ${match.matchNumber}: ${match.home.name} ${match.score.home}-${match.score.away} ${match.away.name}`
+    : `Match ${match.matchNumber}: ${match.home.name} vs ${match.away.name}`;
   const location = [
     match.venue.name,
     match.venue.city,
@@ -71,6 +73,8 @@ function eventDescription(match: NormalizedMatch): string {
     `Stage: ${match.stage}`,
     match.group ? `Group: ${match.group}` : undefined,
     `Teams: ${formatParticipant(match.home)} vs ${formatParticipant(match.away)}`,
+    match.score ? `Score: ${formatScore(match)}` : undefined,
+    match.winner ? `Winner: ${match.winner === "home" ? match.home.name : match.away.name}` : undefined,
     `Kickoff (UTC): ${formatUtcDisplay(match.utcKickoff)}`,
     `Kickoff (venue local): ${formatLocalDisplay(match.localKickoff)} (${match.venue.timeZone})`,
     `Venue: ${match.venue.name}, ${match.venue.city}${match.venue.countryCode ? `, ${match.venue.countryCode}` : ""}`,
@@ -81,6 +85,17 @@ function eventDescription(match: NormalizedMatch): string {
   ].filter((line): line is string => Boolean(line));
 
   return lines.join("\n");
+}
+
+function formatScore(match: NormalizedMatch): string {
+  if (!match.score) return "";
+
+  const score = `${match.home.name} ${match.score.home}-${match.score.away} ${match.away.name}`;
+  if (match.score.homePenalties === undefined || match.score.awayPenalties === undefined) {
+    return score;
+  }
+
+  return `${score} (penalties ${match.score.homePenalties}-${match.score.awayPenalties})`;
 }
 
 function formatParticipant(participant: Participant): string {

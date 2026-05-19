@@ -32,7 +32,16 @@ export interface FifaMatch {
   LocalDate: string;
   Home?: FifaTeam | null;
   Away?: FifaTeam | null;
+  HomeTeamScore?: number | null;
+  AwayTeamScore?: number | null;
+  AggregateHomeTeamScore?: number | null;
+  AggregateAwayTeamScore?: number | null;
+  HomeTeamPenaltyScore?: number | null;
+  AwayTeamPenaltyScore?: number | null;
   Stadium?: FifaStadium | null;
+  Winner?: string | null;
+  MatchStatus?: number | null;
+  ResultType?: number | null;
   MatchNumber: number;
   TimeDefined: boolean;
   PlaceHolderA?: string | null;
@@ -60,6 +69,13 @@ export interface Venue {
   timeZone: string;
 }
 
+export interface Score {
+  home: number;
+  away: number;
+  homePenalties?: number;
+  awayPenalties?: number;
+}
+
 export interface NormalizedMatch {
   matchNumber: number;
   fifaMatchId: string;
@@ -70,6 +86,10 @@ export interface NormalizedMatch {
   durationMinutes: number;
   home: Participant;
   away: Participant;
+  score?: Score;
+  winner?: "home" | "away";
+  matchStatus?: number;
+  resultType?: number;
   venue: Venue;
   sourceUrl: string;
 }

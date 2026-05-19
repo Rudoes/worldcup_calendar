@@ -57,6 +57,12 @@ The build does two things:
 - `npm run generate`: fetches current FIFA fixture data and writes `data/fifa-2026-matches.json` plus `docs/worldcup-2026.ics`
 - `npm run validate`: verifies 104 events, unique UIDs, required event fields, timezone-aware UTC start/end values, match numbers, and team logo attachments where both teams are known
 
+## Automatic Updates
+
+GitHub Actions runs `.github/workflows/refresh-calendar.yml` every 6 hours and can also be triggered manually. It runs `npm run build`, commits changed `data/fifa-2026-matches.json` and `docs/worldcup-2026.ics`, and pushes them back to `main`.
+
+The generator includes scores and winners when FIFA starts returning result data. Google Calendar then picks up the changed feed on its normal subscription refresh cycle.
+
 ## Data Sources
 
 - FIFA public API: `https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200`
@@ -69,4 +75,4 @@ FIFA image references are emitted as ICS `ATTACH` properties and in event descri
 
 - Group-stage matches use a 2-hour event duration.
 - Knockout matches use a 3-hour event duration.
-- The feed is static. To pick up FIFA changes, rerun `npm run build` and push the updated `docs/worldcup-2026.ics` at the same URL.
+- The feed URL is stable. GitHub Actions refreshes the generated file every 6 hours; manual refresh is still possible with `npm run build`.
