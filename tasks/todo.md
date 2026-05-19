@@ -31,14 +31,14 @@ Build a subscribable calendar URL for Google Calendar containing all 2026 FIFA W
 
 ## Publication Plan
 
-- [ ] Re-run `npm run build` against current FIFA data.
-- [ ] Initialize a Git repository for this project.
-- [ ] Commit the calendar generator, generated feed, docs, and Pages-ready `/docs` directory.
-- [ ] Create/push a public GitHub repository under the authenticated `Rudoes` account.
-- [ ] Enable GitHub Pages from the `main` branch `/docs` directory.
-- [ ] Verify the live `.ics` URL returns the generated calendar.
-- [ ] Verify the live subscribe page creates a Google Calendar subscription link.
-- [ ] Record the final subscription URL in this file and README.
+- [x] Re-run `npm run build` against current FIFA data.
+- [x] Initialize a Git repository for this project.
+- [x] Commit the calendar generator, generated feed, docs, and Pages-ready `/docs` directory.
+- [x] Create/push a public GitHub repository under the authenticated `Rudoes` account.
+- [x] Enable GitHub Pages from the `main` branch `/docs` directory.
+- [x] Verify the live `.ics` URL returns the generated calendar.
+- [x] Verify the live subscribe page creates a Google Calendar subscription link.
+- [x] Record the final subscription URL in this file and README.
 
 ## Verification Gates
 
@@ -52,7 +52,11 @@ Build a subscribable calendar URL for Google Calendar containing all 2026 FIFA W
 ## Review
 
 - Built a dependency-free Node 22 TypeScript generator and validator.
-- Generated `public/worldcup-2026.ics` from FIFA competition `17`, season `285023`.
+- Generated `docs/worldcup-2026.ics` from FIFA competition `17`, season `285023`.
 - Validated 104 events, required ICS fields, unique UIDs, UTC start/end values, match-number coverage, venue timezone mappings, and team logo attachments for known team matchups.
 - Added `docs/index.html` so GitHub Pages can serve the feed from the `main` branch `/docs` directory.
-- Current limitation: Google Calendar needs the ICS file to be hosted publicly. This workspace now contains the feed and Pages-ready static files, but no public URL exists until the project is pushed/deployed.
+- Published public repository: `https://github.com/Rudoes/worldcup_calendar`.
+- Published subscribe page: `https://rudoes.github.io/worldcup_calendar/`.
+- Final calendar URL: `https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics`.
+- Google Calendar subscribe link: `https://calendar.google.com/calendar/render?cid=https%3A%2F%2Frudoes.github.io%2Fworldcup_calendar%2Fworldcup-2026.ics`.
+- Live verification: GitHub Pages status is `built`, HTTPS is enforced, the ICS URL returns `200 OK` with `Content-Type: text/calendar`, and the live feed contains 104 `VEVENT` entries, 104 UTC start times, 104 UTC end times, 144 image attachments, and Match 104.

@@ -9,12 +9,24 @@ The generated feed is:
 - sourced from FIFA public fixture data for competition `17`, season `285023`
 - enriched with teams, placeholders, venues, city, local kickoff display, and FIFA-hosted team image references
 
-## Subscribe From Google Calendar
-
-Google Calendar can subscribe only to a URL it can reach publicly over the web. After publishing the `docs/` directory, the subscription URL is:
+Live feed URL:
 
 ```text
-https://YOUR_HOST/worldcup-2026.ics
+https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics
+```
+
+Google Calendar subscribe link:
+
+```text
+https://calendar.google.com/calendar/render?cid=https%3A%2F%2Frudoes.github.io%2Fworldcup_calendar%2Fworldcup-2026.ics
+```
+
+## Subscribe From Google Calendar
+
+Google Calendar can subscribe only to a URL it can reach publicly over the web. The published subscription URL is:
+
+```text
+https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics
 ```
 
 In Google Calendar:
@@ -24,12 +36,12 @@ In Google Calendar:
 3. Paste the published `.ics` URL.
 4. Add the calendar.
 
-The included `public/index.html` page also builds a Google Calendar subscribe link automatically from the current host.
+The included `docs/index.html` page also builds a Google Calendar subscribe link automatically from the current host.
 
-For GitHub Pages, enable Pages from the `main` branch and `/docs` directory. The feed URL will be:
+For GitHub Pages, this repository is served from the `main` branch and `/docs` directory:
 
 ```text
-https://OWNER.github.io/REPOSITORY/worldcup-2026.ics
+https://rudoes.github.io/worldcup_calendar/
 ```
 
 ## Regenerate

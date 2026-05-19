@@ -8,6 +8,9 @@
 
 - Calendar feed: `docs/worldcup-2026.ics`.
 - Static landing page: `docs/index.html`.
+- Live calendar URL: `https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics`.
+- Live subscribe page: `https://rudoes.github.io/worldcup_calendar/`.
+- Google Calendar subscribe link: `https://calendar.google.com/calendar/render?cid=https%3A%2F%2Frudoes.github.io%2Fworldcup_calendar%2Fworldcup-2026.ics`.
 - Normalized fixture cache: `data/fifa-2026-matches.json`.
 - Generator: `src/generate.ts`.
 - Validator: `src/validate.ts`.
@@ -26,7 +29,7 @@
 
 - Build and validate with `npm run build`.
 - Publish `docs/` to HTTPS static hosting.
-- Google Calendar subscription URL is the published `worldcup-2026.ics` URL.
+- Google Calendar subscription URL is `https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics`.
 
 ## Calendar Notes
 

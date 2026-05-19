@@ -4,6 +4,8 @@
 
 - Purpose: generate a static subscribable ICS feed for the FIFA World Cup 2026 schedule.
 - Main generated calendar: `docs/worldcup-2026.ics`.
+- Live calendar URL: `https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics`.
+- Live subscribe page: `https://rudoes.github.io/worldcup_calendar/`.
 - Normalized fixture cache: `data/fifa-2026-matches.json`.
 - Generator entrypoint: `src/generate.ts`.
 - Validator entrypoint: `src/validate.ts`.
@@ -21,7 +23,7 @@
 
 - Run `npm run build` after fixture changes or before publishing.
 - Publish the `docs/` directory to an HTTPS static host.
-- Google Calendar subscription URL is the published `worldcup-2026.ics` URL.
+- Google Calendar subscription URL is `https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics`.
 
 ## Memory
 
