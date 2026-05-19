@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FIFA World Cup 2026 Calendar</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #151515;
+        --muted: #5d6470;
+        --line: #d9dde3;
+        --panel: #ffffff;
+        --bg: #f6f7f9;
+        --accent: #007a5a;
+        --accent-ink: #ffffff;
+        --secondary: #1c3f94;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: Arial, Helvetica, sans-serif;
+        color: var(--ink);
+        background: var(--bg);
+      }
+
+      main {
+        width: min(920px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 48px 0;
+      }
+
+      .panel {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 28px;
+      }
+
+      h1 {
+        margin: 0 0 12px;
+        font-size: clamp(2rem, 6vw, 4.25rem);
+        line-height: 1;
+        letter-spacing: 0;
+      }
+
+      p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.55;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 28px;
+      }
+
+      a.button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 44px;
+        padding: 0 16px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        color: var(--accent-ink);
+        background: var(--accent);
+      }
+
+      a.button.secondary {
+        color: var(--secondary);
+        background: #eef3ff;
+      }
+
+      dl {
+        display: grid;
+        grid-template-columns: max-content 1fr;
+        gap: 10px 18px;
+        margin: 28px 0 0;
+      }
+
+      dt {
+        font-weight: 700;
+      }
+
+      dd {
+        margin: 0;
+        color: var(--muted);
+        overflow-wrap: anywhere;
+      }
+
+      code {
+        font-family: Consolas, Monaco, monospace;
+      }
+
+      @media (max-width: 560px) {
+        main {
+          width: min(100% - 24px, 920px);
+          padding: 24px 0;
+        }
+
+        .panel {
+          padding: 20px;
+        }
+
+        dl {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="panel">
+        <h1>FIFA World Cup 2026 Calendar</h1>
+        <p>Subscribe to the static ICS feed for all 104 matches, with kickoff times, venues, teams, and FIFA-hosted team image references.</p>
+        <div class="actions">
+          <a class="button" id="google-link" href="#">Subscribe in Google Calendar</a>
+          <a class="button secondary" id="ics-link" href="worldcup-2026.ics">Open ICS Feed</a>
+        </div>
+        <dl>
+          <dt>Feed URL</dt>
+          <dd><code id="feed-url">worldcup-2026.ics</code></dd>
+          <dt>Source</dt>
+          <dd>FIFA public fixture data for competition 17, season 285023.</dd>
+        </dl>
+      </section>
+    </main>
+    <script>
+      const feedUrl = new URL("worldcup-2026.ics", window.location.href).href;
+      document.getElementById("feed-url").textContent = feedUrl;
+      document.getElementById("ics-link").href = feedUrl;
+      document.getElementById("google-link").href =
+        `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(feedUrl)}`;
+    </script>
+  </body>
+</html>

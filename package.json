@@ -1,0 +1,15 @@
+{
+  "name": "worldcup-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static subscribable ICS feed for the FIFA World Cup 2026 schedule.",
+  "engines": {
+    "node": ">=22.6"
+  },
+  "scripts": {
+    "generate": "node --experimental-strip-types src/generate.ts",
+    "validate": "node --experimental-strip-types src/validate.ts",
+    "build": "npm run generate && npm run validate"
+  }
+}

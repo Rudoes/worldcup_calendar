@@ -1,0 +1,3051 @@
+{
+  "generatedAt": "2026-05-19T16:42:15.671Z",
+  "source": {
+    "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
+    "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
+    "schedulePdf": "https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf"
+  },
+  "expectedMatchCount": 104,
+  "matches": [
+    {
+      "matchNumber": 1,
+      "fifaMatchId": "400021443",
+      "stage": "First Stage",
+      "group": "Group A",
+      "utcKickoff": "2026-06-11T19:00:00Z",
+      "localKickoff": "2026-06-11T13:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Mexico",
+        "abbreviation": "MEX",
+        "fifaTeamId": "43911",
+        "countryCode": "MEX",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43911",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MEX"
+      },
+      "away": {
+        "name": "South Africa",
+        "abbreviation": "RSA",
+        "fifaTeamId": "43883",
+        "countryCode": "RSA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43883",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/RSA"
+      },
+      "venue": {
+        "name": "Mexico City Stadium",
+        "city": "Mexico City",
+        "countryCode": "MEX",
+        "timeZone": "America/Mexico_City"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 2,
+      "fifaMatchId": "400021441",
+      "stage": "First Stage",
+      "group": "Group A",
+      "utcKickoff": "2026-06-12T02:00:00Z",
+      "localKickoff": "2026-06-11T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Korea Republic",
+        "abbreviation": "KOR",
+        "fifaTeamId": "43822",
+        "countryCode": "KOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43822",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/KOR"
+      },
+      "away": {
+        "name": "Czechia",
+        "abbreviation": "CZE",
+        "fifaTeamId": "43995",
+        "countryCode": "CZE",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43995",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CZE"
+      },
+      "venue": {
+        "name": "Guadalajara Stadium",
+        "city": "Guadalajara",
+        "countryCode": "MEX",
+        "timeZone": "America/Mexico_City"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 3,
+      "fifaMatchId": "400021449",
+      "stage": "First Stage",
+      "group": "Group B",
+      "utcKickoff": "2026-06-12T19:00:00Z",
+      "localKickoff": "2026-06-12T15:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Canada",
+        "abbreviation": "CAN",
+        "fifaTeamId": "43899",
+        "countryCode": "CAN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43899",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CAN"
+      },
+      "away": {
+        "name": "Bosnia and Herzegovina",
+        "abbreviation": "BIH",
+        "fifaTeamId": "44037",
+        "countryCode": "BIH",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/44037",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BIH"
+      },
+      "venue": {
+        "name": "Toronto Stadium",
+        "city": "Toronto",
+        "countryCode": "CAN",
+        "timeZone": "America/Toronto"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 4,
+      "fifaMatchId": "400021458",
+      "stage": "First Stage",
+      "group": "Group D",
+      "utcKickoff": "2026-06-13T01:00:00Z",
+      "localKickoff": "2026-06-12T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "USA",
+        "abbreviation": "USA",
+        "fifaTeamId": "43921",
+        "countryCode": "USA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43921",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/USA"
+      },
+      "away": {
+        "name": "Paraguay",
+        "abbreviation": "PAR",
+        "fifaTeamId": "43928",
+        "countryCode": "PAR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43928",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR"
+      },
+      "venue": {
+        "name": "Los Angeles Stadium",
+        "city": "Los Angeles",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 5,
+      "fifaMatchId": "400021453",
+      "stage": "First Stage",
+      "group": "Group C",
+      "utcKickoff": "2026-06-14T01:00:00Z",
+      "localKickoff": "2026-06-13T21:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Haiti",
+        "abbreviation": "HAI",
+        "fifaTeamId": "43908",
+        "countryCode": "HAI",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43908",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/HAI"
+      },
+      "away": {
+        "name": "Scotland",
+        "abbreviation": "SCO",
+        "fifaTeamId": "43967",
+        "countryCode": "SCO",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43967",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SCO"
+      },
+      "venue": {
+        "name": "Boston Stadium",
+        "city": "Boston",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 6,
+      "fifaMatchId": "400021463",
+      "stage": "First Stage",
+      "group": "Group D",
+      "utcKickoff": "2026-06-14T04:00:00Z",
+      "localKickoff": "2026-06-13T21:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Australia",
+        "abbreviation": "AUS",
+        "fifaTeamId": "43976",
+        "countryCode": "AUS",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43976",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUS"
+      },
+      "away": {
+        "name": "Türkiye",
+        "abbreviation": "TUR",
+        "fifaTeamId": "43972",
+        "countryCode": "TUR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43972",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR"
+      },
+      "venue": {
+        "name": "BC Place Vancouver",
+        "city": "Vancouver",
+        "countryCode": "CAN",
+        "timeZone": "America/Vancouver"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 7,
+      "fifaMatchId": "400021456",
+      "stage": "First Stage",
+      "group": "Group C",
+      "utcKickoff": "2026-06-13T22:00:00Z",
+      "localKickoff": "2026-06-13T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Brazil",
+        "abbreviation": "BRA",
+        "fifaTeamId": "43924",
+        "countryCode": "BRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43924",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BRA"
+      },
+      "away": {
+        "name": "Morocco",
+        "abbreviation": "MAR",
+        "fifaTeamId": "43872",
+        "countryCode": "MAR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43872",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR"
+      },
+      "venue": {
+        "name": "New York/New Jersey Stadium",
+        "city": "New York",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 8,
+      "fifaMatchId": "400021447",
+      "stage": "First Stage",
+      "group": "Group B",
+      "utcKickoff": "2026-06-13T19:00:00Z",
+      "localKickoff": "2026-06-13T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Qatar",
+        "abbreviation": "QAT",
+        "fifaTeamId": "43834",
+        "countryCode": "QAT",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43834",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/QAT"
+      },
+      "away": {
+        "name": "Switzerland",
+        "abbreviation": "SUI",
+        "fifaTeamId": "43971",
+        "countryCode": "SUI",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43971",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SUI"
+      },
+      "venue": {
+        "name": "San Francisco Bay Area Stadium",
+        "city": "San Francisco Bay Area",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 9,
+      "fifaMatchId": "400021467",
+      "stage": "First Stage",
+      "group": "Group E",
+      "utcKickoff": "2026-06-14T23:00:00Z",
+      "localKickoff": "2026-06-14T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Côte d'Ivoire",
+        "abbreviation": "CIV",
+        "fifaTeamId": "43854",
+        "countryCode": "CIV",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43854",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CIV"
+      },
+      "away": {
+        "name": "Ecuador",
+        "abbreviation": "ECU",
+        "fifaTeamId": "43927",
+        "countryCode": "ECU",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43927",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU"
+      },
+      "venue": {
+        "name": "Philadelphia Stadium",
+        "city": "Philadelphia",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 10,
+      "fifaMatchId": "400021464",
+      "stage": "First Stage",
+      "group": "Group E",
+      "utcKickoff": "2026-06-14T17:00:00Z",
+      "localKickoff": "2026-06-14T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Germany",
+        "abbreviation": "GER",
+        "fifaTeamId": "43948",
+        "countryCode": "GER",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43948",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER"
+      },
+      "away": {
+        "name": "Curaçao",
+        "abbreviation": "CUW",
+        "fifaTeamId": "1895293",
+        "countryCode": "CUW",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/1895293",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CUW"
+      },
+      "venue": {
+        "name": "Houston Stadium",
+        "city": "Houston",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 11,
+      "fifaMatchId": "400021470",
+      "stage": "First Stage",
+      "group": "Group F",
+      "utcKickoff": "2026-06-14T20:00:00Z",
+      "localKickoff": "2026-06-14T15:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Netherlands",
+        "abbreviation": "NED",
+        "fifaTeamId": "43960",
+        "countryCode": "NED",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43960",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NED"
+      },
+      "away": {
+        "name": "Japan",
+        "abbreviation": "JPN",
+        "fifaTeamId": "43819",
+        "countryCode": "JPN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43819",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/JPN"
+      },
+      "venue": {
+        "name": "Dallas Stadium",
+        "city": "Dallas",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 12,
+      "fifaMatchId": "400021474",
+      "stage": "First Stage",
+      "group": "Group F",
+      "utcKickoff": "2026-06-15T02:00:00Z",
+      "localKickoff": "2026-06-14T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Sweden",
+        "abbreviation": "SWE",
+        "fifaTeamId": "43970",
+        "countryCode": "SWE",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43970",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
+      },
+      "away": {
+        "name": "Tunisia",
+        "abbreviation": "TUN",
+        "fifaTeamId": "43888",
+        "countryCode": "TUN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43888",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUN"
+      },
+      "venue": {
+        "name": "Monterrey Stadium",
+        "city": "Monterrey",
+        "countryCode": "MEX",
+        "timeZone": "America/Monterrey"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 13,
+      "fifaMatchId": "400021486",
+      "stage": "First Stage",
+      "group": "Group H",
+      "utcKickoff": "2026-06-15T22:00:00Z",
+      "localKickoff": "2026-06-15T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Saudi Arabia",
+        "abbreviation": "KSA",
+        "fifaTeamId": "43835",
+        "countryCode": "KSA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43835",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA"
+      },
+      "away": {
+        "name": "Uruguay",
+        "abbreviation": "URU",
+        "fifaTeamId": "43930",
+        "countryCode": "URU",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43930",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/URU"
+      },
+      "venue": {
+        "name": "Miami Stadium",
+        "city": "Miami",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 14,
+      "fifaMatchId": "400021482",
+      "stage": "First Stage",
+      "group": "Group H",
+      "utcKickoff": "2026-06-15T16:00:00Z",
+      "localKickoff": "2026-06-15T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Spain",
+        "abbreviation": "ESP",
+        "fifaTeamId": "43969",
+        "countryCode": "ESP",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43969",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
+      },
+      "away": {
+        "name": "Cabo Verde",
+        "abbreviation": "CPV",
+        "fifaTeamId": "43850",
+        "countryCode": "CPV",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43850",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV"
+      },
+      "venue": {
+        "name": "Atlanta Stadium",
+        "city": "Atlanta",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 15,
+      "fifaMatchId": "400021476",
+      "stage": "First Stage",
+      "group": "Group G",
+      "utcKickoff": "2026-06-16T01:00:00Z",
+      "localKickoff": "2026-06-15T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "IR Iran",
+        "abbreviation": "IRN",
+        "fifaTeamId": "43817",
+        "countryCode": "IRN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43817",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN"
+      },
+      "away": {
+        "name": "New Zealand",
+        "abbreviation": "NZL",
+        "fifaTeamId": "43978",
+        "countryCode": "NZL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43978",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NZL"
+      },
+      "venue": {
+        "name": "Los Angeles Stadium",
+        "city": "Los Angeles",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 16,
+      "fifaMatchId": "400021478",
+      "stage": "First Stage",
+      "group": "Group G",
+      "utcKickoff": "2026-06-15T19:00:00Z",
+      "localKickoff": "2026-06-15T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Belgium",
+        "abbreviation": "BEL",
+        "fifaTeamId": "43935",
+        "countryCode": "BEL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43935",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
+      },
+      "away": {
+        "name": "Egypt",
+        "abbreviation": "EGY",
+        "fifaTeamId": "43855",
+        "countryCode": "EGY",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43855",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/EGY"
+      },
+      "venue": {
+        "name": "Seattle Stadium",
+        "city": "Seattle",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 17,
+      "fifaMatchId": "400021490",
+      "stage": "First Stage",
+      "group": "Group I",
+      "utcKickoff": "2026-06-16T19:00:00Z",
+      "localKickoff": "2026-06-16T15:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "France",
+        "abbreviation": "FRA",
+        "fifaTeamId": "43946",
+        "countryCode": "FRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43946",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA"
+      },
+      "away": {
+        "name": "Senegal",
+        "abbreviation": "SEN",
+        "fifaTeamId": "43879",
+        "countryCode": "SEN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43879",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SEN"
+      },
+      "venue": {
+        "name": "New York/New Jersey Stadium",
+        "city": "New York",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 18,
+      "fifaMatchId": "400021488",
+      "stage": "First Stage",
+      "group": "Group I",
+      "utcKickoff": "2026-06-16T22:00:00Z",
+      "localKickoff": "2026-06-16T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Iraq",
+        "abbreviation": "IRQ",
+        "fifaTeamId": "43818",
+        "countryCode": "IRQ",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43818",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ"
+      },
+      "away": {
+        "name": "Norway",
+        "abbreviation": "NOR",
+        "fifaTeamId": "43961",
+        "countryCode": "NOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43961",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR"
+      },
+      "venue": {
+        "name": "Boston Stadium",
+        "city": "Boston",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 19,
+      "fifaMatchId": "400021496",
+      "stage": "First Stage",
+      "group": "Group J",
+      "utcKickoff": "2026-06-17T01:00:00Z",
+      "localKickoff": "2026-06-16T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Argentina",
+        "abbreviation": "ARG",
+        "fifaTeamId": "43922",
+        "countryCode": "ARG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43922",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ARG"
+      },
+      "away": {
+        "name": "Algeria",
+        "abbreviation": "ALG",
+        "fifaTeamId": "43843",
+        "countryCode": "ALG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43843",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ALG"
+      },
+      "venue": {
+        "name": "Kansas City Stadium",
+        "city": "Kansas City",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 20,
+      "fifaMatchId": "400021498",
+      "stage": "First Stage",
+      "group": "Group J",
+      "utcKickoff": "2026-06-17T04:00:00Z",
+      "localKickoff": "2026-06-16T21:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Austria",
+        "abbreviation": "AUT",
+        "fifaTeamId": "43934",
+        "countryCode": "AUT",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43934",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUT"
+      },
+      "away": {
+        "name": "Jordan",
+        "abbreviation": "JOR",
+        "fifaTeamId": "43820",
+        "countryCode": "JOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43820",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/JOR"
+      },
+      "venue": {
+        "name": "San Francisco Bay Area Stadium",
+        "city": "San Francisco Bay Area",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 21,
+      "fifaMatchId": "400021510",
+      "stage": "First Stage",
+      "group": "Group L",
+      "utcKickoff": "2026-06-17T23:00:00Z",
+      "localKickoff": "2026-06-17T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Ghana",
+        "abbreviation": "GHA",
+        "fifaTeamId": "43860",
+        "countryCode": "GHA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43860",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/GHA"
+      },
+      "away": {
+        "name": "Panama",
+        "abbreviation": "PAN",
+        "fifaTeamId": "43914",
+        "countryCode": "PAN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43914",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAN"
+      },
+      "venue": {
+        "name": "Toronto Stadium",
+        "city": "Toronto",
+        "countryCode": "CAN",
+        "timeZone": "America/Toronto"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 22,
+      "fifaMatchId": "400021507",
+      "stage": "First Stage",
+      "group": "Group L",
+      "utcKickoff": "2026-06-17T20:00:00Z",
+      "localKickoff": "2026-06-17T15:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "England",
+        "abbreviation": "ENG",
+        "fifaTeamId": "43942",
+        "countryCode": "ENG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43942",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG"
+      },
+      "away": {
+        "name": "Croatia",
+        "abbreviation": "CRO",
+        "fifaTeamId": "43938",
+        "countryCode": "CRO",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43938",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO"
+      },
+      "venue": {
+        "name": "Dallas Stadium",
+        "city": "Dallas",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 23,
+      "fifaMatchId": "400021502",
+      "stage": "First Stage",
+      "group": "Group K",
+      "utcKickoff": "2026-06-17T17:00:00Z",
+      "localKickoff": "2026-06-17T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Portugal",
+        "abbreviation": "POR",
+        "fifaTeamId": "43963",
+        "countryCode": "POR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43963",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/POR"
+      },
+      "away": {
+        "name": "Congo DR",
+        "abbreviation": "COD",
+        "fifaTeamId": "20014",
+        "countryCode": "COD",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/20014",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/COD"
+      },
+      "venue": {
+        "name": "Houston Stadium",
+        "city": "Houston",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 24,
+      "fifaMatchId": "400021504",
+      "stage": "First Stage",
+      "group": "Group K",
+      "utcKickoff": "2026-06-18T02:00:00Z",
+      "localKickoff": "2026-06-17T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Uzbekistan",
+        "abbreviation": "UZB",
+        "fifaTeamId": "44005",
+        "countryCode": "UZB",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/44005",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/UZB"
+      },
+      "away": {
+        "name": "Colombia",
+        "abbreviation": "COL",
+        "fifaTeamId": "43926",
+        "countryCode": "COL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43926",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/COL"
+      },
+      "venue": {
+        "name": "Mexico City Stadium",
+        "city": "Mexico City",
+        "countryCode": "MEX",
+        "timeZone": "America/Mexico_City"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 25,
+      "fifaMatchId": "400021440",
+      "stage": "First Stage",
+      "group": "Group A",
+      "utcKickoff": "2026-06-18T16:00:00Z",
+      "localKickoff": "2026-06-18T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Czechia",
+        "abbreviation": "CZE",
+        "fifaTeamId": "43995",
+        "countryCode": "CZE",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43995",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CZE"
+      },
+      "away": {
+        "name": "South Africa",
+        "abbreviation": "RSA",
+        "fifaTeamId": "43883",
+        "countryCode": "RSA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43883",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/RSA"
+      },
+      "venue": {
+        "name": "Atlanta Stadium",
+        "city": "Atlanta",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 26,
+      "fifaMatchId": "400021446",
+      "stage": "First Stage",
+      "group": "Group B",
+      "utcKickoff": "2026-06-18T19:00:00Z",
+      "localKickoff": "2026-06-18T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Switzerland",
+        "abbreviation": "SUI",
+        "fifaTeamId": "43971",
+        "countryCode": "SUI",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43971",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SUI"
+      },
+      "away": {
+        "name": "Bosnia and Herzegovina",
+        "abbreviation": "BIH",
+        "fifaTeamId": "44037",
+        "countryCode": "BIH",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/44037",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BIH"
+      },
+      "venue": {
+        "name": "Los Angeles Stadium",
+        "city": "Los Angeles",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 27,
+      "fifaMatchId": "400021450",
+      "stage": "First Stage",
+      "group": "Group B",
+      "utcKickoff": "2026-06-18T22:00:00Z",
+      "localKickoff": "2026-06-18T15:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Canada",
+        "abbreviation": "CAN",
+        "fifaTeamId": "43899",
+        "countryCode": "CAN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43899",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CAN"
+      },
+      "away": {
+        "name": "Qatar",
+        "abbreviation": "QAT",
+        "fifaTeamId": "43834",
+        "countryCode": "QAT",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43834",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/QAT"
+      },
+      "venue": {
+        "name": "BC Place Vancouver",
+        "city": "Vancouver",
+        "countryCode": "CAN",
+        "timeZone": "America/Vancouver"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 28,
+      "fifaMatchId": "400021442",
+      "stage": "First Stage",
+      "group": "Group A",
+      "utcKickoff": "2026-06-19T01:00:00Z",
+      "localKickoff": "2026-06-18T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Mexico",
+        "abbreviation": "MEX",
+        "fifaTeamId": "43911",
+        "countryCode": "MEX",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43911",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MEX"
+      },
+      "away": {
+        "name": "Korea Republic",
+        "abbreviation": "KOR",
+        "fifaTeamId": "43822",
+        "countryCode": "KOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43822",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/KOR"
+      },
+      "venue": {
+        "name": "Guadalajara Stadium",
+        "city": "Guadalajara",
+        "countryCode": "MEX",
+        "timeZone": "America/Mexico_City"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 29,
+      "fifaMatchId": "400021457",
+      "stage": "First Stage",
+      "group": "Group C",
+      "utcKickoff": "2026-06-20T00:30:00Z",
+      "localKickoff": "2026-06-19T20:30:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Brazil",
+        "abbreviation": "BRA",
+        "fifaTeamId": "43924",
+        "countryCode": "BRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43924",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BRA"
+      },
+      "away": {
+        "name": "Haiti",
+        "abbreviation": "HAI",
+        "fifaTeamId": "43908",
+        "countryCode": "HAI",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43908",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/HAI"
+      },
+      "venue": {
+        "name": "Philadelphia Stadium",
+        "city": "Philadelphia",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 30,
+      "fifaMatchId": "400021454",
+      "stage": "First Stage",
+      "group": "Group C",
+      "utcKickoff": "2026-06-19T22:00:00Z",
+      "localKickoff": "2026-06-19T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Scotland",
+        "abbreviation": "SCO",
+        "fifaTeamId": "43967",
+        "countryCode": "SCO",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43967",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SCO"
+      },
+      "away": {
+        "name": "Morocco",
+        "abbreviation": "MAR",
+        "fifaTeamId": "43872",
+        "countryCode": "MAR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43872",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR"
+      },
+      "venue": {
+        "name": "Boston Stadium",
+        "city": "Boston",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 31,
+      "fifaMatchId": "400021460",
+      "stage": "First Stage",
+      "group": "Group D",
+      "utcKickoff": "2026-06-20T03:00:00Z",
+      "localKickoff": "2026-06-19T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Türkiye",
+        "abbreviation": "TUR",
+        "fifaTeamId": "43972",
+        "countryCode": "TUR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43972",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR"
+      },
+      "away": {
+        "name": "Paraguay",
+        "abbreviation": "PAR",
+        "fifaTeamId": "43928",
+        "countryCode": "PAR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43928",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR"
+      },
+      "venue": {
+        "name": "San Francisco Bay Area Stadium",
+        "city": "San Francisco Bay Area",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 32,
+      "fifaMatchId": "400021462",
+      "stage": "First Stage",
+      "group": "Group D",
+      "utcKickoff": "2026-06-19T19:00:00Z",
+      "localKickoff": "2026-06-19T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "USA",
+        "abbreviation": "USA",
+        "fifaTeamId": "43921",
+        "countryCode": "USA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43921",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/USA"
+      },
+      "away": {
+        "name": "Australia",
+        "abbreviation": "AUS",
+        "fifaTeamId": "43976",
+        "countryCode": "AUS",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43976",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUS"
+      },
+      "venue": {
+        "name": "Seattle Stadium",
+        "city": "Seattle",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 33,
+      "fifaMatchId": "400021469",
+      "stage": "First Stage",
+      "group": "Group E",
+      "utcKickoff": "2026-06-20T20:00:00Z",
+      "localKickoff": "2026-06-20T16:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Germany",
+        "abbreviation": "GER",
+        "fifaTeamId": "43948",
+        "countryCode": "GER",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43948",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER"
+      },
+      "away": {
+        "name": "Côte d'Ivoire",
+        "abbreviation": "CIV",
+        "fifaTeamId": "43854",
+        "countryCode": "CIV",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43854",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CIV"
+      },
+      "venue": {
+        "name": "Toronto Stadium",
+        "city": "Toronto",
+        "countryCode": "CAN",
+        "timeZone": "America/Toronto"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 34,
+      "fifaMatchId": "400021465",
+      "stage": "First Stage",
+      "group": "Group E",
+      "utcKickoff": "2026-06-21T00:00:00Z",
+      "localKickoff": "2026-06-20T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Ecuador",
+        "abbreviation": "ECU",
+        "fifaTeamId": "43927",
+        "countryCode": "ECU",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43927",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU"
+      },
+      "away": {
+        "name": "Curaçao",
+        "abbreviation": "CUW",
+        "fifaTeamId": "1895293",
+        "countryCode": "CUW",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/1895293",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CUW"
+      },
+      "venue": {
+        "name": "Kansas City Stadium",
+        "city": "Kansas City",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 35,
+      "fifaMatchId": "400021472",
+      "stage": "First Stage",
+      "group": "Group F",
+      "utcKickoff": "2026-06-20T17:00:00Z",
+      "localKickoff": "2026-06-20T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Netherlands",
+        "abbreviation": "NED",
+        "fifaTeamId": "43960",
+        "countryCode": "NED",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43960",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NED"
+      },
+      "away": {
+        "name": "Sweden",
+        "abbreviation": "SWE",
+        "fifaTeamId": "43970",
+        "countryCode": "SWE",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43970",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
+      },
+      "venue": {
+        "name": "Houston Stadium",
+        "city": "Houston",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 36,
+      "fifaMatchId": "400021475",
+      "stage": "First Stage",
+      "group": "Group F",
+      "utcKickoff": "2026-06-21T04:00:00Z",
+      "localKickoff": "2026-06-20T22:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Tunisia",
+        "abbreviation": "TUN",
+        "fifaTeamId": "43888",
+        "countryCode": "TUN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43888",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUN"
+      },
+      "away": {
+        "name": "Japan",
+        "abbreviation": "JPN",
+        "fifaTeamId": "43819",
+        "countryCode": "JPN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43819",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/JPN"
+      },
+      "venue": {
+        "name": "Monterrey Stadium",
+        "city": "Monterrey",
+        "countryCode": "MEX",
+        "timeZone": "America/Monterrey"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 37,
+      "fifaMatchId": "400021487",
+      "stage": "First Stage",
+      "group": "Group H",
+      "utcKickoff": "2026-06-21T22:00:00Z",
+      "localKickoff": "2026-06-21T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Uruguay",
+        "abbreviation": "URU",
+        "fifaTeamId": "43930",
+        "countryCode": "URU",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43930",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/URU"
+      },
+      "away": {
+        "name": "Cabo Verde",
+        "abbreviation": "CPV",
+        "fifaTeamId": "43850",
+        "countryCode": "CPV",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43850",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV"
+      },
+      "venue": {
+        "name": "Miami Stadium",
+        "city": "Miami",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 38,
+      "fifaMatchId": "400021483",
+      "stage": "First Stage",
+      "group": "Group H",
+      "utcKickoff": "2026-06-21T16:00:00Z",
+      "localKickoff": "2026-06-21T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Spain",
+        "abbreviation": "ESP",
+        "fifaTeamId": "43969",
+        "countryCode": "ESP",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43969",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
+      },
+      "away": {
+        "name": "Saudi Arabia",
+        "abbreviation": "KSA",
+        "fifaTeamId": "43835",
+        "countryCode": "KSA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43835",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA"
+      },
+      "venue": {
+        "name": "Atlanta Stadium",
+        "city": "Atlanta",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 39,
+      "fifaMatchId": "400021477",
+      "stage": "First Stage",
+      "group": "Group G",
+      "utcKickoff": "2026-06-21T19:00:00Z",
+      "localKickoff": "2026-06-21T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Belgium",
+        "abbreviation": "BEL",
+        "fifaTeamId": "43935",
+        "countryCode": "BEL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43935",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
+      },
+      "away": {
+        "name": "IR Iran",
+        "abbreviation": "IRN",
+        "fifaTeamId": "43817",
+        "countryCode": "IRN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43817",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN"
+      },
+      "venue": {
+        "name": "Los Angeles Stadium",
+        "city": "Los Angeles",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 40,
+      "fifaMatchId": "400021480",
+      "stage": "First Stage",
+      "group": "Group G",
+      "utcKickoff": "2026-06-22T01:00:00Z",
+      "localKickoff": "2026-06-21T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "New Zealand",
+        "abbreviation": "NZL",
+        "fifaTeamId": "43978",
+        "countryCode": "NZL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43978",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NZL"
+      },
+      "away": {
+        "name": "Egypt",
+        "abbreviation": "EGY",
+        "fifaTeamId": "43855",
+        "countryCode": "EGY",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43855",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/EGY"
+      },
+      "venue": {
+        "name": "BC Place Vancouver",
+        "city": "Vancouver",
+        "countryCode": "CAN",
+        "timeZone": "America/Vancouver"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 41,
+      "fifaMatchId": "400021491",
+      "stage": "First Stage",
+      "group": "Group I",
+      "utcKickoff": "2026-06-23T00:00:00Z",
+      "localKickoff": "2026-06-22T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Norway",
+        "abbreviation": "NOR",
+        "fifaTeamId": "43961",
+        "countryCode": "NOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43961",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR"
+      },
+      "away": {
+        "name": "Senegal",
+        "abbreviation": "SEN",
+        "fifaTeamId": "43879",
+        "countryCode": "SEN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43879",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SEN"
+      },
+      "venue": {
+        "name": "New York/New Jersey Stadium",
+        "city": "New York",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 42,
+      "fifaMatchId": "400021492",
+      "stage": "First Stage",
+      "group": "Group I",
+      "utcKickoff": "2026-06-22T21:00:00Z",
+      "localKickoff": "2026-06-22T17:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "France",
+        "abbreviation": "FRA",
+        "fifaTeamId": "43946",
+        "countryCode": "FRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43946",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA"
+      },
+      "away": {
+        "name": "Iraq",
+        "abbreviation": "IRQ",
+        "fifaTeamId": "43818",
+        "countryCode": "IRQ",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43818",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ"
+      },
+      "venue": {
+        "name": "Philadelphia Stadium",
+        "city": "Philadelphia",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 43,
+      "fifaMatchId": "400021494",
+      "stage": "First Stage",
+      "group": "Group J",
+      "utcKickoff": "2026-06-22T17:00:00Z",
+      "localKickoff": "2026-06-22T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Argentina",
+        "abbreviation": "ARG",
+        "fifaTeamId": "43922",
+        "countryCode": "ARG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43922",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ARG"
+      },
+      "away": {
+        "name": "Austria",
+        "abbreviation": "AUT",
+        "fifaTeamId": "43934",
+        "countryCode": "AUT",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43934",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUT"
+      },
+      "venue": {
+        "name": "Dallas Stadium",
+        "city": "Dallas",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 44,
+      "fifaMatchId": "400021499",
+      "stage": "First Stage",
+      "group": "Group J",
+      "utcKickoff": "2026-06-23T03:00:00Z",
+      "localKickoff": "2026-06-22T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Jordan",
+        "abbreviation": "JOR",
+        "fifaTeamId": "43820",
+        "countryCode": "JOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43820",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/JOR"
+      },
+      "away": {
+        "name": "Algeria",
+        "abbreviation": "ALG",
+        "fifaTeamId": "43843",
+        "countryCode": "ALG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43843",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ALG"
+      },
+      "venue": {
+        "name": "San Francisco Bay Area Stadium",
+        "city": "San Francisco Bay Area",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 45,
+      "fifaMatchId": "400021506",
+      "stage": "First Stage",
+      "group": "Group L",
+      "utcKickoff": "2026-06-23T20:00:00Z",
+      "localKickoff": "2026-06-23T16:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "England",
+        "abbreviation": "ENG",
+        "fifaTeamId": "43942",
+        "countryCode": "ENG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43942",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG"
+      },
+      "away": {
+        "name": "Ghana",
+        "abbreviation": "GHA",
+        "fifaTeamId": "43860",
+        "countryCode": "GHA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43860",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/GHA"
+      },
+      "venue": {
+        "name": "Boston Stadium",
+        "city": "Boston",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 46,
+      "fifaMatchId": "400021511",
+      "stage": "First Stage",
+      "group": "Group L",
+      "utcKickoff": "2026-06-23T23:00:00Z",
+      "localKickoff": "2026-06-23T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Panama",
+        "abbreviation": "PAN",
+        "fifaTeamId": "43914",
+        "countryCode": "PAN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43914",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAN"
+      },
+      "away": {
+        "name": "Croatia",
+        "abbreviation": "CRO",
+        "fifaTeamId": "43938",
+        "countryCode": "CRO",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43938",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO"
+      },
+      "venue": {
+        "name": "Toronto Stadium",
+        "city": "Toronto",
+        "countryCode": "CAN",
+        "timeZone": "America/Toronto"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 47,
+      "fifaMatchId": "400021503",
+      "stage": "First Stage",
+      "group": "Group K",
+      "utcKickoff": "2026-06-23T17:00:00Z",
+      "localKickoff": "2026-06-23T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Portugal",
+        "abbreviation": "POR",
+        "fifaTeamId": "43963",
+        "countryCode": "POR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43963",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/POR"
+      },
+      "away": {
+        "name": "Uzbekistan",
+        "abbreviation": "UZB",
+        "fifaTeamId": "44005",
+        "countryCode": "UZB",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/44005",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/UZB"
+      },
+      "venue": {
+        "name": "Houston Stadium",
+        "city": "Houston",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 48,
+      "fifaMatchId": "400021501",
+      "stage": "First Stage",
+      "group": "Group K",
+      "utcKickoff": "2026-06-24T02:00:00Z",
+      "localKickoff": "2026-06-23T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Colombia",
+        "abbreviation": "COL",
+        "fifaTeamId": "43926",
+        "countryCode": "COL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43926",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/COL"
+      },
+      "away": {
+        "name": "Congo DR",
+        "abbreviation": "COD",
+        "fifaTeamId": "20014",
+        "countryCode": "COD",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/20014",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/COD"
+      },
+      "venue": {
+        "name": "Guadalajara Stadium",
+        "city": "Guadalajara",
+        "countryCode": "MEX",
+        "timeZone": "America/Mexico_City"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 49,
+      "fifaMatchId": "400021455",
+      "stage": "First Stage",
+      "group": "Group C",
+      "utcKickoff": "2026-06-24T22:00:00Z",
+      "localKickoff": "2026-06-24T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Scotland",
+        "abbreviation": "SCO",
+        "fifaTeamId": "43967",
+        "countryCode": "SCO",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43967",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SCO"
+      },
+      "away": {
+        "name": "Brazil",
+        "abbreviation": "BRA",
+        "fifaTeamId": "43924",
+        "countryCode": "BRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43924",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BRA"
+      },
+      "venue": {
+        "name": "Miami Stadium",
+        "city": "Miami",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 50,
+      "fifaMatchId": "400021452",
+      "stage": "First Stage",
+      "group": "Group C",
+      "utcKickoff": "2026-06-24T22:00:00Z",
+      "localKickoff": "2026-06-24T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Morocco",
+        "abbreviation": "MAR",
+        "fifaTeamId": "43872",
+        "countryCode": "MAR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43872",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR"
+      },
+      "away": {
+        "name": "Haiti",
+        "abbreviation": "HAI",
+        "fifaTeamId": "43908",
+        "countryCode": "HAI",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43908",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/HAI"
+      },
+      "venue": {
+        "name": "Atlanta Stadium",
+        "city": "Atlanta",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 51,
+      "fifaMatchId": "400021451",
+      "stage": "First Stage",
+      "group": "Group B",
+      "utcKickoff": "2026-06-24T19:00:00Z",
+      "localKickoff": "2026-06-24T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Switzerland",
+        "abbreviation": "SUI",
+        "fifaTeamId": "43971",
+        "countryCode": "SUI",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43971",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SUI"
+      },
+      "away": {
+        "name": "Canada",
+        "abbreviation": "CAN",
+        "fifaTeamId": "43899",
+        "countryCode": "CAN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43899",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CAN"
+      },
+      "venue": {
+        "name": "BC Place Vancouver",
+        "city": "Vancouver",
+        "countryCode": "CAN",
+        "timeZone": "America/Vancouver"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 52,
+      "fifaMatchId": "400021448",
+      "stage": "First Stage",
+      "group": "Group B",
+      "utcKickoff": "2026-06-24T19:00:00Z",
+      "localKickoff": "2026-06-24T12:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Bosnia and Herzegovina",
+        "abbreviation": "BIH",
+        "fifaTeamId": "44037",
+        "countryCode": "BIH",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/44037",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BIH"
+      },
+      "away": {
+        "name": "Qatar",
+        "abbreviation": "QAT",
+        "fifaTeamId": "43834",
+        "countryCode": "QAT",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43834",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/QAT"
+      },
+      "venue": {
+        "name": "Seattle Stadium",
+        "city": "Seattle",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 53,
+      "fifaMatchId": "400021444",
+      "stage": "First Stage",
+      "group": "Group A",
+      "utcKickoff": "2026-06-25T01:00:00Z",
+      "localKickoff": "2026-06-24T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Czechia",
+        "abbreviation": "CZE",
+        "fifaTeamId": "43995",
+        "countryCode": "CZE",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43995",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CZE"
+      },
+      "away": {
+        "name": "Mexico",
+        "abbreviation": "MEX",
+        "fifaTeamId": "43911",
+        "countryCode": "MEX",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43911",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MEX"
+      },
+      "venue": {
+        "name": "Mexico City Stadium",
+        "city": "Mexico City",
+        "countryCode": "MEX",
+        "timeZone": "America/Mexico_City"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 54,
+      "fifaMatchId": "400021445",
+      "stage": "First Stage",
+      "group": "Group A",
+      "utcKickoff": "2026-06-25T01:00:00Z",
+      "localKickoff": "2026-06-24T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "South Africa",
+        "abbreviation": "RSA",
+        "fifaTeamId": "43883",
+        "countryCode": "RSA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43883",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/RSA"
+      },
+      "away": {
+        "name": "Korea Republic",
+        "abbreviation": "KOR",
+        "fifaTeamId": "43822",
+        "countryCode": "KOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43822",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/KOR"
+      },
+      "venue": {
+        "name": "Monterrey Stadium",
+        "city": "Monterrey",
+        "countryCode": "MEX",
+        "timeZone": "America/Monterrey"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 55,
+      "fifaMatchId": "400021468",
+      "stage": "First Stage",
+      "group": "Group E",
+      "utcKickoff": "2026-06-25T20:00:00Z",
+      "localKickoff": "2026-06-25T16:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Curaçao",
+        "abbreviation": "CUW",
+        "fifaTeamId": "1895293",
+        "countryCode": "CUW",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/1895293",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CUW"
+      },
+      "away": {
+        "name": "Côte d'Ivoire",
+        "abbreviation": "CIV",
+        "fifaTeamId": "43854",
+        "countryCode": "CIV",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43854",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CIV"
+      },
+      "venue": {
+        "name": "Philadelphia Stadium",
+        "city": "Philadelphia",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 56,
+      "fifaMatchId": "400021466",
+      "stage": "First Stage",
+      "group": "Group E",
+      "utcKickoff": "2026-06-25T20:00:00Z",
+      "localKickoff": "2026-06-25T16:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Ecuador",
+        "abbreviation": "ECU",
+        "fifaTeamId": "43927",
+        "countryCode": "ECU",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43927",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU"
+      },
+      "away": {
+        "name": "Germany",
+        "abbreviation": "GER",
+        "fifaTeamId": "43948",
+        "countryCode": "GER",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43948",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER"
+      },
+      "venue": {
+        "name": "New York/New Jersey Stadium",
+        "city": "New York",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 57,
+      "fifaMatchId": "400021471",
+      "stage": "First Stage",
+      "group": "Group F",
+      "utcKickoff": "2026-06-25T23:00:00Z",
+      "localKickoff": "2026-06-25T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Japan",
+        "abbreviation": "JPN",
+        "fifaTeamId": "43819",
+        "countryCode": "JPN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43819",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/JPN"
+      },
+      "away": {
+        "name": "Sweden",
+        "abbreviation": "SWE",
+        "fifaTeamId": "43970",
+        "countryCode": "SWE",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43970",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
+      },
+      "venue": {
+        "name": "Dallas Stadium",
+        "city": "Dallas",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 58,
+      "fifaMatchId": "400021473",
+      "stage": "First Stage",
+      "group": "Group F",
+      "utcKickoff": "2026-06-25T23:00:00Z",
+      "localKickoff": "2026-06-25T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Tunisia",
+        "abbreviation": "TUN",
+        "fifaTeamId": "43888",
+        "countryCode": "TUN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43888",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUN"
+      },
+      "away": {
+        "name": "Netherlands",
+        "abbreviation": "NED",
+        "fifaTeamId": "43960",
+        "countryCode": "NED",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43960",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NED"
+      },
+      "venue": {
+        "name": "Kansas City Stadium",
+        "city": "Kansas City",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 59,
+      "fifaMatchId": "400021459",
+      "stage": "First Stage",
+      "group": "Group D",
+      "utcKickoff": "2026-06-26T02:00:00Z",
+      "localKickoff": "2026-06-25T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Türkiye",
+        "abbreviation": "TUR",
+        "fifaTeamId": "43972",
+        "countryCode": "TUR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43972",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR"
+      },
+      "away": {
+        "name": "USA",
+        "abbreviation": "USA",
+        "fifaTeamId": "43921",
+        "countryCode": "USA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43921",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/USA"
+      },
+      "venue": {
+        "name": "Los Angeles Stadium",
+        "city": "Los Angeles",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 60,
+      "fifaMatchId": "400021461",
+      "stage": "First Stage",
+      "group": "Group D",
+      "utcKickoff": "2026-06-26T02:00:00Z",
+      "localKickoff": "2026-06-25T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Paraguay",
+        "abbreviation": "PAR",
+        "fifaTeamId": "43928",
+        "countryCode": "PAR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43928",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR"
+      },
+      "away": {
+        "name": "Australia",
+        "abbreviation": "AUS",
+        "fifaTeamId": "43976",
+        "countryCode": "AUS",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43976",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUS"
+      },
+      "venue": {
+        "name": "San Francisco Bay Area Stadium",
+        "city": "San Francisco Bay Area",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 61,
+      "fifaMatchId": "400021489",
+      "stage": "First Stage",
+      "group": "Group I",
+      "utcKickoff": "2026-06-26T19:00:00Z",
+      "localKickoff": "2026-06-26T15:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Norway",
+        "abbreviation": "NOR",
+        "fifaTeamId": "43961",
+        "countryCode": "NOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43961",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR"
+      },
+      "away": {
+        "name": "France",
+        "abbreviation": "FRA",
+        "fifaTeamId": "43946",
+        "countryCode": "FRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43946",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA"
+      },
+      "venue": {
+        "name": "Boston Stadium",
+        "city": "Boston",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 62,
+      "fifaMatchId": "400021493",
+      "stage": "First Stage",
+      "group": "Group I",
+      "utcKickoff": "2026-06-26T19:00:00Z",
+      "localKickoff": "2026-06-26T15:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Senegal",
+        "abbreviation": "SEN",
+        "fifaTeamId": "43879",
+        "countryCode": "SEN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43879",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SEN"
+      },
+      "away": {
+        "name": "Iraq",
+        "abbreviation": "IRQ",
+        "fifaTeamId": "43818",
+        "countryCode": "IRQ",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43818",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ"
+      },
+      "venue": {
+        "name": "Toronto Stadium",
+        "city": "Toronto",
+        "countryCode": "CAN",
+        "timeZone": "America/Toronto"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 63,
+      "fifaMatchId": "400021479",
+      "stage": "First Stage",
+      "group": "Group G",
+      "utcKickoff": "2026-06-27T03:00:00Z",
+      "localKickoff": "2026-06-26T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Egypt",
+        "abbreviation": "EGY",
+        "fifaTeamId": "43855",
+        "countryCode": "EGY",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43855",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/EGY"
+      },
+      "away": {
+        "name": "IR Iran",
+        "abbreviation": "IRN",
+        "fifaTeamId": "43817",
+        "countryCode": "IRN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43817",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN"
+      },
+      "venue": {
+        "name": "Seattle Stadium",
+        "city": "Seattle",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 64,
+      "fifaMatchId": "400021481",
+      "stage": "First Stage",
+      "group": "Group G",
+      "utcKickoff": "2026-06-27T03:00:00Z",
+      "localKickoff": "2026-06-26T20:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "New Zealand",
+        "abbreviation": "NZL",
+        "fifaTeamId": "43978",
+        "countryCode": "NZL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43978",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NZL"
+      },
+      "away": {
+        "name": "Belgium",
+        "abbreviation": "BEL",
+        "fifaTeamId": "43935",
+        "countryCode": "BEL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43935",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
+      },
+      "venue": {
+        "name": "BC Place Vancouver",
+        "city": "Vancouver",
+        "countryCode": "CAN",
+        "timeZone": "America/Vancouver"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 65,
+      "fifaMatchId": "400021485",
+      "stage": "First Stage",
+      "group": "Group H",
+      "utcKickoff": "2026-06-27T00:00:00Z",
+      "localKickoff": "2026-06-26T19:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Cabo Verde",
+        "abbreviation": "CPV",
+        "fifaTeamId": "43850",
+        "countryCode": "CPV",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43850",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV"
+      },
+      "away": {
+        "name": "Saudi Arabia",
+        "abbreviation": "KSA",
+        "fifaTeamId": "43835",
+        "countryCode": "KSA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43835",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA"
+      },
+      "venue": {
+        "name": "Houston Stadium",
+        "city": "Houston",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 66,
+      "fifaMatchId": "400021484",
+      "stage": "First Stage",
+      "group": "Group H",
+      "utcKickoff": "2026-06-27T00:00:00Z",
+      "localKickoff": "2026-06-26T18:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Uruguay",
+        "abbreviation": "URU",
+        "fifaTeamId": "43930",
+        "countryCode": "URU",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43930",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/URU"
+      },
+      "away": {
+        "name": "Spain",
+        "abbreviation": "ESP",
+        "fifaTeamId": "43969",
+        "countryCode": "ESP",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43969",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
+      },
+      "venue": {
+        "name": "Guadalajara Stadium",
+        "city": "Guadalajara",
+        "countryCode": "MEX",
+        "timeZone": "America/Mexico_City"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 67,
+      "fifaMatchId": "400021508",
+      "stage": "First Stage",
+      "group": "Group L",
+      "utcKickoff": "2026-06-27T21:00:00Z",
+      "localKickoff": "2026-06-27T17:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Panama",
+        "abbreviation": "PAN",
+        "fifaTeamId": "43914",
+        "countryCode": "PAN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43914",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAN"
+      },
+      "away": {
+        "name": "England",
+        "abbreviation": "ENG",
+        "fifaTeamId": "43942",
+        "countryCode": "ENG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43942",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG"
+      },
+      "venue": {
+        "name": "New York/New Jersey Stadium",
+        "city": "New York",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 68,
+      "fifaMatchId": "400021509",
+      "stage": "First Stage",
+      "group": "Group L",
+      "utcKickoff": "2026-06-27T21:00:00Z",
+      "localKickoff": "2026-06-27T17:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Croatia",
+        "abbreviation": "CRO",
+        "fifaTeamId": "43938",
+        "countryCode": "CRO",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43938",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO"
+      },
+      "away": {
+        "name": "Ghana",
+        "abbreviation": "GHA",
+        "fifaTeamId": "43860",
+        "countryCode": "GHA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43860",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/GHA"
+      },
+      "venue": {
+        "name": "Philadelphia Stadium",
+        "city": "Philadelphia",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 69,
+      "fifaMatchId": "400021497",
+      "stage": "First Stage",
+      "group": "Group J",
+      "utcKickoff": "2026-06-28T02:00:00Z",
+      "localKickoff": "2026-06-27T21:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Algeria",
+        "abbreviation": "ALG",
+        "fifaTeamId": "43843",
+        "countryCode": "ALG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43843",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ALG"
+      },
+      "away": {
+        "name": "Austria",
+        "abbreviation": "AUT",
+        "fifaTeamId": "43934",
+        "countryCode": "AUT",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43934",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUT"
+      },
+      "venue": {
+        "name": "Kansas City Stadium",
+        "city": "Kansas City",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 70,
+      "fifaMatchId": "400021495",
+      "stage": "First Stage",
+      "group": "Group J",
+      "utcKickoff": "2026-06-28T02:00:00Z",
+      "localKickoff": "2026-06-27T21:00:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Jordan",
+        "abbreviation": "JOR",
+        "fifaTeamId": "43820",
+        "countryCode": "JOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43820",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/JOR"
+      },
+      "away": {
+        "name": "Argentina",
+        "abbreviation": "ARG",
+        "fifaTeamId": "43922",
+        "countryCode": "ARG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43922",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ARG"
+      },
+      "venue": {
+        "name": "Dallas Stadium",
+        "city": "Dallas",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 71,
+      "fifaMatchId": "400021505",
+      "stage": "First Stage",
+      "group": "Group K",
+      "utcKickoff": "2026-06-27T23:30:00Z",
+      "localKickoff": "2026-06-27T19:30:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Colombia",
+        "abbreviation": "COL",
+        "fifaTeamId": "43926",
+        "countryCode": "COL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43926",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/COL"
+      },
+      "away": {
+        "name": "Portugal",
+        "abbreviation": "POR",
+        "fifaTeamId": "43963",
+        "countryCode": "POR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43963",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/POR"
+      },
+      "venue": {
+        "name": "Miami Stadium",
+        "city": "Miami",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 72,
+      "fifaMatchId": "400021500",
+      "stage": "First Stage",
+      "group": "Group K",
+      "utcKickoff": "2026-06-27T23:30:00Z",
+      "localKickoff": "2026-06-27T19:30:00Z",
+      "durationMinutes": 120,
+      "home": {
+        "name": "Congo DR",
+        "abbreviation": "COD",
+        "fifaTeamId": "20014",
+        "countryCode": "COD",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/20014",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/COD"
+      },
+      "away": {
+        "name": "Uzbekistan",
+        "abbreviation": "UZB",
+        "fifaTeamId": "44005",
+        "countryCode": "UZB",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/44005",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/UZB"
+      },
+      "venue": {
+        "name": "Atlanta Stadium",
+        "city": "Atlanta",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 73,
+      "fifaMatchId": "400021518",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-06-28T19:00:00Z",
+      "localKickoff": "2026-06-28T12:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group A runner-up",
+        "placeholder": "2A"
+      },
+      "away": {
+        "name": "Group B runner-up",
+        "placeholder": "2B"
+      },
+      "venue": {
+        "name": "Los Angeles Stadium",
+        "city": "Los Angeles",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 74,
+      "fifaMatchId": "400021513",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-06-29T20:30:00Z",
+      "localKickoff": "2026-06-29T16:30:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group E winner",
+        "placeholder": "1E"
+      },
+      "away": {
+        "name": "Best third-place team from Groups A/B/C/D/F",
+        "placeholder": "3ABCDF"
+      },
+      "venue": {
+        "name": "Boston Stadium",
+        "city": "Boston",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 75,
+      "fifaMatchId": "400021522",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-06-30T01:00:00Z",
+      "localKickoff": "2026-06-29T19:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group F winner",
+        "placeholder": "1F"
+      },
+      "away": {
+        "name": "Group C runner-up",
+        "placeholder": "2C"
+      },
+      "venue": {
+        "name": "Monterrey Stadium",
+        "city": "Monterrey",
+        "countryCode": "MEX",
+        "timeZone": "America/Monterrey"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 76,
+      "fifaMatchId": "400021516",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-06-29T17:00:00Z",
+      "localKickoff": "2026-06-29T12:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group C winner",
+        "placeholder": "1C"
+      },
+      "away": {
+        "name": "Group F runner-up",
+        "placeholder": "2F"
+      },
+      "venue": {
+        "name": "Houston Stadium",
+        "city": "Houston",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 77,
+      "fifaMatchId": "400021523",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-06-30T21:00:00Z",
+      "localKickoff": "2026-06-30T17:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group I winner",
+        "placeholder": "1I"
+      },
+      "away": {
+        "name": "Best third-place team from Groups C/D/F/G/H",
+        "placeholder": "3CDFGH"
+      },
+      "venue": {
+        "name": "New York/New Jersey Stadium",
+        "city": "New York",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 78,
+      "fifaMatchId": "400021514",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-06-30T17:00:00Z",
+      "localKickoff": "2026-06-30T12:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group E runner-up",
+        "placeholder": "2E"
+      },
+      "away": {
+        "name": "Group I runner-up",
+        "placeholder": "2I"
+      },
+      "venue": {
+        "name": "Dallas Stadium",
+        "city": "Dallas",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 79,
+      "fifaMatchId": "400021520",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-01T01:00:00Z",
+      "localKickoff": "2026-06-30T19:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group A winner",
+        "placeholder": "1A"
+      },
+      "away": {
+        "name": "Best third-place team from Groups C/E/F/H/I",
+        "placeholder": "3CEFHI"
+      },
+      "venue": {
+        "name": "Mexico City Stadium",
+        "city": "Mexico City",
+        "countryCode": "MEX",
+        "timeZone": "America/Mexico_City"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 80,
+      "fifaMatchId": "400021512",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-01T16:00:00Z",
+      "localKickoff": "2026-07-01T12:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group L winner",
+        "placeholder": "1L"
+      },
+      "away": {
+        "name": "Best third-place team from Groups E/H/I/J/K",
+        "placeholder": "3EHIJK"
+      },
+      "venue": {
+        "name": "Atlanta Stadium",
+        "city": "Atlanta",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 81,
+      "fifaMatchId": "400021524",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-02T00:00:00Z",
+      "localKickoff": "2026-07-01T17:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group D winner",
+        "placeholder": "1D"
+      },
+      "away": {
+        "name": "Best third-place team from Groups B/E/F/I/J",
+        "placeholder": "3BEFIJ"
+      },
+      "venue": {
+        "name": "San Francisco Bay Area Stadium",
+        "city": "San Francisco Bay Area",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 82,
+      "fifaMatchId": "400021525",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-01T20:00:00Z",
+      "localKickoff": "2026-07-01T13:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group G winner",
+        "placeholder": "1G"
+      },
+      "away": {
+        "name": "Best third-place team from Groups A/E/H/I/J",
+        "placeholder": "3AEHIJ"
+      },
+      "venue": {
+        "name": "Seattle Stadium",
+        "city": "Seattle",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 83,
+      "fifaMatchId": "400021526",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-02T23:00:00Z",
+      "localKickoff": "2026-07-02T19:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group K runner-up",
+        "placeholder": "2K"
+      },
+      "away": {
+        "name": "Group L runner-up",
+        "placeholder": "2L"
+      },
+      "venue": {
+        "name": "Toronto Stadium",
+        "city": "Toronto",
+        "countryCode": "CAN",
+        "timeZone": "America/Toronto"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 84,
+      "fifaMatchId": "400021519",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-02T19:00:00Z",
+      "localKickoff": "2026-07-02T12:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group H winner",
+        "placeholder": "1H"
+      },
+      "away": {
+        "name": "Group J runner-up",
+        "placeholder": "2J"
+      },
+      "venue": {
+        "name": "Los Angeles Stadium",
+        "city": "Los Angeles",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 85,
+      "fifaMatchId": "400021527",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-03T03:00:00Z",
+      "localKickoff": "2026-07-02T20:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group B winner",
+        "placeholder": "1B"
+      },
+      "away": {
+        "name": "Best third-place team from Groups E/F/G/I/J",
+        "placeholder": "3EFGIJ"
+      },
+      "venue": {
+        "name": "BC Place Vancouver",
+        "city": "Vancouver",
+        "countryCode": "CAN",
+        "timeZone": "America/Vancouver"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 86,
+      "fifaMatchId": "400021521",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-03T22:00:00Z",
+      "localKickoff": "2026-07-03T18:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group J winner",
+        "placeholder": "1J"
+      },
+      "away": {
+        "name": "Group H runner-up",
+        "placeholder": "2H"
+      },
+      "venue": {
+        "name": "Miami Stadium",
+        "city": "Miami",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 87,
+      "fifaMatchId": "400021517",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-04T01:30:00Z",
+      "localKickoff": "2026-07-03T20:30:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group K winner",
+        "placeholder": "1K"
+      },
+      "away": {
+        "name": "Best third-place team from Groups D/E/I/J/L",
+        "placeholder": "3DEIJL"
+      },
+      "venue": {
+        "name": "Kansas City Stadium",
+        "city": "Kansas City",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 88,
+      "fifaMatchId": "400021515",
+      "stage": "Round of 32",
+      "utcKickoff": "2026-07-03T18:00:00Z",
+      "localKickoff": "2026-07-03T13:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Group D runner-up",
+        "placeholder": "2D"
+      },
+      "away": {
+        "name": "Group G runner-up",
+        "placeholder": "2G"
+      },
+      "venue": {
+        "name": "Dallas Stadium",
+        "city": "Dallas",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 89,
+      "fifaMatchId": "400021533",
+      "stage": "Round of 16",
+      "utcKickoff": "2026-07-04T21:00:00Z",
+      "localKickoff": "2026-07-04T17:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 74",
+        "placeholder": "W74"
+      },
+      "away": {
+        "name": "Winner Match 77",
+        "placeholder": "W77"
+      },
+      "venue": {
+        "name": "Philadelphia Stadium",
+        "city": "Philadelphia",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 90,
+      "fifaMatchId": "400021530",
+      "stage": "Round of 16",
+      "utcKickoff": "2026-07-04T17:00:00Z",
+      "localKickoff": "2026-07-04T12:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 73",
+        "placeholder": "W73"
+      },
+      "away": {
+        "name": "Winner Match 75",
+        "placeholder": "W75"
+      },
+      "venue": {
+        "name": "Houston Stadium",
+        "city": "Houston",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 91,
+      "fifaMatchId": "400021532",
+      "stage": "Round of 16",
+      "utcKickoff": "2026-07-05T20:00:00Z",
+      "localKickoff": "2026-07-05T16:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 76",
+        "placeholder": "W76"
+      },
+      "away": {
+        "name": "Winner Match 78",
+        "placeholder": "W78"
+      },
+      "venue": {
+        "name": "New York/New Jersey Stadium",
+        "city": "New York",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 92,
+      "fifaMatchId": "400021531",
+      "stage": "Round of 16",
+      "utcKickoff": "2026-07-06T00:00:00Z",
+      "localKickoff": "2026-07-05T18:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 79",
+        "placeholder": "W79"
+      },
+      "away": {
+        "name": "Winner Match 80",
+        "placeholder": "W80"
+      },
+      "venue": {
+        "name": "Mexico City Stadium",
+        "city": "Mexico City",
+        "countryCode": "MEX",
+        "timeZone": "America/Mexico_City"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 93,
+      "fifaMatchId": "400021529",
+      "stage": "Round of 16",
+      "utcKickoff": "2026-07-06T19:00:00Z",
+      "localKickoff": "2026-07-06T14:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 83",
+        "placeholder": "W83"
+      },
+      "away": {
+        "name": "Winner Match 84",
+        "placeholder": "W84"
+      },
+      "venue": {
+        "name": "Dallas Stadium",
+        "city": "Dallas",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 94,
+      "fifaMatchId": "400021534",
+      "stage": "Round of 16",
+      "utcKickoff": "2026-07-07T00:00:00Z",
+      "localKickoff": "2026-07-06T17:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 81",
+        "placeholder": "W81"
+      },
+      "away": {
+        "name": "Winner Match 82",
+        "placeholder": "W82"
+      },
+      "venue": {
+        "name": "Seattle Stadium",
+        "city": "Seattle",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 95,
+      "fifaMatchId": "400021528",
+      "stage": "Round of 16",
+      "utcKickoff": "2026-07-07T16:00:00Z",
+      "localKickoff": "2026-07-07T12:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 86",
+        "placeholder": "W86"
+      },
+      "away": {
+        "name": "Winner Match 88",
+        "placeholder": "W88"
+      },
+      "venue": {
+        "name": "Atlanta Stadium",
+        "city": "Atlanta",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 96,
+      "fifaMatchId": "400021535",
+      "stage": "Round of 16",
+      "utcKickoff": "2026-07-07T20:00:00Z",
+      "localKickoff": "2026-07-07T13:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 85",
+        "placeholder": "W85"
+      },
+      "away": {
+        "name": "Winner Match 87",
+        "placeholder": "W87"
+      },
+      "venue": {
+        "name": "BC Place Vancouver",
+        "city": "Vancouver",
+        "countryCode": "CAN",
+        "timeZone": "America/Vancouver"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 97,
+      "fifaMatchId": "400021536",
+      "stage": "Quarter-final",
+      "utcKickoff": "2026-07-09T20:00:00Z",
+      "localKickoff": "2026-07-09T16:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 89",
+        "placeholder": "W89"
+      },
+      "away": {
+        "name": "Winner Match 90",
+        "placeholder": "W90"
+      },
+      "venue": {
+        "name": "Boston Stadium",
+        "city": "Boston",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 98,
+      "fifaMatchId": "400021538",
+      "stage": "Quarter-final",
+      "utcKickoff": "2026-07-10T19:00:00Z",
+      "localKickoff": "2026-07-10T12:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 93",
+        "placeholder": "W93"
+      },
+      "away": {
+        "name": "Winner Match 94",
+        "placeholder": "W94"
+      },
+      "venue": {
+        "name": "Los Angeles Stadium",
+        "city": "Los Angeles",
+        "countryCode": "USA",
+        "timeZone": "America/Los_Angeles"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 99,
+      "fifaMatchId": "400021539",
+      "stage": "Quarter-final",
+      "utcKickoff": "2026-07-11T21:00:00Z",
+      "localKickoff": "2026-07-11T17:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 91",
+        "placeholder": "W91"
+      },
+      "away": {
+        "name": "Winner Match 92",
+        "placeholder": "W92"
+      },
+      "venue": {
+        "name": "Miami Stadium",
+        "city": "Miami",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 100,
+      "fifaMatchId": "400021537",
+      "stage": "Quarter-final",
+      "utcKickoff": "2026-07-12T01:00:00Z",
+      "localKickoff": "2026-07-11T20:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 95",
+        "placeholder": "W95"
+      },
+      "away": {
+        "name": "Winner Match 96",
+        "placeholder": "W96"
+      },
+      "venue": {
+        "name": "Kansas City Stadium",
+        "city": "Kansas City",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 101,
+      "fifaMatchId": "400021541",
+      "stage": "Semi-final",
+      "utcKickoff": "2026-07-14T19:00:00Z",
+      "localKickoff": "2026-07-14T14:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 97",
+        "placeholder": "W97"
+      },
+      "away": {
+        "name": "Winner Match 98",
+        "placeholder": "W98"
+      },
+      "venue": {
+        "name": "Dallas Stadium",
+        "city": "Dallas",
+        "countryCode": "USA",
+        "timeZone": "America/Chicago"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 102,
+      "fifaMatchId": "400021540",
+      "stage": "Semi-final",
+      "utcKickoff": "2026-07-15T19:00:00Z",
+      "localKickoff": "2026-07-15T15:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 99",
+        "placeholder": "W99"
+      },
+      "away": {
+        "name": "Winner Match 100",
+        "placeholder": "W100"
+      },
+      "venue": {
+        "name": "Atlanta Stadium",
+        "city": "Atlanta",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 103,
+      "fifaMatchId": "400021542",
+      "stage": "Play-off for third place",
+      "utcKickoff": "2026-07-18T21:00:00Z",
+      "localKickoff": "2026-07-18T17:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Runner-up Match 101",
+        "placeholder": "RU101"
+      },
+      "away": {
+        "name": "Runner-up Match 102",
+        "placeholder": "RU102"
+      },
+      "venue": {
+        "name": "Miami Stadium",
+        "city": "Miami",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    },
+    {
+      "matchNumber": 104,
+      "fifaMatchId": "400021543",
+      "stage": "Final",
+      "utcKickoff": "2026-07-19T19:00:00Z",
+      "localKickoff": "2026-07-19T15:00:00Z",
+      "durationMinutes": 180,
+      "home": {
+        "name": "Winner Match 101",
+        "placeholder": "W101"
+      },
+      "away": {
+        "name": "Winner Match 102",
+        "placeholder": "W102"
+      },
+      "venue": {
+        "name": "New York/New Jersey Stadium",
+        "city": "New York",
+        "countryCode": "USA",
+        "timeZone": "America/New_York"
+      },
+      "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
+    }
+  ]
+}
