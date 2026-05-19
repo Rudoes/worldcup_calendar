@@ -46,8 +46,8 @@ Build a subscribable calendar URL for Google Calendar containing all 2026 FIFA W
 - [x] Add a scheduled GitHub Actions workflow that regenerates and validates the feed every 12 hours from June 11 through July 19, UTC.
 - [x] Make the generator include scores and winners when FIFA returns result data.
 - [x] Prevent scheduled runs from committing timestamp-only changes when FIFA data is unchanged.
-- [ ] Push the workflow to GitHub.
-- [ ] Verify GitHub accepts and lists the workflow.
+- [x] Push the workflow to GitHub.
+- [x] Verify GitHub accepts and lists the workflow.
 
 ## Verification Gates
 
@@ -71,3 +71,4 @@ Build a subscribable calendar URL for Google Calendar containing all 2026 FIFA W
 - Live verification: GitHub Pages status is `built`, HTTPS is enforced, the ICS URL returns `200 OK` with `Content-Type: text/calendar`, and the live feed contains 104 `VEVENT` entries, 104 UTC start times, 104 UTC end times, 144 image attachments, and Match 104.
 - Added automatic refresh workflow to regenerate the feed every 12 hours from June 11 through July 19, UTC, and commit changes when FIFA data changes.
 - Result support: generated event summaries/descriptions now include scores and winners when FIFA returns them.
+- Manual workflow verification run `26115119602` succeeded, generated and validated 104 events, and exited with `No calendar changes detected.`
