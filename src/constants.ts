@@ -17,6 +17,44 @@ export const UID_DOMAIN = "worldcup-calendar.local";
 export const GROUP_STAGE_DURATION_MINUTES = 120;
 export const KNOCKOUT_DURATION_MINUTES = 180;
 
+export const STADIUM_TIME_ZONES: Record<string, string> = {
+  "400017978": "America/Los_Angeles",
+  "400098290": "America/New_York",
+  "400216606": "America/Los_Angeles",
+  "400222084": "America/Mexico_City",
+  "400238450": "America/Monterrey",
+  "400242032": "America/Toronto",
+  "400248370": "America/Vancouver",
+  "400248622": "America/New_York",
+  "400248623": "America/New_York",
+  "400249385": "America/Chicago",
+  "400252150": "America/Mexico_City",
+  "400254717": "America/Chicago",
+  "400257521": "America/Los_Angeles",
+  "400257525": "America/New_York",
+  "400257526": "America/Chicago",
+  "400257536": "America/New_York"
+};
+
+export const CITY_ID_TIME_ZONES: Record<string, string> = {
+  "400019415": "America/Chicago",
+  "400019416": "America/Los_Angeles",
+  "400021919": "America/New_York",
+  "400021920": "America/Los_Angeles",
+  "400221951": "America/Chicago",
+  "400221953": "America/New_York",
+  "400222090": "America/Monterrey",
+  "400222091": "America/Mexico_City",
+  "400222094": "America/Mexico_City",
+  "400242043": "America/Toronto",
+  "400248375": "America/Vancouver",
+  "400248627": "America/New_York",
+  "400249343": "America/Chicago",
+  "400249345": "America/Los_Angeles",
+  "400254039": "America/New_York",
+  "400256355": "America/New_York"
+};
+
 export const CITY_TIME_ZONES: Record<string, string> = {
   Atlanta: "America/New_York",
   Boston: "America/New_York",

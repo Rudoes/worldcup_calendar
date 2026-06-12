@@ -1,5 +1,14 @@
 # World Cup 2026 Calendar Feed
 
+## Active Hardening Plan: FIFA Venue Label Changes
+
+- [x] Inspect live FIFA stadium fields for stable venue identifiers.
+- [x] Change timezone resolution to prefer FIFA stadium/city IDs over mutable display city labels.
+- [x] Add regression tests for renamed labels and unknown venue failures.
+- [x] Run `npm run build` locally.
+- [ ] Push and rerun the refresh workflow remotely.
+- [ ] Record root cause hardening and verification.
+
 ## Active Fix Plan: Refresh Workflow Failure
 
 - [x] Capture the failing GitHub Actions log and identify the exact failing step.

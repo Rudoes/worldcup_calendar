@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T09:53:14.423Z",
+  "generatedAt": "2026-06-12T10:10:05.362Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -42,6 +42,8 @@
         "name": "Mexico City Stadium",
         "city": "Mexico City",
         "countryCode": "MEX",
+        "fifaStadiumId": "400222084",
+        "fifaCityId": "400222094",
         "timeZone": "America/Mexico_City"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -81,6 +83,8 @@
         "name": "Guadalajara Stadium",
         "city": "Guadalajara",
         "countryCode": "MEX",
+        "fifaStadiumId": "400252150",
+        "fifaCityId": "400222091",
         "timeZone": "America/Mexico_City"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -115,6 +119,8 @@
         "name": "Toronto Stadium",
         "city": "Toronto",
         "countryCode": "CAN",
+        "fifaStadiumId": "400242032",
+        "fifaCityId": "400242043",
         "timeZone": "America/Toronto"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -149,6 +155,8 @@
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
         "countryCode": "USA",
+        "fifaStadiumId": "400017978",
+        "fifaCityId": "400021920",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -183,6 +191,8 @@
         "name": "Boston Stadium",
         "city": "Boston",
         "countryCode": "USA",
+        "fifaStadiumId": "400248623",
+        "fifaCityId": "400221953",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -217,6 +227,8 @@
         "name": "BC Place Vancouver",
         "city": "Vancouver",
         "countryCode": "CAN",
+        "fifaStadiumId": "400248370",
+        "fifaCityId": "400248375",
         "timeZone": "America/Vancouver"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -251,6 +263,8 @@
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
         "countryCode": "USA",
+        "fifaStadiumId": "400257536",
+        "fifaCityId": "400021919",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -285,6 +299,8 @@
         "name": "San Francisco Bay Area Stadium",
         "city": "San Francisco Bay Area",
         "countryCode": "USA",
+        "fifaStadiumId": "400257521",
+        "fifaCityId": "400019416",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -319,6 +335,8 @@
         "name": "Philadelphia Stadium",
         "city": "Philadelphia",
         "countryCode": "USA",
+        "fifaStadiumId": "400248622",
+        "fifaCityId": "400248627",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -353,6 +371,8 @@
         "name": "Houston Stadium",
         "city": "Houston",
         "countryCode": "USA",
+        "fifaStadiumId": "400249385",
+        "fifaCityId": "400249343",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -387,6 +407,8 @@
         "name": "Dallas Stadium",
         "city": "Dallas",
         "countryCode": "USA",
+        "fifaStadiumId": "400257526",
+        "fifaCityId": "400221951",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -421,6 +443,8 @@
         "name": "Monterrey Stadium",
         "city": "Monterrey",
         "countryCode": "MEX",
+        "fifaStadiumId": "400238450",
+        "fifaCityId": "400222090",
         "timeZone": "America/Monterrey"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -455,6 +479,8 @@
         "name": "Miami Stadium",
         "city": "Miami",
         "countryCode": "USA",
+        "fifaStadiumId": "400257525",
+        "fifaCityId": "400254039",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -489,6 +515,8 @@
         "name": "Atlanta Stadium",
         "city": "Atlanta",
         "countryCode": "USA",
+        "fifaStadiumId": "400098290",
+        "fifaCityId": "400256355",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -523,6 +551,8 @@
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
         "countryCode": "USA",
+        "fifaStadiumId": "400017978",
+        "fifaCityId": "400021920",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -557,6 +587,8 @@
         "name": "Seattle Stadium",
         "city": "Seattle",
         "countryCode": "USA",
+        "fifaStadiumId": "400216606",
+        "fifaCityId": "400249345",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -591,6 +623,8 @@
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
         "countryCode": "USA",
+        "fifaStadiumId": "400257536",
+        "fifaCityId": "400021919",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -625,6 +659,8 @@
         "name": "Boston Stadium",
         "city": "Boston",
         "countryCode": "USA",
+        "fifaStadiumId": "400248623",
+        "fifaCityId": "400221953",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -659,6 +695,8 @@
         "name": "Kansas City Stadium",
         "city": "Kansas City",
         "countryCode": "USA",
+        "fifaStadiumId": "400254717",
+        "fifaCityId": "400019415",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -693,6 +731,8 @@
         "name": "San Francisco Bay Area Stadium",
         "city": "San Francisco Bay Area",
         "countryCode": "USA",
+        "fifaStadiumId": "400257521",
+        "fifaCityId": "400019416",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -727,6 +767,8 @@
         "name": "Toronto Stadium",
         "city": "Toronto",
         "countryCode": "CAN",
+        "fifaStadiumId": "400242032",
+        "fifaCityId": "400242043",
         "timeZone": "America/Toronto"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -761,6 +803,8 @@
         "name": "Dallas Stadium",
         "city": "Dallas",
         "countryCode": "USA",
+        "fifaStadiumId": "400257526",
+        "fifaCityId": "400221951",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -795,6 +839,8 @@
         "name": "Houston Stadium",
         "city": "Houston",
         "countryCode": "USA",
+        "fifaStadiumId": "400249385",
+        "fifaCityId": "400249343",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -829,6 +875,8 @@
         "name": "Mexico City Stadium",
         "city": "Mexico City",
         "countryCode": "MEX",
+        "fifaStadiumId": "400222084",
+        "fifaCityId": "400222094",
         "timeZone": "America/Mexico_City"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -863,6 +911,8 @@
         "name": "Atlanta Stadium",
         "city": "Atlanta",
         "countryCode": "USA",
+        "fifaStadiumId": "400098290",
+        "fifaCityId": "400256355",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -897,6 +947,8 @@
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
         "countryCode": "USA",
+        "fifaStadiumId": "400017978",
+        "fifaCityId": "400021920",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -931,6 +983,8 @@
         "name": "BC Place Vancouver",
         "city": "Vancouver",
         "countryCode": "CAN",
+        "fifaStadiumId": "400248370",
+        "fifaCityId": "400248375",
         "timeZone": "America/Vancouver"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -965,6 +1019,8 @@
         "name": "Guadalajara Stadium",
         "city": "Guadalajara",
         "countryCode": "MEX",
+        "fifaStadiumId": "400252150",
+        "fifaCityId": "400222091",
         "timeZone": "America/Mexico_City"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -999,6 +1055,8 @@
         "name": "Philadelphia Stadium",
         "city": "Philadelphia",
         "countryCode": "USA",
+        "fifaStadiumId": "400248622",
+        "fifaCityId": "400248627",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1033,6 +1091,8 @@
         "name": "Boston Stadium",
         "city": "Boston",
         "countryCode": "USA",
+        "fifaStadiumId": "400248623",
+        "fifaCityId": "400221953",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1067,6 +1127,8 @@
         "name": "San Francisco Bay Area Stadium",
         "city": "San Francisco Bay Area",
         "countryCode": "USA",
+        "fifaStadiumId": "400257521",
+        "fifaCityId": "400019416",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1101,6 +1163,8 @@
         "name": "Seattle Stadium",
         "city": "Seattle",
         "countryCode": "USA",
+        "fifaStadiumId": "400216606",
+        "fifaCityId": "400249345",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1135,6 +1199,8 @@
         "name": "Toronto Stadium",
         "city": "Toronto",
         "countryCode": "CAN",
+        "fifaStadiumId": "400242032",
+        "fifaCityId": "400242043",
         "timeZone": "America/Toronto"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1169,6 +1235,8 @@
         "name": "Kansas City Stadium",
         "city": "Kansas City",
         "countryCode": "USA",
+        "fifaStadiumId": "400254717",
+        "fifaCityId": "400019415",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1203,6 +1271,8 @@
         "name": "Houston Stadium",
         "city": "Houston",
         "countryCode": "USA",
+        "fifaStadiumId": "400249385",
+        "fifaCityId": "400249343",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1237,6 +1307,8 @@
         "name": "Monterrey Stadium",
         "city": "Monterrey",
         "countryCode": "MEX",
+        "fifaStadiumId": "400238450",
+        "fifaCityId": "400222090",
         "timeZone": "America/Monterrey"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1271,6 +1343,8 @@
         "name": "Miami Stadium",
         "city": "Miami",
         "countryCode": "USA",
+        "fifaStadiumId": "400257525",
+        "fifaCityId": "400254039",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1305,6 +1379,8 @@
         "name": "Atlanta Stadium",
         "city": "Atlanta",
         "countryCode": "USA",
+        "fifaStadiumId": "400098290",
+        "fifaCityId": "400256355",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1339,6 +1415,8 @@
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
         "countryCode": "USA",
+        "fifaStadiumId": "400017978",
+        "fifaCityId": "400021920",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1373,6 +1451,8 @@
         "name": "BC Place Vancouver",
         "city": "Vancouver",
         "countryCode": "CAN",
+        "fifaStadiumId": "400248370",
+        "fifaCityId": "400248375",
         "timeZone": "America/Vancouver"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1407,6 +1487,8 @@
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
         "countryCode": "USA",
+        "fifaStadiumId": "400257536",
+        "fifaCityId": "400021919",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1441,6 +1523,8 @@
         "name": "Philadelphia Stadium",
         "city": "Philadelphia",
         "countryCode": "USA",
+        "fifaStadiumId": "400248622",
+        "fifaCityId": "400248627",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1475,6 +1559,8 @@
         "name": "Dallas Stadium",
         "city": "Dallas",
         "countryCode": "USA",
+        "fifaStadiumId": "400257526",
+        "fifaCityId": "400221951",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1509,6 +1595,8 @@
         "name": "San Francisco Bay Area Stadium",
         "city": "San Francisco Bay Area",
         "countryCode": "USA",
+        "fifaStadiumId": "400257521",
+        "fifaCityId": "400019416",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1543,6 +1631,8 @@
         "name": "Boston Stadium",
         "city": "Boston",
         "countryCode": "USA",
+        "fifaStadiumId": "400248623",
+        "fifaCityId": "400221953",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1577,6 +1667,8 @@
         "name": "Toronto Stadium",
         "city": "Toronto",
         "countryCode": "CAN",
+        "fifaStadiumId": "400242032",
+        "fifaCityId": "400242043",
         "timeZone": "America/Toronto"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1611,6 +1703,8 @@
         "name": "Houston Stadium",
         "city": "Houston",
         "countryCode": "USA",
+        "fifaStadiumId": "400249385",
+        "fifaCityId": "400249343",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1645,6 +1739,8 @@
         "name": "Guadalajara Stadium",
         "city": "Guadalajara",
         "countryCode": "MEX",
+        "fifaStadiumId": "400252150",
+        "fifaCityId": "400222091",
         "timeZone": "America/Mexico_City"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1679,6 +1775,8 @@
         "name": "Miami Stadium",
         "city": "Miami",
         "countryCode": "USA",
+        "fifaStadiumId": "400257525",
+        "fifaCityId": "400254039",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1713,6 +1811,8 @@
         "name": "Atlanta Stadium",
         "city": "Atlanta",
         "countryCode": "USA",
+        "fifaStadiumId": "400098290",
+        "fifaCityId": "400256355",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1747,6 +1847,8 @@
         "name": "BC Place Vancouver",
         "city": "Vancouver",
         "countryCode": "CAN",
+        "fifaStadiumId": "400248370",
+        "fifaCityId": "400248375",
         "timeZone": "America/Vancouver"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1781,6 +1883,8 @@
         "name": "Seattle Stadium",
         "city": "Seattle",
         "countryCode": "USA",
+        "fifaStadiumId": "400216606",
+        "fifaCityId": "400249345",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1815,6 +1919,8 @@
         "name": "Mexico City Stadium",
         "city": "Mexico City",
         "countryCode": "MEX",
+        "fifaStadiumId": "400222084",
+        "fifaCityId": "400222094",
         "timeZone": "America/Mexico_City"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1849,6 +1955,8 @@
         "name": "Monterrey Stadium",
         "city": "Monterrey",
         "countryCode": "MEX",
+        "fifaStadiumId": "400238450",
+        "fifaCityId": "400222090",
         "timeZone": "America/Monterrey"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1883,6 +1991,8 @@
         "name": "Philadelphia Stadium",
         "city": "Philadelphia",
         "countryCode": "USA",
+        "fifaStadiumId": "400248622",
+        "fifaCityId": "400248627",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1917,6 +2027,8 @@
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
         "countryCode": "USA",
+        "fifaStadiumId": "400257536",
+        "fifaCityId": "400021919",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1951,6 +2063,8 @@
         "name": "Dallas Stadium",
         "city": "Dallas",
         "countryCode": "USA",
+        "fifaStadiumId": "400257526",
+        "fifaCityId": "400221951",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -1985,6 +2099,8 @@
         "name": "Kansas City Stadium",
         "city": "Kansas City",
         "countryCode": "USA",
+        "fifaStadiumId": "400254717",
+        "fifaCityId": "400019415",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2019,6 +2135,8 @@
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
         "countryCode": "USA",
+        "fifaStadiumId": "400017978",
+        "fifaCityId": "400021920",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2053,6 +2171,8 @@
         "name": "San Francisco Bay Area Stadium",
         "city": "San Francisco Bay Area",
         "countryCode": "USA",
+        "fifaStadiumId": "400257521",
+        "fifaCityId": "400019416",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2087,6 +2207,8 @@
         "name": "Boston Stadium",
         "city": "Boston",
         "countryCode": "USA",
+        "fifaStadiumId": "400248623",
+        "fifaCityId": "400221953",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2121,6 +2243,8 @@
         "name": "Toronto Stadium",
         "city": "Toronto",
         "countryCode": "CAN",
+        "fifaStadiumId": "400242032",
+        "fifaCityId": "400242043",
         "timeZone": "America/Toronto"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2155,6 +2279,8 @@
         "name": "Seattle Stadium",
         "city": "Seattle",
         "countryCode": "USA",
+        "fifaStadiumId": "400216606",
+        "fifaCityId": "400249345",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2189,6 +2315,8 @@
         "name": "BC Place Vancouver",
         "city": "Vancouver",
         "countryCode": "CAN",
+        "fifaStadiumId": "400248370",
+        "fifaCityId": "400248375",
         "timeZone": "America/Vancouver"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2223,6 +2351,8 @@
         "name": "Houston Stadium",
         "city": "Houston",
         "countryCode": "USA",
+        "fifaStadiumId": "400249385",
+        "fifaCityId": "400249343",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2257,6 +2387,8 @@
         "name": "Guadalajara Stadium",
         "city": "Guadalajara",
         "countryCode": "MEX",
+        "fifaStadiumId": "400252150",
+        "fifaCityId": "400222091",
         "timeZone": "America/Mexico_City"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2291,6 +2423,8 @@
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
         "countryCode": "USA",
+        "fifaStadiumId": "400257536",
+        "fifaCityId": "400021919",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2325,6 +2459,8 @@
         "name": "Philadelphia Stadium",
         "city": "Philadelphia",
         "countryCode": "USA",
+        "fifaStadiumId": "400248622",
+        "fifaCityId": "400248627",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2359,6 +2495,8 @@
         "name": "Kansas City Stadium",
         "city": "Kansas City",
         "countryCode": "USA",
+        "fifaStadiumId": "400254717",
+        "fifaCityId": "400019415",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2393,6 +2531,8 @@
         "name": "Dallas Stadium",
         "city": "Dallas",
         "countryCode": "USA",
+        "fifaStadiumId": "400257526",
+        "fifaCityId": "400221951",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2427,6 +2567,8 @@
         "name": "Miami Stadium",
         "city": "Miami",
         "countryCode": "USA",
+        "fifaStadiumId": "400257525",
+        "fifaCityId": "400254039",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2461,6 +2603,8 @@
         "name": "Atlanta Stadium",
         "city": "Atlanta",
         "countryCode": "USA",
+        "fifaStadiumId": "400098290",
+        "fifaCityId": "400256355",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2486,6 +2630,8 @@
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
         "countryCode": "USA",
+        "fifaStadiumId": "400017978",
+        "fifaCityId": "400021920",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2511,6 +2657,8 @@
         "name": "Boston Stadium",
         "city": "Boston",
         "countryCode": "USA",
+        "fifaStadiumId": "400248623",
+        "fifaCityId": "400221953",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2536,6 +2684,8 @@
         "name": "Monterrey Stadium",
         "city": "Monterrey",
         "countryCode": "MEX",
+        "fifaStadiumId": "400238450",
+        "fifaCityId": "400222090",
         "timeZone": "America/Monterrey"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2561,6 +2711,8 @@
         "name": "Houston Stadium",
         "city": "Houston",
         "countryCode": "USA",
+        "fifaStadiumId": "400249385",
+        "fifaCityId": "400249343",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2586,6 +2738,8 @@
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
         "countryCode": "USA",
+        "fifaStadiumId": "400257536",
+        "fifaCityId": "400021919",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2611,6 +2765,8 @@
         "name": "Dallas Stadium",
         "city": "Dallas",
         "countryCode": "USA",
+        "fifaStadiumId": "400257526",
+        "fifaCityId": "400221951",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2636,6 +2792,8 @@
         "name": "Mexico City Stadium",
         "city": "Mexico City",
         "countryCode": "MEX",
+        "fifaStadiumId": "400222084",
+        "fifaCityId": "400222094",
         "timeZone": "America/Mexico_City"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2661,6 +2819,8 @@
         "name": "Atlanta Stadium",
         "city": "Atlanta",
         "countryCode": "USA",
+        "fifaStadiumId": "400098290",
+        "fifaCityId": "400256355",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2686,6 +2846,8 @@
         "name": "San Francisco Bay Area Stadium",
         "city": "San Francisco Bay Area",
         "countryCode": "USA",
+        "fifaStadiumId": "400257521",
+        "fifaCityId": "400019416",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2711,6 +2873,8 @@
         "name": "Seattle Stadium",
         "city": "Seattle",
         "countryCode": "USA",
+        "fifaStadiumId": "400216606",
+        "fifaCityId": "400249345",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2736,6 +2900,8 @@
         "name": "Toronto Stadium",
         "city": "Toronto",
         "countryCode": "CAN",
+        "fifaStadiumId": "400242032",
+        "fifaCityId": "400242043",
         "timeZone": "America/Toronto"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2761,6 +2927,8 @@
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
         "countryCode": "USA",
+        "fifaStadiumId": "400017978",
+        "fifaCityId": "400021920",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2786,6 +2954,8 @@
         "name": "BC Place Vancouver",
         "city": "Vancouver",
         "countryCode": "CAN",
+        "fifaStadiumId": "400248370",
+        "fifaCityId": "400248375",
         "timeZone": "America/Vancouver"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2811,6 +2981,8 @@
         "name": "Miami Stadium",
         "city": "Miami",
         "countryCode": "USA",
+        "fifaStadiumId": "400257525",
+        "fifaCityId": "400254039",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2836,6 +3008,8 @@
         "name": "Kansas City Stadium",
         "city": "Kansas City",
         "countryCode": "USA",
+        "fifaStadiumId": "400254717",
+        "fifaCityId": "400019415",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2861,6 +3035,8 @@
         "name": "Dallas Stadium",
         "city": "Dallas",
         "countryCode": "USA",
+        "fifaStadiumId": "400257526",
+        "fifaCityId": "400221951",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2886,6 +3062,8 @@
         "name": "Philadelphia Stadium",
         "city": "Philadelphia",
         "countryCode": "USA",
+        "fifaStadiumId": "400248622",
+        "fifaCityId": "400248627",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2911,6 +3089,8 @@
         "name": "Houston Stadium",
         "city": "Houston",
         "countryCode": "USA",
+        "fifaStadiumId": "400249385",
+        "fifaCityId": "400249343",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2936,6 +3116,8 @@
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
         "countryCode": "USA",
+        "fifaStadiumId": "400257536",
+        "fifaCityId": "400021919",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2961,6 +3143,8 @@
         "name": "Mexico City Stadium",
         "city": "Mexico City",
         "countryCode": "MEX",
+        "fifaStadiumId": "400222084",
+        "fifaCityId": "400222094",
         "timeZone": "America/Mexico_City"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -2986,6 +3170,8 @@
         "name": "Dallas Stadium",
         "city": "Dallas",
         "countryCode": "USA",
+        "fifaStadiumId": "400257526",
+        "fifaCityId": "400221951",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3011,6 +3197,8 @@
         "name": "Seattle Stadium",
         "city": "Seattle",
         "countryCode": "USA",
+        "fifaStadiumId": "400216606",
+        "fifaCityId": "400249345",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3036,6 +3224,8 @@
         "name": "Atlanta Stadium",
         "city": "Atlanta",
         "countryCode": "USA",
+        "fifaStadiumId": "400098290",
+        "fifaCityId": "400256355",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3061,6 +3251,8 @@
         "name": "BC Place Vancouver",
         "city": "Vancouver",
         "countryCode": "CAN",
+        "fifaStadiumId": "400248370",
+        "fifaCityId": "400248375",
         "timeZone": "America/Vancouver"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3086,6 +3278,8 @@
         "name": "Boston Stadium",
         "city": "Boston",
         "countryCode": "USA",
+        "fifaStadiumId": "400248623",
+        "fifaCityId": "400221953",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3111,6 +3305,8 @@
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
         "countryCode": "USA",
+        "fifaStadiumId": "400017978",
+        "fifaCityId": "400021920",
         "timeZone": "America/Los_Angeles"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3136,6 +3332,8 @@
         "name": "Miami Stadium",
         "city": "Miami",
         "countryCode": "USA",
+        "fifaStadiumId": "400257525",
+        "fifaCityId": "400254039",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3161,6 +3359,8 @@
         "name": "Kansas City Stadium",
         "city": "Kansas City",
         "countryCode": "USA",
+        "fifaStadiumId": "400254717",
+        "fifaCityId": "400019415",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3186,6 +3386,8 @@
         "name": "Dallas Stadium",
         "city": "Dallas",
         "countryCode": "USA",
+        "fifaStadiumId": "400257526",
+        "fifaCityId": "400221951",
         "timeZone": "America/Chicago"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3211,6 +3413,8 @@
         "name": "Atlanta Stadium",
         "city": "Atlanta",
         "countryCode": "USA",
+        "fifaStadiumId": "400098290",
+        "fifaCityId": "400256355",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3236,6 +3440,8 @@
         "name": "Miami Stadium",
         "city": "Miami",
         "countryCode": "USA",
+        "fifaStadiumId": "400257525",
+        "fifaCityId": "400254039",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"
@@ -3261,6 +3467,8 @@
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
         "countryCode": "USA",
+        "fifaStadiumId": "400257536",
+        "fifaCityId": "400021919",
         "timeZone": "America/New_York"
       },
       "sourceUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200"

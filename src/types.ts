@@ -13,7 +13,9 @@ export interface FifaTeam {
 }
 
 export interface FifaStadium {
+  IdStadium?: string;
   Name?: FifaLocalizedText[];
+  IdCity?: string;
   CityName?: FifaLocalizedText[];
   IdCountry?: string;
 }
@@ -66,6 +68,8 @@ export interface Venue {
   name: string;
   city: string;
   countryCode?: string;
+  fifaStadiumId?: string;
+  fifaCityId?: string;
   timeZone: string;
 }
 

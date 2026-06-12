@@ -1,15 +1,18 @@
 import {
+  CITY_ID_TIME_ZONES,
   CITY_TIME_ZONES,
   EXPECTED_MATCH_COUNT,
   FIFA_API_URL,
   FIFA_SCHEDULE_PAGE,
   FIFA_SCHEDULE_PDF,
   GROUP_STAGE_DURATION_MINUTES,
-  KNOCKOUT_DURATION_MINUTES
+  KNOCKOUT_DURATION_MINUTES,
+  STADIUM_TIME_ZONES
 } from "./constants.ts";
 import type {
   FifaCalendarResponse,
   FifaMatch,
+  FifaStadium,
   FifaTeam,
   NormalizedDataFile,
   NormalizedMatch,
@@ -60,7 +63,7 @@ function normalizeMatch(match: FifaMatch): NormalizedMatch {
   const group = localized(match.GroupName);
   const venueName = localized(match.Stadium?.Name) ?? "Unknown venue";
   const city = localized(match.Stadium?.CityName) ?? "Unknown city";
-  const timeZone = CITY_TIME_ZONES[city] ?? "UTC";
+  const timeZone = resolveVenueTimeZone(match.Stadium);
 
   return {
     matchNumber: match.MatchNumber,
@@ -80,10 +83,37 @@ function normalizeMatch(match: FifaMatch): NormalizedMatch {
       name: venueName,
       city,
       countryCode: match.Stadium?.IdCountry,
+      fifaStadiumId: match.Stadium?.IdStadium,
+      fifaCityId: match.Stadium?.IdCity,
       timeZone
     },
     sourceUrl: FIFA_API_URL
   };
+}
+
+export function resolveVenueTimeZone(stadium: FifaStadium | null | undefined): string {
+  const stadiumId = stadium?.IdStadium;
+  if (stadiumId && STADIUM_TIME_ZONES[stadiumId]) {
+    return STADIUM_TIME_ZONES[stadiumId];
+  }
+
+  const cityId = stadium?.IdCity;
+  if (cityId && CITY_ID_TIME_ZONES[cityId]) {
+    return CITY_ID_TIME_ZONES[cityId];
+  }
+
+  const city = localized(stadium?.CityName);
+  if (city && CITY_TIME_ZONES[city]) {
+    return CITY_TIME_ZONES[city];
+  }
+
+  const venueName = localized(stadium?.Name) ?? "unknown venue";
+  const idDetail = [
+    stadiumId ? `stadium ID ${stadiumId}` : "missing stadium ID",
+    cityId ? `city ID ${cityId}` : "missing city ID",
+    city ? `city ${city}` : "missing city"
+  ].join(", ");
+  throw new Error(`Missing venue timezone mapping for ${venueName} (${idDetail}).`);
 }
 
 function normalizeScore(match: FifaMatch): NormalizedMatch["score"] {

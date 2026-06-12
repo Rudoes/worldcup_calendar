@@ -19,7 +19,8 @@
 - Competition ID: `17`.
 - Season ID: `285023`.
 - Expected match count: `104`.
-- FIFA currently returns `New York/New Jersey Stadium` with city `New Jersey`; map that venue label to `America/New_York`.
+- Timezone resolution should prefer FIFA stadium/city IDs over mutable city labels.
+- FIFA currently returns `New York/New Jersey Stadium` with city `New Jersey`; map that venue to `America/New_York`.
 
 ## Workflow
 
