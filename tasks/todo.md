@@ -1,5 +1,23 @@
 # World Cup 2026 Calendar Feed
 
+## Active Fix Plan: Refresh Workflow Failure
+
+- [x] Capture the failing GitHub Actions log and identify the exact failing step.
+- [x] Reproduce the failure locally with the current FIFA data.
+- [x] Inspect venue/city values returned by FIFA for unmapped timezone cases.
+- [x] Fix the timezone mapping with the smallest deterministic code/data change.
+- [x] Run `npm run build` and inspect generated file changes.
+- [x] Record root cause, fix, and verification in this file.
+
+## Refresh Workflow Failure Review
+
+- Failing run: GitHub Actions run `27395750209` failed in `npm run validate`.
+- Symptom: validator rejected `Missing venue timezone mapping for New Jersey.`
+- Root cause: FIFA changed the `New York/New Jersey Stadium` city label from `New York` to `New Jersey`; `CITY_TIME_ZONES` only mapped the old `New York` label, so New Jersey events fell back to `UTC`.
+- Fix: added `New Jersey -> America/New_York` to the venue timezone map and added a no-dependency regression test for known FIFA host city labels.
+- Generated output: refreshed `data/fifa-2026-matches.json` and `docs/worldcup-2026.ics` from current FIFA data; all 8 New Jersey matches now use `America/New_York`.
+- Verification: `npm run build` passed, including the timezone mapping test, generation of 104 matches, and validation of 104 calendar events.
+
 ## Goal
 
 Build a subscribable calendar URL for Google Calendar containing all 2026 FIFA World Cup matches, including kickoff times, teams, venues, and team logo references where technically supported by calendar clients.

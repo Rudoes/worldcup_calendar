@@ -28,6 +28,7 @@ export const CITY_TIME_ZONES: Record<string, string> = {
   "Mexico City": "America/Mexico_City",
   Miami: "America/New_York",
   Monterrey: "America/Monterrey",
+  "New Jersey": "America/New_York",
   "New York": "America/New_York",
   Philadelphia: "America/New_York",
   "San Francisco": "America/Los_Angeles",

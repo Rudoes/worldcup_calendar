@@ -25,6 +25,7 @@
 - FIFA API URL: `https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200`.
 - Official schedule page: `https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums`.
 - Official schedule PDF: `https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf`.
+- FIFA currently returns `New York/New Jersey Stadium` with city `New Jersey`; map that venue label to `America/New_York`.
 
 ## Workflow
 
