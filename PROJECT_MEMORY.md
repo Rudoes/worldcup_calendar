@@ -27,6 +27,7 @@
 - Official schedule PDF: `https://digitalhub.fifa.com/m/1be9ce37eb98fcc5/original/FWC26-Match-Schedule_English.pdf`.
 - Timezone resolution should prefer FIFA stadium/city IDs over mutable city labels.
 - FIFA currently returns `New York/New Jersey Stadium` with city `New Jersey`; map that venue to `America/New_York`.
+- Do not use Unicode flag emoji in event titles; Google Calendar may render them as country-code letters on some clients.
 
 ## Workflow
 

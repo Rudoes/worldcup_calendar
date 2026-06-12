@@ -86,15 +86,19 @@ test("formats scored event summaries with goals next to team names", () => {
     winner: "home"
   });
 
-  assert.equal(summary, "🇲🇽 Mexico (2) - 🇿🇦 South Africa (0)");
+  assert.equal(summary, "Mexico (2) - South Africa (0)");
 });
 
 test("formats unscored event summaries without match number prefixes", () => {
-  assert.equal(summaryFor(baseMatch), "🇲🇽 Mexico - 🇿🇦 South Africa");
+  assert.equal(summaryFor(baseMatch), "Mexico - South Africa");
 });
 
 test("does not include Match prefixes in event summaries", () => {
   assert.doesNotMatch(summaryFor(baseMatch), /^Match \d+:/);
+});
+
+test("does not include unsupported flag emoji in event summaries", () => {
+  assert.doesNotMatch(summaryFor(baseMatch), /[\u{1F1E6}-\u{1F1FF}\u{E0000}-\u{E007F}]/u);
 });
 
 test("omits image and source URLs from event descriptions", () => {

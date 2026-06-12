@@ -21,6 +21,7 @@
 - Expected match count: `104`.
 - Timezone resolution should prefer FIFA stadium/city IDs over mutable city labels.
 - FIFA currently returns `New York/New Jersey Stadium` with city `New Jersey`; map that venue to `America/New_York`.
+- Do not use Unicode flag emoji in event titles; Google Calendar may render them as country-code letters on some clients.
 
 ## Workflow
 

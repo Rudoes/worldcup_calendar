@@ -15,7 +15,7 @@ DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇲🇽 Mexico (2) - 🇿🇦 South Africa (0)
+SUMMARY:Mexico (2) - South Africa (0)
 LOCATION:Mexico City Stadium\, Mexico City\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 1\nStage: First Stage\nGroup: Group A
  \nTeams: Mexico (MEX) vs South Africa (RSA)\nScore: Mexico 2-0 South Afric
@@ -43,7 +43,7 @@ DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇰🇷 Korea Republic (2) - 🇨🇿 Czechia (1)
+SUMMARY:Korea Republic (2) - Czechia (1)
 LOCATION:Guadalajara Stadium\, Guadalajara\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 2\nStage: First Stage\nGroup: Group A
  \nTeams: Korea Republic (KOR) vs Czechia (CZE)\nScore: Korea Republic 2-1 
@@ -71,7 +71,7 @@ DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇦 Canada - 🇧🇦 Bosnia and Herzegovina
+SUMMARY:Canada - Bosnia and Herzegovina
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 3\nStage: First Stage\nGroup: Group B
  \nTeams: Canada (CAN) vs Bosnia and Herzegovina (BIH)\nKickoff (UTC): 2026
@@ -98,7 +98,7 @@ DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇺🇸 USA - 🇵🇾 Paraguay
+SUMMARY:USA - Paraguay
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 4\nStage: First Stage\nGroup: Group D
  \nTeams: USA (USA) vs Paraguay (PAR)\nKickoff (UTC): 2026-06-13 01:00:00 U
@@ -125,7 +125,7 @@ DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇭🇹 Haiti - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+SUMMARY:Haiti - Scotland
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 5\nStage: First Stage\nGroup: Group C
  \nTeams: Haiti (HAI) vs Scotland (SCO)\nKickoff (UTC): 2026-06-14 01:00:00
@@ -152,7 +152,7 @@ DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇦🇺 Australia - 🇹🇷 Türkiye
+SUMMARY:Australia - Türkiye
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 6\nStage: First Stage\nGroup: Group D
  \nTeams: Australia (AUS) vs Türkiye (TUR)\nKickoff (UTC): 2026-06-14 04:0
@@ -179,7 +179,7 @@ DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇧🇷 Brazil - 🇲🇦 Morocco
+SUMMARY:Brazil - Morocco
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 7\nStage: First Stage\nGroup: Group C
  \nTeams: Brazil (BRA) vs Morocco (MAR)\nKickoff (UTC): 2026-06-13 22:00:00
@@ -206,7 +206,7 @@ DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇶🇦 Qatar - 🇨🇭 Switzerland
+SUMMARY:Qatar - Switzerland
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 8\nStage: First Stage\nGroup: Group B
  \nTeams: Qatar (QAT) vs Switzerland (SUI)\nKickoff (UTC): 2026-06-13 19:00
@@ -233,7 +233,7 @@ DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇮 Côte d'Ivoire - 🇪🇨 Ecuador
+SUMMARY:Côte d'Ivoire - Ecuador
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 9\nStage: First Stage\nGroup: Group E
  \nTeams: Côte d'Ivoire (CIV) vs Ecuador (ECU)\nKickoff (UTC): 2026-06-14 
@@ -260,7 +260,7 @@ DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇩🇪 Germany - 🇨🇼 Curaçao
+SUMMARY:Germany - Curaçao
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 10\nStage: First Stage\nGroup: Group 
  E\nTeams: Germany (GER) vs Curaçao (CUW)\nKickoff (UTC): 2026-06-14 17:00
@@ -287,7 +287,7 @@ DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇳🇱 Netherlands - 🇯🇵 Japan
+SUMMARY:Netherlands - Japan
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 11\nStage: First Stage\nGroup: Group 
  F\nTeams: Netherlands (NED) vs Japan (JPN)\nKickoff (UTC): 2026-06-14 20:0
@@ -314,7 +314,7 @@ DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇸🇪 Sweden - 🇹🇳 Tunisia
+SUMMARY:Sweden - Tunisia
 LOCATION:Monterrey Stadium\, Monterrey\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 12\nStage: First Stage\nGroup: Group 
  F\nTeams: Sweden (SWE) vs Tunisia (TUN)\nKickoff (UTC): 2026-06-15 02:00:0
@@ -341,7 +341,7 @@ DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇸🇦 Saudi Arabia - 🇺🇾 Uruguay
+SUMMARY:Saudi Arabia - Uruguay
 LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 13\nStage: First Stage\nGroup: Group 
  H\nTeams: Saudi Arabia (KSA) vs Uruguay (URU)\nKickoff (UTC): 2026-06-15 2
@@ -368,7 +368,7 @@ DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇪🇸 Spain - 🇨🇻 Cabo Verde
+SUMMARY:Spain - Cabo Verde
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 14\nStage: First Stage\nGroup: Group 
  H\nTeams: Spain (ESP) vs Cabo Verde (CPV)\nKickoff (UTC): 2026-06-15 16:00
@@ -395,7 +395,7 @@ DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇮🇷 IR Iran - 🇳🇿 New Zealand
+SUMMARY:IR Iran - New Zealand
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 15\nStage: First Stage\nGroup: Group 
  G\nTeams: IR Iran (IRN) vs New Zealand (NZL)\nKickoff (UTC): 2026-06-16 01
@@ -422,7 +422,7 @@ DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇧🇪 Belgium - 🇪🇬 Egypt
+SUMMARY:Belgium - Egypt
 LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 16\nStage: First Stage\nGroup: Group 
  G\nTeams: Belgium (BEL) vs Egypt (EGY)\nKickoff (UTC): 2026-06-15 19:00:00
@@ -449,7 +449,7 @@ DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇫🇷 France - 🇸🇳 Senegal
+SUMMARY:France - Senegal
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 17\nStage: First Stage\nGroup: Group 
  I\nTeams: France (FRA) vs Senegal (SEN)\nKickoff (UTC): 2026-06-16 19:00:0
@@ -476,7 +476,7 @@ DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇮🇶 Iraq - 🇳🇴 Norway
+SUMMARY:Iraq - Norway
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 18\nStage: First Stage\nGroup: Group 
  I\nTeams: Iraq (IRQ) vs Norway (NOR)\nKickoff (UTC): 2026-06-16 22:00:00 U
@@ -503,7 +503,7 @@ DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇦🇷 Argentina - 🇩🇿 Algeria
+SUMMARY:Argentina - Algeria
 LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 19\nStage: First Stage\nGroup: Group 
  J\nTeams: Argentina (ARG) vs Algeria (ALG)\nKickoff (UTC): 2026-06-17 01:0
@@ -530,7 +530,7 @@ DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇦🇹 Austria - 🇯🇴 Jordan
+SUMMARY:Austria - Jordan
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 20\nStage: First Stage\nGroup: Group 
  J\nTeams: Austria (AUT) vs Jordan (JOR)\nKickoff (UTC): 2026-06-17 04:00:0
@@ -557,7 +557,7 @@ DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇬🇭 Ghana - 🇵🇦 Panama
+SUMMARY:Ghana - Panama
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 21\nStage: First Stage\nGroup: Group 
  L\nTeams: Ghana (GHA) vs Panama (PAN)\nKickoff (UTC): 2026-06-17 23:00:00 
@@ -584,7 +584,7 @@ DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England - 🇭🇷 Croatia
+SUMMARY:England - Croatia
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 22\nStage: First Stage\nGroup: Group 
  L\nTeams: England (ENG) vs Croatia (CRO)\nKickoff (UTC): 2026-06-17 20:00:
@@ -611,7 +611,7 @@ DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇵🇹 Portugal - 🇨🇩 Congo DR
+SUMMARY:Portugal - Congo DR
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 23\nStage: First Stage\nGroup: Group 
  K\nTeams: Portugal (POR) vs Congo DR (COD)\nKickoff (UTC): 2026-06-17 17:0
@@ -638,7 +638,7 @@ DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇺🇿 Uzbekistan - 🇨🇴 Colombia
+SUMMARY:Uzbekistan - Colombia
 LOCATION:Mexico City Stadium\, Mexico City\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 24\nStage: First Stage\nGroup: Group 
  K\nTeams: Uzbekistan (UZB) vs Colombia (COL)\nKickoff (UTC): 2026-06-18 02
@@ -665,7 +665,7 @@ DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇿 Czechia - 🇿🇦 South Africa
+SUMMARY:Czechia - South Africa
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 25\nStage: First Stage\nGroup: Group 
  A\nTeams: Czechia (CZE) vs South Africa (RSA)\nKickoff (UTC): 2026-06-18 1
@@ -692,7 +692,7 @@ DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇭 Switzerland - 🇧🇦 Bosnia and Herzegovina
+SUMMARY:Switzerland - Bosnia and Herzegovina
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 26\nStage: First Stage\nGroup: Group 
  B\nTeams: Switzerland (SUI) vs Bosnia and Herzegovina (BIH)\nKickoff (UTC)
@@ -719,7 +719,7 @@ DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇦 Canada - 🇶🇦 Qatar
+SUMMARY:Canada - Qatar
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 27\nStage: First Stage\nGroup: Group 
  B\nTeams: Canada (CAN) vs Qatar (QAT)\nKickoff (UTC): 2026-06-18 22:00:00 
@@ -746,7 +746,7 @@ DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇲🇽 Mexico - 🇰🇷 Korea Republic
+SUMMARY:Mexico - Korea Republic
 LOCATION:Guadalajara Stadium\, Guadalajara\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 28\nStage: First Stage\nGroup: Group 
  A\nTeams: Mexico (MEX) vs Korea Republic (KOR)\nKickoff (UTC): 2026-06-19 
@@ -773,7 +773,7 @@ DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇧🇷 Brazil - 🇭🇹 Haiti
+SUMMARY:Brazil - Haiti
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 29\nStage: First Stage\nGroup: Group 
  C\nTeams: Brazil (BRA) vs Haiti (HAI)\nKickoff (UTC): 2026-06-20 00:30:00 
@@ -800,7 +800,7 @@ DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - 🇲🇦 Morocco
+SUMMARY:Scotland - Morocco
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 30\nStage: First Stage\nGroup: Group 
  C\nTeams: Scotland (SCO) vs Morocco (MAR)\nKickoff (UTC): 2026-06-19 22:00
@@ -827,7 +827,7 @@ DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇹🇷 Türkiye - 🇵🇾 Paraguay
+SUMMARY:Türkiye - Paraguay
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 31\nStage: First Stage\nGroup: Group 
  D\nTeams: Türkiye (TUR) vs Paraguay (PAR)\nKickoff (UTC): 2026-06-20 03:0
@@ -854,7 +854,7 @@ DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇺🇸 USA - 🇦🇺 Australia
+SUMMARY:USA - Australia
 LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 32\nStage: First Stage\nGroup: Group 
  D\nTeams: USA (USA) vs Australia (AUS)\nKickoff (UTC): 2026-06-19 19:00:00
@@ -881,7 +881,7 @@ DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇩🇪 Germany - 🇨🇮 Côte d'Ivoire
+SUMMARY:Germany - Côte d'Ivoire
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 33\nStage: First Stage\nGroup: Group 
  E\nTeams: Germany (GER) vs Côte d'Ivoire (CIV)\nKickoff (UTC): 2026-06-20
@@ -908,7 +908,7 @@ DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇪🇨 Ecuador - 🇨🇼 Curaçao
+SUMMARY:Ecuador - Curaçao
 LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 34\nStage: First Stage\nGroup: Group 
  E\nTeams: Ecuador (ECU) vs Curaçao (CUW)\nKickoff (UTC): 2026-06-21 00:00
@@ -935,7 +935,7 @@ DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇳🇱 Netherlands - 🇸🇪 Sweden
+SUMMARY:Netherlands - Sweden
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 35\nStage: First Stage\nGroup: Group 
  F\nTeams: Netherlands (NED) vs Sweden (SWE)\nKickoff (UTC): 2026-06-20 17:
@@ -962,7 +962,7 @@ DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇹🇳 Tunisia - 🇯🇵 Japan
+SUMMARY:Tunisia - Japan
 LOCATION:Monterrey Stadium\, Monterrey\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 36\nStage: First Stage\nGroup: Group 
  F\nTeams: Tunisia (TUN) vs Japan (JPN)\nKickoff (UTC): 2026-06-21 04:00:00
@@ -989,7 +989,7 @@ DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇺🇾 Uruguay - 🇨🇻 Cabo Verde
+SUMMARY:Uruguay - Cabo Verde
 LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 37\nStage: First Stage\nGroup: Group 
  H\nTeams: Uruguay (URU) vs Cabo Verde (CPV)\nKickoff (UTC): 2026-06-21 22:
@@ -1016,7 +1016,7 @@ DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇪🇸 Spain - 🇸🇦 Saudi Arabia
+SUMMARY:Spain - Saudi Arabia
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 38\nStage: First Stage\nGroup: Group 
  H\nTeams: Spain (ESP) vs Saudi Arabia (KSA)\nKickoff (UTC): 2026-06-21 16:
@@ -1043,7 +1043,7 @@ DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇧🇪 Belgium - 🇮🇷 IR Iran
+SUMMARY:Belgium - IR Iran
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 39\nStage: First Stage\nGroup: Group 
  G\nTeams: Belgium (BEL) vs IR Iran (IRN)\nKickoff (UTC): 2026-06-21 19:00:
@@ -1070,7 +1070,7 @@ DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇳🇿 New Zealand - 🇪🇬 Egypt
+SUMMARY:New Zealand - Egypt
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 40\nStage: First Stage\nGroup: Group 
  G\nTeams: New Zealand (NZL) vs Egypt (EGY)\nKickoff (UTC): 2026-06-22 01:0
@@ -1097,7 +1097,7 @@ DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇳🇴 Norway - 🇸🇳 Senegal
+SUMMARY:Norway - Senegal
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 41\nStage: First Stage\nGroup: Group 
  I\nTeams: Norway (NOR) vs Senegal (SEN)\nKickoff (UTC): 2026-06-23 00:00:0
@@ -1124,7 +1124,7 @@ DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇫🇷 France - 🇮🇶 Iraq
+SUMMARY:France - Iraq
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 42\nStage: First Stage\nGroup: Group 
  I\nTeams: France (FRA) vs Iraq (IRQ)\nKickoff (UTC): 2026-06-22 21:00:00 U
@@ -1151,7 +1151,7 @@ DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇦🇷 Argentina - 🇦🇹 Austria
+SUMMARY:Argentina - Austria
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 43\nStage: First Stage\nGroup: Group 
  J\nTeams: Argentina (ARG) vs Austria (AUT)\nKickoff (UTC): 2026-06-22 17:0
@@ -1178,7 +1178,7 @@ DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇯🇴 Jordan - 🇩🇿 Algeria
+SUMMARY:Jordan - Algeria
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 44\nStage: First Stage\nGroup: Group 
  J\nTeams: Jordan (JOR) vs Algeria (ALG)\nKickoff (UTC): 2026-06-23 03:00:0
@@ -1205,7 +1205,7 @@ DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England - 🇬🇭 Ghana
+SUMMARY:England - Ghana
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 45\nStage: First Stage\nGroup: Group 
  L\nTeams: England (ENG) vs Ghana (GHA)\nKickoff (UTC): 2026-06-23 20:00:00
@@ -1232,7 +1232,7 @@ DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇵🇦 Panama - 🇭🇷 Croatia
+SUMMARY:Panama - Croatia
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 46\nStage: First Stage\nGroup: Group 
  L\nTeams: Panama (PAN) vs Croatia (CRO)\nKickoff (UTC): 2026-06-23 23:00:0
@@ -1259,7 +1259,7 @@ DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇵🇹 Portugal - 🇺🇿 Uzbekistan
+SUMMARY:Portugal - Uzbekistan
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 47\nStage: First Stage\nGroup: Group 
  K\nTeams: Portugal (POR) vs Uzbekistan (UZB)\nKickoff (UTC): 2026-06-23 17
@@ -1286,7 +1286,7 @@ DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇴 Colombia - 🇨🇩 Congo DR
+SUMMARY:Colombia - Congo DR
 LOCATION:Guadalajara Stadium\, Guadalajara\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 48\nStage: First Stage\nGroup: Group 
  K\nTeams: Colombia (COL) vs Congo DR (COD)\nKickoff (UTC): 2026-06-24 02:0
@@ -1313,7 +1313,7 @@ DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - 🇧🇷 Brazil
+SUMMARY:Scotland - Brazil
 LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 49\nStage: First Stage\nGroup: Group 
  C\nTeams: Scotland (SCO) vs Brazil (BRA)\nKickoff (UTC): 2026-06-24 22:00:
@@ -1340,7 +1340,7 @@ DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇲🇦 Morocco - 🇭🇹 Haiti
+SUMMARY:Morocco - Haiti
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 50\nStage: First Stage\nGroup: Group 
  C\nTeams: Morocco (MAR) vs Haiti (HAI)\nKickoff (UTC): 2026-06-24 22:00:00
@@ -1367,7 +1367,7 @@ DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇭 Switzerland - 🇨🇦 Canada
+SUMMARY:Switzerland - Canada
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 51\nStage: First Stage\nGroup: Group 
  B\nTeams: Switzerland (SUI) vs Canada (CAN)\nKickoff (UTC): 2026-06-24 19:
@@ -1394,7 +1394,7 @@ DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇧🇦 Bosnia and Herzegovina - 🇶🇦 Qatar
+SUMMARY:Bosnia and Herzegovina - Qatar
 LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 52\nStage: First Stage\nGroup: Group 
  B\nTeams: Bosnia and Herzegovina (BIH) vs Qatar (QAT)\nKickoff (UTC): 2026
@@ -1421,7 +1421,7 @@ DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇿 Czechia - 🇲🇽 Mexico
+SUMMARY:Czechia - Mexico
 LOCATION:Mexico City Stadium\, Mexico City\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 53\nStage: First Stage\nGroup: Group 
  A\nTeams: Czechia (CZE) vs Mexico (MEX)\nKickoff (UTC): 2026-06-25 01:00:0
@@ -1448,7 +1448,7 @@ DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇿🇦 South Africa - 🇰🇷 Korea Republic
+SUMMARY:South Africa - Korea Republic
 LOCATION:Monterrey Stadium\, Monterrey\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 54\nStage: First Stage\nGroup: Group 
  A\nTeams: South Africa (RSA) vs Korea Republic (KOR)\nKickoff (UTC): 2026-
@@ -1475,7 +1475,7 @@ DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇼 Curaçao - 🇨🇮 Côte d'Ivoire
+SUMMARY:Curaçao - Côte d'Ivoire
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 55\nStage: First Stage\nGroup: Group 
  E\nTeams: Curaçao (CUW) vs Côte d'Ivoire (CIV)\nKickoff (UTC): 2026-06-2
@@ -1502,7 +1502,7 @@ DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇪🇨 Ecuador - 🇩🇪 Germany
+SUMMARY:Ecuador - Germany
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 56\nStage: First Stage\nGroup: Group 
  E\nTeams: Ecuador (ECU) vs Germany (GER)\nKickoff (UTC): 2026-06-25 20:00:
@@ -1529,7 +1529,7 @@ DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇯🇵 Japan - 🇸🇪 Sweden
+SUMMARY:Japan - Sweden
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 57\nStage: First Stage\nGroup: Group 
  F\nTeams: Japan (JPN) vs Sweden (SWE)\nKickoff (UTC): 2026-06-25 23:00:00 
@@ -1556,7 +1556,7 @@ DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇹🇳 Tunisia - 🇳🇱 Netherlands
+SUMMARY:Tunisia - Netherlands
 LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 58\nStage: First Stage\nGroup: Group 
  F\nTeams: Tunisia (TUN) vs Netherlands (NED)\nKickoff (UTC): 2026-06-25 23
@@ -1583,7 +1583,7 @@ DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇹🇷 Türkiye - 🇺🇸 USA
+SUMMARY:Türkiye - USA
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 59\nStage: First Stage\nGroup: Group 
  D\nTeams: Türkiye (TUR) vs USA (USA)\nKickoff (UTC): 2026-06-26 02:00:00 
@@ -1610,7 +1610,7 @@ DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇵🇾 Paraguay - 🇦🇺 Australia
+SUMMARY:Paraguay - Australia
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 60\nStage: First Stage\nGroup: Group 
  D\nTeams: Paraguay (PAR) vs Australia (AUS)\nKickoff (UTC): 2026-06-26 02:
@@ -1637,7 +1637,7 @@ DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇳🇴 Norway - 🇫🇷 France
+SUMMARY:Norway - France
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 61\nStage: First Stage\nGroup: Group 
  I\nTeams: Norway (NOR) vs France (FRA)\nKickoff (UTC): 2026-06-26 19:00:00
@@ -1664,7 +1664,7 @@ DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇸🇳 Senegal - 🇮🇶 Iraq
+SUMMARY:Senegal - Iraq
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 62\nStage: First Stage\nGroup: Group 
  I\nTeams: Senegal (SEN) vs Iraq (IRQ)\nKickoff (UTC): 2026-06-26 19:00:00 
@@ -1691,7 +1691,7 @@ DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇪🇬 Egypt - 🇮🇷 IR Iran
+SUMMARY:Egypt - IR Iran
 LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 63\nStage: First Stage\nGroup: Group 
  G\nTeams: Egypt (EGY) vs IR Iran (IRN)\nKickoff (UTC): 2026-06-27 03:00:00
@@ -1718,7 +1718,7 @@ DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇳🇿 New Zealand - 🇧🇪 Belgium
+SUMMARY:New Zealand - Belgium
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 64\nStage: First Stage\nGroup: Group 
  G\nTeams: New Zealand (NZL) vs Belgium (BEL)\nKickoff (UTC): 2026-06-27 03
@@ -1745,7 +1745,7 @@ DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇻 Cabo Verde - 🇸🇦 Saudi Arabia
+SUMMARY:Cabo Verde - Saudi Arabia
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 65\nStage: First Stage\nGroup: Group 
  H\nTeams: Cabo Verde (CPV) vs Saudi Arabia (KSA)\nKickoff (UTC): 2026-06-2
@@ -1772,7 +1772,7 @@ DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇺🇾 Uruguay - 🇪🇸 Spain
+SUMMARY:Uruguay - Spain
 LOCATION:Guadalajara Stadium\, Guadalajara\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 66\nStage: First Stage\nGroup: Group 
  H\nTeams: Uruguay (URU) vs Spain (ESP)\nKickoff (UTC): 2026-06-27 00:00:00
@@ -1799,7 +1799,7 @@ DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇵🇦 Panama - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
+SUMMARY:Panama - England
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 67\nStage: First Stage\nGroup: Group 
  L\nTeams: Panama (PAN) vs England (ENG)\nKickoff (UTC): 2026-06-27 21:00:0
@@ -1826,7 +1826,7 @@ DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇭🇷 Croatia - 🇬🇭 Ghana
+SUMMARY:Croatia - Ghana
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 68\nStage: First Stage\nGroup: Group 
  L\nTeams: Croatia (CRO) vs Ghana (GHA)\nKickoff (UTC): 2026-06-27 21:00:00
@@ -1853,7 +1853,7 @@ DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇩🇿 Algeria - 🇦🇹 Austria
+SUMMARY:Algeria - Austria
 LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 69\nStage: First Stage\nGroup: Group 
  J\nTeams: Algeria (ALG) vs Austria (AUT)\nKickoff (UTC): 2026-06-28 02:00:
@@ -1880,7 +1880,7 @@ DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇯🇴 Jordan - 🇦🇷 Argentina
+SUMMARY:Jordan - Argentina
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 70\nStage: First Stage\nGroup: Group 
  J\nTeams: Jordan (JOR) vs Argentina (ARG)\nKickoff (UTC): 2026-06-28 02:00
@@ -1907,7 +1907,7 @@ DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇴 Colombia - 🇵🇹 Portugal
+SUMMARY:Colombia - Portugal
 LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 71\nStage: First Stage\nGroup: Group 
  K\nTeams: Colombia (COL) vs Portugal (POR)\nKickoff (UTC): 2026-06-27 23:3
@@ -1934,7 +1934,7 @@ DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:🇨🇩 Congo DR - 🇺🇿 Uzbekistan
+SUMMARY:Congo DR - Uzbekistan
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 72\nStage: First Stage\nGroup: Group 
  K\nTeams: Congo DR (COD) vs Uzbekistan (UZB)\nKickoff (UTC): 2026-06-27 23

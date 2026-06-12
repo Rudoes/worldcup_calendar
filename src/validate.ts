@@ -55,6 +55,7 @@ async function main(): Promise<void> {
     const summary = single(event, "SUMMARY");
     assert(summary.length > 0, `Empty SUMMARY for match ${matchNumber}.`);
     assert(!/^Match \d+:/.test(summary), `SUMMARY still has match prefix for match ${matchNumber}.`);
+    assert(!/[\u{1F1E6}-\u{1F1FF}\u{E0000}-\u{E007F}]/u.test(summary), `SUMMARY has unsupported flag emoji for match ${matchNumber}.`);
     assert(single(event, "LOCATION").length > 0, `Empty LOCATION for match ${matchNumber}.`);
     const description = single(event, "DESCRIPTION");
     assert(!/team (?:logo|flag):/i.test(description), `DESCRIPTION has image URL text for match ${matchNumber}.`);

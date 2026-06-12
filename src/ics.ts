@@ -6,57 +6,6 @@ import {
 } from "./constants.ts";
 import type { NormalizedDataFile, NormalizedMatch, Participant } from "./types.ts";
 
-const FIFA_FLAG_CODES: Record<string, string> = {
-  ALG: "DZ",
-  ARG: "AR",
-  AUS: "AU",
-  AUT: "AT",
-  BEL: "BE",
-  BIH: "BA",
-  BRA: "BR",
-  CAN: "CA",
-  CIV: "CI",
-  COD: "CD",
-  COL: "CO",
-  CPV: "CV",
-  CRO: "HR",
-  CUW: "CW",
-  CZE: "CZ",
-  ECU: "EC",
-  EGY: "EG",
-  ENG: "GB-ENG",
-  ESP: "ES",
-  FRA: "FR",
-  GER: "DE",
-  GHA: "GH",
-  HAI: "HT",
-  IRN: "IR",
-  IRQ: "IQ",
-  JOR: "JO",
-  JPN: "JP",
-  KOR: "KR",
-  KSA: "SA",
-  MAR: "MA",
-  MEX: "MX",
-  NED: "NL",
-  NOR: "NO",
-  NZL: "NZ",
-  PAN: "PA",
-  PAR: "PY",
-  POR: "PT",
-  QAT: "QA",
-  RSA: "ZA",
-  SCO: "GB-SCT",
-  SEN: "SN",
-  SUI: "CH",
-  SWE: "SE",
-  TUN: "TN",
-  TUR: "TR",
-  URU: "UY",
-  USA: "US",
-  UZB: "UZ"
-};
-
 export function buildIcs(data: NormalizedDataFile): string {
   const generatedAt = toIcsUtc(new Date(data.generatedAt));
   const lines = [
@@ -133,18 +82,15 @@ function eventDescription(match: NormalizedMatch): string {
 }
 
 function eventSummary(match: NormalizedMatch): string {
-  const homeName = formatSummaryParticipant(match.home);
-  const awayName = formatSummaryParticipant(match.away);
-
   if (!match.score) {
-    return `${homeName} - ${awayName}`;
+    return `${match.home.name} - ${match.away.name}`;
   }
 
   const penaltySuffix = match.score.homePenalties !== undefined && match.score.awayPenalties !== undefined
     ? ` (pens ${match.score.homePenalties}-${match.score.awayPenalties})`
     : "";
 
-  return `${homeName} (${match.score.home}) - ${awayName} (${match.score.away})${penaltySuffix}`;
+  return `${match.home.name} (${match.score.home}) - ${match.away.name} (${match.score.away})${penaltySuffix}`;
 }
 
 function formatScore(match: NormalizedMatch): string {
@@ -162,36 +108,6 @@ function formatParticipant(participant: Participant): string {
   if (participant.abbreviation) return `${participant.name} (${participant.abbreviation})`;
   if (participant.placeholder) return `${participant.name} [${participant.placeholder}]`;
   return participant.name;
-}
-
-function formatSummaryParticipant(participant: Participant): string {
-  const flag = flagEmoji(participant);
-  return flag ? `${flag} ${participant.name}` : participant.name;
-}
-
-function flagEmoji(participant: Participant): string | undefined {
-  const fifaCode = participant.countryCode ?? participant.abbreviation;
-  if (!fifaCode) return undefined;
-
-  const flagCode = FIFA_FLAG_CODES[fifaCode] ?? fifaCode;
-  if (/^[A-Z]{2}$/.test(flagCode)) {
-    return [...flagCode]
-      .map((letter) => String.fromCodePoint(0x1F1E6 + letter.charCodeAt(0) - 65))
-      .join("");
-  }
-
-  if (flagCode === "GB-ENG") return subdivisionFlagEmoji("gbeng");
-  if (flagCode === "GB-SCT") return subdivisionFlagEmoji("gbsct");
-
-  return undefined;
-}
-
-function subdivisionFlagEmoji(tag: string): string {
-  return [
-    String.fromCodePoint(0x1F3F4),
-    ...[...tag].map((letter) => String.fromCodePoint(0xE0000 + letter.charCodeAt(0))),
-    String.fromCodePoint(0xE007F)
-  ].join("");
 }
 
 function property(name: string, value: string, escape = true): string {

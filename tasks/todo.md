@@ -1,5 +1,14 @@
 # World Cup 2026 Calendar Feed
 
+## Active Correction Plan: Remove Flag Emoji From Titles
+
+- [x] Remove Unicode flag emoji from event summaries.
+- [x] Add a validator guard against unsupported flag emoji in summaries.
+- [x] Update the cache-busted subscribe URL for immediate resubscription.
+- [ ] Regenerate and validate the calendar feed.
+- [ ] Push and rerun the refresh workflow remotely.
+- [ ] Verify the live versioned feed.
+
 ## Active Polish Plan: Event Summaries And Descriptions
 
 - [x] Add flag icons before team names in event summaries.
