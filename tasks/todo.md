@@ -6,8 +6,17 @@
 - [x] Change timezone resolution to prefer FIFA stadium/city IDs over mutable display city labels.
 - [x] Add regression tests for renamed labels and unknown venue failures.
 - [x] Run `npm run build` locally.
-- [ ] Push and rerun the refresh workflow remotely.
-- [ ] Record root cause hardening and verification.
+- [x] Push and rerun the refresh workflow remotely.
+- [x] Record root cause hardening and verification.
+
+## Venue Timezone Hardening Review
+
+- Risk addressed: FIFA display labels can change without changing the actual venue.
+- Fix: timezone resolution now checks FIFA `IdStadium`, then `IdCity`, then legacy city labels.
+- Generated data now records `venue.fifaStadiumId` and `venue.fifaCityId` for auditability.
+- Unknown venues no longer fall back to `UTC`; they fail with an error that includes available stadium ID, city ID, and city label.
+- Local verification: `npm run build` passed with 7 timezone resolver tests and 104 validated calendar events.
+- Remote verification: workflow run `27409267585` passed on commit `ca58e47`.
 
 ## Active Fix Plan: Refresh Workflow Failure
 
