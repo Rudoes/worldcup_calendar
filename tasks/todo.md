@@ -1,5 +1,13 @@
 # World Cup 2026 Calendar Feed
 
+## Active Feature Fix Plan: Event Result Titles
+
+- [x] Change event `SUMMARY` formatting to remove `Match X` prefixes.
+- [x] Show scores in event titles as `Team (goals) - Team (goals)`.
+- [x] Add regression tests for scored and unscored event summaries.
+- [x] Regenerate and validate the calendar feed.
+- [ ] Push and rerun the refresh workflow remotely.
+
 ## Active Hardening Plan: FIFA Venue Label Changes
 
 - [x] Inspect live FIFA stadium fields for stable venue identifiers.

@@ -8,7 +8,7 @@
     "node": ">=22.6"
   },
   "scripts": {
-    "test": "node --experimental-strip-types --test test/timezone-mappings.test.ts",
+    "test": "node --experimental-strip-types --test test/*.test.ts",
     "generate": "node --experimental-strip-types src/generate.ts",
     "validate": "node --experimental-strip-types src/validate.ts",
     "build": "npm run test && npm run generate && npm run validate"

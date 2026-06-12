@@ -33,9 +33,7 @@ function buildEvent(match: NormalizedMatch, generatedAt: string): string[] {
   }
 
   const end = new Date(start.getTime() + match.durationMinutes * 60_000);
-  const summary = match.score
-    ? `Match ${match.matchNumber}: ${match.home.name} ${match.score.home}-${match.score.away} ${match.away.name}`
-    : `Match ${match.matchNumber}: ${match.home.name} vs ${match.away.name}`;
+  const summary = eventSummary(match);
   const location = [
     match.venue.name,
     match.venue.city,
@@ -85,6 +83,18 @@ function eventDescription(match: NormalizedMatch): string {
   ].filter((line): line is string => Boolean(line));
 
   return lines.join("\n");
+}
+
+function eventSummary(match: NormalizedMatch): string {
+  if (!match.score) {
+    return `${match.home.name} - ${match.away.name}`;
+  }
+
+  const penaltySuffix = match.score.homePenalties !== undefined && match.score.awayPenalties !== undefined
+    ? ` (pens ${match.score.homePenalties}-${match.score.awayPenalties})`
+    : "";
+
+  return `${match.home.name} (${match.score.home}) - ${match.away.name} (${match.score.away})${penaltySuffix}`;
 }
 
 function formatScore(match: NormalizedMatch): string {
