@@ -15,6 +15,7 @@
 - Symptom: validator rejected `Missing venue timezone mapping for New Jersey.`
 - Root cause: FIFA changed the `New York/New Jersey Stadium` city label from `New York` to `New Jersey`; `CITY_TIME_ZONES` only mapped the old `New York` label, so New Jersey events fell back to `UTC`.
 - Fix: added `New Jersey -> America/New_York` to the venue timezone map and added a no-dependency regression test for known FIFA host city labels.
+- Hardening: updated `actions/checkout` and `actions/setup-node` from v4 to current v6 tags to avoid the Node 20 action-runtime deprecation warning during the June-July 2026 refresh window.
 - Generated output: refreshed `data/fifa-2026-matches.json` and `docs/worldcup-2026.ics` from current FIFA data; all 8 New Jersey matches now use `America/New_York`.
 - Verification: `npm run build` passed, including the timezone mapping test, generation of 104 matches, and validation of 104 calendar events.
 
