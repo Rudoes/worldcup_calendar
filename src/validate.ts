@@ -56,14 +56,17 @@ async function main(): Promise<void> {
     assert(summary.length > 0, `Empty SUMMARY for match ${matchNumber}.`);
     assert(!/^Match \d+:/.test(summary), `SUMMARY still has match prefix for match ${matchNumber}.`);
     assert(single(event, "LOCATION").length > 0, `Empty LOCATION for match ${matchNumber}.`);
-    assert(single(event, "DESCRIPTION").includes("Source:"), `DESCRIPTION lacks source for match ${matchNumber}.`);
+    const description = single(event, "DESCRIPTION");
+    assert(!/team (?:logo|flag):/i.test(description), `DESCRIPTION has image URL text for match ${matchNumber}.`);
+    assert(!description.includes("Source:"), `DESCRIPTION has source URL text for match ${matchNumber}.`);
+    assert(!description.includes("Schedule page:"), `DESCRIPTION has schedule page URL text for match ${matchNumber}.`);
+    assert(!/https?:\/\//i.test(description), `DESCRIPTION has URL text for match ${matchNumber}.`);
 
     const dataMatch = data.matches.find((match) => match.matchNumber === matchNumber);
     assert(Boolean(dataMatch), `Match ${matchNumber} is not present in the normalized data.`);
     if (dataMatch?.score) {
-      const expectedScoreSummary =
-        `${dataMatch.home.name} (${dataMatch.score.home}) - ${dataMatch.away.name} (${dataMatch.score.away})`;
-      assert(summary.startsWith(expectedScoreSummary), `SUMMARY lacks formatted score for match ${matchNumber}.`);
+      assert(summary.includes(`${dataMatch.home.name} (${dataMatch.score.home})`), `SUMMARY lacks home score for match ${matchNumber}.`);
+      assert(summary.includes(`${dataMatch.away.name} (${dataMatch.score.away})`), `SUMMARY lacks away score for match ${matchNumber}.`);
     }
     if (dataMatch?.home.logoUrl && dataMatch.away.logoUrl) {
       const attachmentCount = event.properties.get("ATTACH")?.length ?? 0;

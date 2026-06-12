@@ -15,20 +15,13 @@ DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Mexico (2) - South Africa (0)
+SUMMARY:🇲🇽 Mexico (2) - 🇿🇦 South Africa (0)
 LOCATION:Mexico City Stadium\, Mexico City\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 1\nStage: First Stage\nGroup: Group A
  \nTeams: Mexico (MEX) vs South Africa (RSA)\nScore: Mexico 2-0 South Afric
  a\nWinner: Mexico\nKickoff (UTC): 2026-06-11 19:00:00 UTC\nKickoff (venue 
  local): 2026-06-11 13:00 (America/Mexico_City)\nVenue: Mexico City Stadium
- \, Mexico City\, MEX\nHome team logo: https://api.fifa.com/api/v3/picture/
- teams-sq-4/43911\nHome team flag: https://api.fifa.com/api/v3/picture/flag
- s-sq-4/MEX\nAway team logo: https://api.fifa.com/api/v3/picture/teams-sq-4
- /43883\nAway team flag: https://api.fifa.com/api/v3/picture/flags-sq-4/RSA
- \nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&id
- Season=285023&count=200\nSchedule page: https://www.fifa.com/en/tournament
- s/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-resul
- ts-teams-stadiums
+ \, Mexico City\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group A
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -50,20 +43,13 @@ DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Korea Republic (2) - Czechia (1)
+SUMMARY:🇰🇷 Korea Republic (2) - 🇨🇿 Czechia (1)
 LOCATION:Guadalajara Stadium\, Guadalajara\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 2\nStage: First Stage\nGroup: Group A
  \nTeams: Korea Republic (KOR) vs Czechia (CZE)\nScore: Korea Republic 2-1 
  Czechia\nWinner: Korea Republic\nKickoff (UTC): 2026-06-12 02:00:00 UTC\nK
  ickoff (venue local): 2026-06-11 20:00 (America/Mexico_City)\nVenue: Guada
- lajara Stadium\, Guadalajara\, MEX\nHome team logo: https://api.fifa.com/a
- pi/v3/picture/teams-sq-4/43822\nHome team flag: https://api.fifa.com/api/v
- 3/picture/flags-sq-4/KOR\nAway team logo: https://api.fifa.com/api/v3/pict
- ure/teams-sq-4/43995\nAway team flag: https://api.fifa.com/api/v3/picture/
- flags-sq-4/CZE\nSource: https://api.fifa.com/api/v3/calendar/matches?idCom
- petition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com
- /en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-
- fixtures-results-teams-stadiums
+ lajara Stadium\, Guadalajara\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group A
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -85,19 +71,12 @@ DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Canada - Bosnia and Herzegovina
+SUMMARY:🇨🇦 Canada - 🇧🇦 Bosnia and Herzegovina
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 3\nStage: First Stage\nGroup: Group B
  \nTeams: Canada (CAN) vs Bosnia and Herzegovina (BIH)\nKickoff (UTC): 2026
  -06-12 19:00:00 UTC\nKickoff (venue local): 2026-06-12 15:00 (America/Toro
- nto)\nVenue: Toronto Stadium\, Toronto\, CAN\nHome team logo: https://api.
- fifa.com/api/v3/picture/teams-sq-4/43899\nHome team flag: https://api.fifa
- .com/api/v3/picture/flags-sq-4/CAN\nAway team logo: https://api.fifa.com/a
- pi/v3/picture/teams-sq-4/44037\nAway team flag: https://api.fifa.com/api/v
- 3/picture/flags-sq-4/BIH\nSource: https://api.fifa.com/api/v3/calendar/mat
- ches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://ww
- w.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match
- -schedule-fixtures-results-teams-stadiums
+ nto)\nVenue: Toronto Stadium\, Toronto\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group B
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -119,19 +98,12 @@ DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:USA - Paraguay
+SUMMARY:🇺🇸 USA - 🇵🇾 Paraguay
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 4\nStage: First Stage\nGroup: Group D
  \nTeams: USA (USA) vs Paraguay (PAR)\nKickoff (UTC): 2026-06-13 01:00:00 U
  TC\nKickoff (venue local): 2026-06-12 18:00 (America/Los_Angeles)\nVenue: 
- Los Angeles Stadium\, Los Angeles\, USA\nHome team logo: https://api.fifa.
- com/api/v3/picture/teams-sq-4/43921\nHome team flag: https://api.fifa.com/
- api/v3/picture/flags-sq-4/USA\nAway team logo: https://api.fifa.com/api/v3
- /picture/teams-sq-4/43928\nAway team flag: https://api.fifa.com/api/v3/pic
- ture/flags-sq-4/PAR\nSource: https://api.fifa.com/api/v3/calendar/matches?
- idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fif
- a.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sche
- dule-fixtures-results-teams-stadiums
+ Los Angeles Stadium\, Los Angeles\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group D
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -153,19 +125,12 @@ DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Haiti - Scotland
+SUMMARY:🇭🇹 Haiti - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 5\nStage: First Stage\nGroup: Group C
  \nTeams: Haiti (HAI) vs Scotland (SCO)\nKickoff (UTC): 2026-06-14 01:00:00
   UTC\nKickoff (venue local): 2026-06-13 21:00 (America/New_York)\nVenue: B
- oston Stadium\, Boston\, USA\nHome team logo: https://api.fifa.com/api/v3/
- picture/teams-sq-4/43908\nHome team flag: https://api.fifa.com/api/v3/pict
- ure/flags-sq-4/HAI\nAway team logo: https://api.fifa.com/api/v3/picture/te
- ams-sq-4/43967\nAway team flag: https://api.fifa.com/api/v3/picture/flags-
- sq-4/SCO\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetiti
- on=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/to
- urnaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtur
- es-results-teams-stadiums
+ oston Stadium\, Boston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group C
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -187,19 +152,12 @@ DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Australia - Türkiye
+SUMMARY:🇦🇺 Australia - 🇹🇷 Türkiye
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 6\nStage: First Stage\nGroup: Group D
  \nTeams: Australia (AUS) vs Türkiye (TUR)\nKickoff (UTC): 2026-06-14 04:0
  0:00 UTC\nKickoff (venue local): 2026-06-13 21:00 (America/Vancouver)\nVen
- ue: BC Place Vancouver\, Vancouver\, CAN\nHome team logo: https://api.fifa
- .com/api/v3/picture/teams-sq-4/43976\nHome team flag: https://api.fifa.com
- /api/v3/picture/flags-sq-4/AUS\nAway team logo: https://api.fifa.com/api/v
- 3/picture/teams-sq-4/43972\nAway team flag: https://api.fifa.com/api/v3/pi
- cture/flags-sq-4/TUR\nSource: https://api.fifa.com/api/v3/calendar/matches
- ?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fi
- fa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sch
- edule-fixtures-results-teams-stadiums
+ ue: BC Place Vancouver\, Vancouver\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group D
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -221,19 +179,12 @@ DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Brazil - Morocco
+SUMMARY:🇧🇷 Brazil - 🇲🇦 Morocco
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 7\nStage: First Stage\nGroup: Group C
  \nTeams: Brazil (BRA) vs Morocco (MAR)\nKickoff (UTC): 2026-06-13 22:00:00
   UTC\nKickoff (venue local): 2026-06-13 18:00 (America/New_York)\nVenue: N
- ew York/New Jersey Stadium\, New Jersey\, USA\nHome team logo: https://api
- .fifa.com/api/v3/picture/teams-sq-4/43924\nHome team flag: https://api.fif
- a.com/api/v3/picture/flags-sq-4/BRA\nAway team logo: https://api.fifa.com/
- api/v3/picture/teams-sq-4/43872\nAway team flag: https://api.fifa.com/api/
- v3/picture/flags-sq-4/MAR\nSource: https://api.fifa.com/api/v3/calendar/ma
- tches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://w
- ww.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matc
- h-schedule-fixtures-results-teams-stadiums
+ ew York/New Jersey Stadium\, New Jersey\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group C
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -255,19 +206,12 @@ DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Qatar - Switzerland
+SUMMARY:🇶🇦 Qatar - 🇨🇭 Switzerland
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 8\nStage: First Stage\nGroup: Group B
  \nTeams: Qatar (QAT) vs Switzerland (SUI)\nKickoff (UTC): 2026-06-13 19:00
  :00 UTC\nKickoff (venue local): 2026-06-13 12:00 (America/Los_Angeles)\nVe
- nue: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA\nHome t
- eam logo: https://api.fifa.com/api/v3/picture/teams-sq-4/43834\nHome team 
- flag: https://api.fifa.com/api/v3/picture/flags-sq-4/QAT\nAway team logo: 
- https://api.fifa.com/api/v3/picture/teams-sq-4/43971\nAway team flag: http
- s://api.fifa.com/api/v3/picture/flags-sq-4/SUI\nSource: https://api.fifa.c
- om/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSch
- edule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexico
- usa2026/articles/match-schedule-fixtures-results-teams-stadiums
+ nue: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group B
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -289,19 +233,12 @@ DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Côte d'Ivoire - Ecuador
+SUMMARY:🇨🇮 Côte d'Ivoire - 🇪🇨 Ecuador
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 9\nStage: First Stage\nGroup: Group E
  \nTeams: Côte d'Ivoire (CIV) vs Ecuador (ECU)\nKickoff (UTC): 2026-06-14 
  23:00:00 UTC\nKickoff (venue local): 2026-06-14 19:00 (America/New_York)\n
- Venue: Philadelphia Stadium\, Philadelphia\, USA\nHome team logo: https://
- api.fifa.com/api/v3/picture/teams-sq-4/43854\nHome team flag: https://api.
- fifa.com/api/v3/picture/flags-sq-4/CIV\nAway team logo: https://api.fifa.c
- om/api/v3/picture/teams-sq-4/43927\nAway team flag: https://api.fifa.com/a
- pi/v3/picture/flags-sq-4/ECU\nSource: https://api.fifa.com/api/v3/calendar
- /matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https:
- //www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/m
- atch-schedule-fixtures-results-teams-stadiums
+ Venue: Philadelphia Stadium\, Philadelphia\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group E
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -323,19 +260,12 @@ DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Germany - Curaçao
+SUMMARY:🇩🇪 Germany - 🇨🇼 Curaçao
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 10\nStage: First Stage\nGroup: Group 
  E\nTeams: Germany (GER) vs Curaçao (CUW)\nKickoff (UTC): 2026-06-14 17:00
  :00 UTC\nKickoff (venue local): 2026-06-14 12:00 (America/Chicago)\nVenue:
-  Houston Stadium\, Houston\, USA\nHome team logo: https://api.fifa.com/api
- /v3/picture/teams-sq-4/43948\nHome team flag: https://api.fifa.com/api/v3/
- picture/flags-sq-4/GER\nAway team logo: https://api.fifa.com/api/v3/pictur
- e/teams-sq-4/1895293\nAway team flag: https://api.fifa.com/api/v3/picture/
- flags-sq-4/CUW\nSource: https://api.fifa.com/api/v3/calendar/matches?idCom
- petition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com
- /en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-
- fixtures-results-teams-stadiums
+  Houston Stadium\, Houston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group E
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -357,19 +287,12 @@ DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Netherlands - Japan
+SUMMARY:🇳🇱 Netherlands - 🇯🇵 Japan
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 11\nStage: First Stage\nGroup: Group 
  F\nTeams: Netherlands (NED) vs Japan (JPN)\nKickoff (UTC): 2026-06-14 20:0
  0:00 UTC\nKickoff (venue local): 2026-06-14 15:00 (America/Chicago)\nVenue
- : Dallas Stadium\, Dallas\, USA\nHome team logo: https://api.fifa.com/api/
- v3/picture/teams-sq-4/43960\nHome team flag: https://api.fifa.com/api/v3/p
- icture/flags-sq-4/NED\nAway team logo: https://api.fifa.com/api/v3/picture
- /teams-sq-4/43819\nAway team flag: https://api.fifa.com/api/v3/picture/fla
- gs-sq-4/JPN\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompet
- ition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en
- /tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fix
- tures-results-teams-stadiums
+ : Dallas Stadium\, Dallas\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group F
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -391,19 +314,12 @@ DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Sweden - Tunisia
+SUMMARY:🇸🇪 Sweden - 🇹🇳 Tunisia
 LOCATION:Monterrey Stadium\, Monterrey\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 12\nStage: First Stage\nGroup: Group 
  F\nTeams: Sweden (SWE) vs Tunisia (TUN)\nKickoff (UTC): 2026-06-15 02:00:0
  0 UTC\nKickoff (venue local): 2026-06-14 20:00 (America/Monterrey)\nVenue:
-  Monterrey Stadium\, Monterrey\, MEX\nHome team logo: https://api.fifa.com
- /api/v3/picture/teams-sq-4/43970\nHome team flag: https://api.fifa.com/api
- /v3/picture/flags-sq-4/SWE\nAway team logo: https://api.fifa.com/api/v3/pi
- cture/teams-sq-4/43888\nAway team flag: https://api.fifa.com/api/v3/pictur
- e/flags-sq-4/TUN\nSource: https://api.fifa.com/api/v3/calendar/matches?idC
- ompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.c
- om/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedul
- e-fixtures-results-teams-stadiums
+  Monterrey Stadium\, Monterrey\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group F
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -425,19 +341,12 @@ DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Saudi Arabia - Uruguay
+SUMMARY:🇸🇦 Saudi Arabia - 🇺🇾 Uruguay
 LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 13\nStage: First Stage\nGroup: Group 
  H\nTeams: Saudi Arabia (KSA) vs Uruguay (URU)\nKickoff (UTC): 2026-06-15 2
  2:00:00 UTC\nKickoff (venue local): 2026-06-15 18:00 (America/New_York)\nV
- enue: Miami Stadium\, Miami\, USA\nHome team logo: https://api.fifa.com/ap
- i/v3/picture/teams-sq-4/43835\nHome team flag: https://api.fifa.com/api/v3
- /picture/flags-sq-4/KSA\nAway team logo: https://api.fifa.com/api/v3/pictu
- re/teams-sq-4/43930\nAway team flag: https://api.fifa.com/api/v3/picture/f
- lags-sq-4/URU\nSource: https://api.fifa.com/api/v3/calendar/matches?idComp
- etition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/
- en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
- ixtures-results-teams-stadiums
+ enue: Miami Stadium\, Miami\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group H
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -459,19 +368,12 @@ DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Spain - Cabo Verde
+SUMMARY:🇪🇸 Spain - 🇨🇻 Cabo Verde
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 14\nStage: First Stage\nGroup: Group 
  H\nTeams: Spain (ESP) vs Cabo Verde (CPV)\nKickoff (UTC): 2026-06-15 16:00
  :00 UTC\nKickoff (venue local): 2026-06-15 12:00 (America/New_York)\nVenue
- : Atlanta Stadium\, Atlanta\, USA\nHome team logo: https://api.fifa.com/ap
- i/v3/picture/teams-sq-4/43969\nHome team flag: https://api.fifa.com/api/v3
- /picture/flags-sq-4/ESP\nAway team logo: https://api.fifa.com/api/v3/pictu
- re/teams-sq-4/43850\nAway team flag: https://api.fifa.com/api/v3/picture/f
- lags-sq-4/CPV\nSource: https://api.fifa.com/api/v3/calendar/matches?idComp
- etition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/
- en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
- ixtures-results-teams-stadiums
+ : Atlanta Stadium\, Atlanta\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group H
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -493,19 +395,12 @@ DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:IR Iran - New Zealand
+SUMMARY:🇮🇷 IR Iran - 🇳🇿 New Zealand
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 15\nStage: First Stage\nGroup: Group 
  G\nTeams: IR Iran (IRN) vs New Zealand (NZL)\nKickoff (UTC): 2026-06-16 01
  :00:00 UTC\nKickoff (venue local): 2026-06-15 18:00 (America/Los_Angeles)\
- nVenue: Los Angeles Stadium\, Los Angeles\, USA\nHome team logo: https://a
- pi.fifa.com/api/v3/picture/teams-sq-4/43817\nHome team flag: https://api.f
- ifa.com/api/v3/picture/flags-sq-4/IRN\nAway team logo: https://api.fifa.co
- m/api/v3/picture/teams-sq-4/43978\nAway team flag: https://api.fifa.com/ap
- i/v3/picture/flags-sq-4/NZL\nSource: https://api.fifa.com/api/v3/calendar/
- matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https:/
- /www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ma
- tch-schedule-fixtures-results-teams-stadiums
+ nVenue: Los Angeles Stadium\, Los Angeles\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group G
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -527,19 +422,12 @@ DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Belgium - Egypt
+SUMMARY:🇧🇪 Belgium - 🇪🇬 Egypt
 LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 16\nStage: First Stage\nGroup: Group 
  G\nTeams: Belgium (BEL) vs Egypt (EGY)\nKickoff (UTC): 2026-06-15 19:00:00
   UTC\nKickoff (venue local): 2026-06-15 12:00 (America/Los_Angeles)\nVenue
- : Seattle Stadium\, Seattle\, USA\nHome team logo: https://api.fifa.com/ap
- i/v3/picture/teams-sq-4/43935\nHome team flag: https://api.fifa.com/api/v3
- /picture/flags-sq-4/BEL\nAway team logo: https://api.fifa.com/api/v3/pictu
- re/teams-sq-4/43855\nAway team flag: https://api.fifa.com/api/v3/picture/f
- lags-sq-4/EGY\nSource: https://api.fifa.com/api/v3/calendar/matches?idComp
- etition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/
- en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
- ixtures-results-teams-stadiums
+ : Seattle Stadium\, Seattle\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group G
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -561,19 +449,12 @@ DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:France - Senegal
+SUMMARY:🇫🇷 France - 🇸🇳 Senegal
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 17\nStage: First Stage\nGroup: Group 
  I\nTeams: France (FRA) vs Senegal (SEN)\nKickoff (UTC): 2026-06-16 19:00:0
  0 UTC\nKickoff (venue local): 2026-06-16 15:00 (America/New_York)\nVenue: 
- New York/New Jersey Stadium\, New Jersey\, USA\nHome team logo: https://ap
- i.fifa.com/api/v3/picture/teams-sq-4/43946\nHome team flag: https://api.fi
- fa.com/api/v3/picture/flags-sq-4/FRA\nAway team logo: https://api.fifa.com
- /api/v3/picture/teams-sq-4/43879\nAway team flag: https://api.fifa.com/api
- /v3/picture/flags-sq-4/SEN\nSource: https://api.fifa.com/api/v3/calendar/m
- atches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://
- www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mat
- ch-schedule-fixtures-results-teams-stadiums
+ New York/New Jersey Stadium\, New Jersey\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group I
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -595,19 +476,12 @@ DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Iraq - Norway
+SUMMARY:🇮🇶 Iraq - 🇳🇴 Norway
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 18\nStage: First Stage\nGroup: Group 
  I\nTeams: Iraq (IRQ) vs Norway (NOR)\nKickoff (UTC): 2026-06-16 22:00:00 U
  TC\nKickoff (venue local): 2026-06-16 18:00 (America/New_York)\nVenue: Bos
- ton Stadium\, Boston\, USA\nHome team logo: https://api.fifa.com/api/v3/pi
- cture/teams-sq-4/43818\nHome team flag: https://api.fifa.com/api/v3/pictur
- e/flags-sq-4/IRQ\nAway team logo: https://api.fifa.com/api/v3/picture/team
- s-sq-4/43961\nAway team flag: https://api.fifa.com/api/v3/picture/flags-sq
- -4/NOR\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetition
- =17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/tour
- naments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures
- -results-teams-stadiums
+ ton Stadium\, Boston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group I
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -629,19 +503,12 @@ DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Argentina - Algeria
+SUMMARY:🇦🇷 Argentina - 🇩🇿 Algeria
 LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 19\nStage: First Stage\nGroup: Group 
  J\nTeams: Argentina (ARG) vs Algeria (ALG)\nKickoff (UTC): 2026-06-17 01:0
  0:00 UTC\nKickoff (venue local): 2026-06-16 20:00 (America/Chicago)\nVenue
- : Kansas City Stadium\, Kansas City\, USA\nHome team logo: https://api.fif
- a.com/api/v3/picture/teams-sq-4/43922\nHome team flag: https://api.fifa.co
- m/api/v3/picture/flags-sq-4/ARG\nAway team logo: https://api.fifa.com/api/
- v3/picture/teams-sq-4/43843\nAway team flag: https://api.fifa.com/api/v3/p
- icture/flags-sq-4/ALG\nSource: https://api.fifa.com/api/v3/calendar/matche
- s?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.f
- ifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sc
- hedule-fixtures-results-teams-stadiums
+ : Kansas City Stadium\, Kansas City\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group J
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -663,19 +530,12 @@ DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Austria - Jordan
+SUMMARY:🇦🇹 Austria - 🇯🇴 Jordan
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 20\nStage: First Stage\nGroup: Group 
  J\nTeams: Austria (AUT) vs Jordan (JOR)\nKickoff (UTC): 2026-06-17 04:00:0
  0 UTC\nKickoff (venue local): 2026-06-16 21:00 (America/Los_Angeles)\nVenu
- e: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA\nHome tea
- m logo: https://api.fifa.com/api/v3/picture/teams-sq-4/43934\nHome team fl
- ag: https://api.fifa.com/api/v3/picture/flags-sq-4/AUT\nAway team logo: ht
- tps://api.fifa.com/api/v3/picture/teams-sq-4/43820\nAway team flag: https:
- //api.fifa.com/api/v3/picture/flags-sq-4/JOR\nSource: https://api.fifa.com
- /api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSched
- ule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicous
- a2026/articles/match-schedule-fixtures-results-teams-stadiums
+ e: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group J
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -697,19 +557,12 @@ DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Ghana - Panama
+SUMMARY:🇬🇭 Ghana - 🇵🇦 Panama
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 21\nStage: First Stage\nGroup: Group 
  L\nTeams: Ghana (GHA) vs Panama (PAN)\nKickoff (UTC): 2026-06-17 23:00:00 
  UTC\nKickoff (venue local): 2026-06-17 19:00 (America/Toronto)\nVenue: Tor
- onto Stadium\, Toronto\, CAN\nHome team logo: https://api.fifa.com/api/v3/
- picture/teams-sq-4/43860\nHome team flag: https://api.fifa.com/api/v3/pict
- ure/flags-sq-4/GHA\nAway team logo: https://api.fifa.com/api/v3/picture/te
- ams-sq-4/43914\nAway team flag: https://api.fifa.com/api/v3/picture/flags-
- sq-4/PAN\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetiti
- on=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/to
- urnaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtur
- es-results-teams-stadiums
+ onto Stadium\, Toronto\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group L
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -731,19 +584,12 @@ DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:England - Croatia
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England - 🇭🇷 Croatia
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 22\nStage: First Stage\nGroup: Group 
  L\nTeams: England (ENG) vs Croatia (CRO)\nKickoff (UTC): 2026-06-17 20:00:
  00 UTC\nKickoff (venue local): 2026-06-17 15:00 (America/Chicago)\nVenue: 
- Dallas Stadium\, Dallas\, USA\nHome team logo: https://api.fifa.com/api/v3
- /picture/teams-sq-4/43942\nHome team flag: https://api.fifa.com/api/v3/pic
- ture/flags-sq-4/ENG\nAway team logo: https://api.fifa.com/api/v3/picture/t
- eams-sq-4/43938\nAway team flag: https://api.fifa.com/api/v3/picture/flags
- -sq-4/CRO\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetit
- ion=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/t
- ournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtu
- res-results-teams-stadiums
+ Dallas Stadium\, Dallas\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group L
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -765,19 +611,12 @@ DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Portugal - Congo DR
+SUMMARY:🇵🇹 Portugal - 🇨🇩 Congo DR
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 23\nStage: First Stage\nGroup: Group 
  K\nTeams: Portugal (POR) vs Congo DR (COD)\nKickoff (UTC): 2026-06-17 17:0
  0:00 UTC\nKickoff (venue local): 2026-06-17 12:00 (America/Chicago)\nVenue
- : Houston Stadium\, Houston\, USA\nHome team logo: https://api.fifa.com/ap
- i/v3/picture/teams-sq-4/43963\nHome team flag: https://api.fifa.com/api/v3
- /picture/flags-sq-4/POR\nAway team logo: https://api.fifa.com/api/v3/pictu
- re/teams-sq-4/20014\nAway team flag: https://api.fifa.com/api/v3/picture/f
- lags-sq-4/COD\nSource: https://api.fifa.com/api/v3/calendar/matches?idComp
- etition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/
- en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
- ixtures-results-teams-stadiums
+ : Houston Stadium\, Houston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group K
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -799,19 +638,12 @@ DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Uzbekistan - Colombia
+SUMMARY:🇺🇿 Uzbekistan - 🇨🇴 Colombia
 LOCATION:Mexico City Stadium\, Mexico City\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 24\nStage: First Stage\nGroup: Group 
  K\nTeams: Uzbekistan (UZB) vs Colombia (COL)\nKickoff (UTC): 2026-06-18 02
  :00:00 UTC\nKickoff (venue local): 2026-06-17 20:00 (America/Mexico_City)\
- nVenue: Mexico City Stadium\, Mexico City\, MEX\nHome team logo: https://a
- pi.fifa.com/api/v3/picture/teams-sq-4/44005\nHome team flag: https://api.f
- ifa.com/api/v3/picture/flags-sq-4/UZB\nAway team logo: https://api.fifa.co
- m/api/v3/picture/teams-sq-4/43926\nAway team flag: https://api.fifa.com/ap
- i/v3/picture/flags-sq-4/COL\nSource: https://api.fifa.com/api/v3/calendar/
- matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https:/
- /www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ma
- tch-schedule-fixtures-results-teams-stadiums
+ nVenue: Mexico City Stadium\, Mexico City\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group K
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -833,19 +665,12 @@ DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Czechia - South Africa
+SUMMARY:🇨🇿 Czechia - 🇿🇦 South Africa
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 25\nStage: First Stage\nGroup: Group 
  A\nTeams: Czechia (CZE) vs South Africa (RSA)\nKickoff (UTC): 2026-06-18 1
  6:00:00 UTC\nKickoff (venue local): 2026-06-18 12:00 (America/New_York)\nV
- enue: Atlanta Stadium\, Atlanta\, USA\nHome team logo: https://api.fifa.co
- m/api/v3/picture/teams-sq-4/43995\nHome team flag: https://api.fifa.com/ap
- i/v3/picture/flags-sq-4/CZE\nAway team logo: https://api.fifa.com/api/v3/p
- icture/teams-sq-4/43883\nAway team flag: https://api.fifa.com/api/v3/pictu
- re/flags-sq-4/RSA\nSource: https://api.fifa.com/api/v3/calendar/matches?id
- Competition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.
- com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedu
- le-fixtures-results-teams-stadiums
+ enue: Atlanta Stadium\, Atlanta\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group A
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -867,19 +692,12 @@ DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Switzerland - Bosnia and Herzegovina
+SUMMARY:🇨🇭 Switzerland - 🇧🇦 Bosnia and Herzegovina
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 26\nStage: First Stage\nGroup: Group 
  B\nTeams: Switzerland (SUI) vs Bosnia and Herzegovina (BIH)\nKickoff (UTC)
  : 2026-06-18 19:00:00 UTC\nKickoff (venue local): 2026-06-18 12:00 (Americ
- a/Los_Angeles)\nVenue: Los Angeles Stadium\, Los Angeles\, USA\nHome team 
- logo: https://api.fifa.com/api/v3/picture/teams-sq-4/43971\nHome team flag
- : https://api.fifa.com/api/v3/picture/flags-sq-4/SUI\nAway team logo: http
- s://api.fifa.com/api/v3/picture/teams-sq-4/44037\nAway team flag: https://
- api.fifa.com/api/v3/picture/flags-sq-4/BIH\nSource: https://api.fifa.com/a
- pi/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSchedul
- e page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2
- 026/articles/match-schedule-fixtures-results-teams-stadiums
+ a/Los_Angeles)\nVenue: Los Angeles Stadium\, Los Angeles\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group B
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -901,19 +719,12 @@ DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Canada - Qatar
+SUMMARY:🇨🇦 Canada - 🇶🇦 Qatar
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 27\nStage: First Stage\nGroup: Group 
  B\nTeams: Canada (CAN) vs Qatar (QAT)\nKickoff (UTC): 2026-06-18 22:00:00 
  UTC\nKickoff (venue local): 2026-06-18 15:00 (America/Vancouver)\nVenue: B
- C Place Vancouver\, Vancouver\, CAN\nHome team logo: https://api.fifa.com/
- api/v3/picture/teams-sq-4/43899\nHome team flag: https://api.fifa.com/api/
- v3/picture/flags-sq-4/CAN\nAway team logo: https://api.fifa.com/api/v3/pic
- ture/teams-sq-4/43834\nAway team flag: https://api.fifa.com/api/v3/picture
- /flags-sq-4/QAT\nSource: https://api.fifa.com/api/v3/calendar/matches?idCo
- mpetition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.co
- m/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule
- -fixtures-results-teams-stadiums
+ C Place Vancouver\, Vancouver\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group B
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -935,19 +746,12 @@ DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Mexico - Korea Republic
+SUMMARY:🇲🇽 Mexico - 🇰🇷 Korea Republic
 LOCATION:Guadalajara Stadium\, Guadalajara\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 28\nStage: First Stage\nGroup: Group 
  A\nTeams: Mexico (MEX) vs Korea Republic (KOR)\nKickoff (UTC): 2026-06-19 
  01:00:00 UTC\nKickoff (venue local): 2026-06-18 19:00 (America/Mexico_City
- )\nVenue: Guadalajara Stadium\, Guadalajara\, MEX\nHome team logo: https:/
- /api.fifa.com/api/v3/picture/teams-sq-4/43911\nHome team flag: https://api
- .fifa.com/api/v3/picture/flags-sq-4/MEX\nAway team logo: https://api.fifa.
- com/api/v3/picture/teams-sq-4/43822\nAway team flag: https://api.fifa.com/
- api/v3/picture/flags-sq-4/KOR\nSource: https://api.fifa.com/api/v3/calenda
- r/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https
- ://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/
- match-schedule-fixtures-results-teams-stadiums
+ )\nVenue: Guadalajara Stadium\, Guadalajara\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group A
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -969,19 +773,12 @@ DTSTART:20260620T003000Z
 DTEND:20260620T023000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Brazil - Haiti
+SUMMARY:🇧🇷 Brazil - 🇭🇹 Haiti
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 29\nStage: First Stage\nGroup: Group 
  C\nTeams: Brazil (BRA) vs Haiti (HAI)\nKickoff (UTC): 2026-06-20 00:30:00 
  UTC\nKickoff (venue local): 2026-06-19 20:30 (America/New_York)\nVenue: Ph
- iladelphia Stadium\, Philadelphia\, USA\nHome team logo: https://api.fifa.
- com/api/v3/picture/teams-sq-4/43924\nHome team flag: https://api.fifa.com/
- api/v3/picture/flags-sq-4/BRA\nAway team logo: https://api.fifa.com/api/v3
- /picture/teams-sq-4/43908\nAway team flag: https://api.fifa.com/api/v3/pic
- ture/flags-sq-4/HAI\nSource: https://api.fifa.com/api/v3/calendar/matches?
- idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fif
- a.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sche
- dule-fixtures-results-teams-stadiums
+ iladelphia Stadium\, Philadelphia\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group C
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1003,19 +800,12 @@ DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Scotland - Morocco
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - 🇲🇦 Morocco
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 30\nStage: First Stage\nGroup: Group 
  C\nTeams: Scotland (SCO) vs Morocco (MAR)\nKickoff (UTC): 2026-06-19 22:00
  :00 UTC\nKickoff (venue local): 2026-06-19 18:00 (America/New_York)\nVenue
- : Boston Stadium\, Boston\, USA\nHome team logo: https://api.fifa.com/api/
- v3/picture/teams-sq-4/43967\nHome team flag: https://api.fifa.com/api/v3/p
- icture/flags-sq-4/SCO\nAway team logo: https://api.fifa.com/api/v3/picture
- /teams-sq-4/43872\nAway team flag: https://api.fifa.com/api/v3/picture/fla
- gs-sq-4/MAR\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompet
- ition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en
- /tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fix
- tures-results-teams-stadiums
+ : Boston Stadium\, Boston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group C
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1037,19 +827,12 @@ DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Türkiye - Paraguay
+SUMMARY:🇹🇷 Türkiye - 🇵🇾 Paraguay
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 31\nStage: First Stage\nGroup: Group 
  D\nTeams: Türkiye (TUR) vs Paraguay (PAR)\nKickoff (UTC): 2026-06-20 03:0
  0:00 UTC\nKickoff (venue local): 2026-06-19 20:00 (America/Los_Angeles)\nV
- enue: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA\nHome 
- team logo: https://api.fifa.com/api/v3/picture/teams-sq-4/43972\nHome team
-  flag: https://api.fifa.com/api/v3/picture/flags-sq-4/TUR\nAway team logo:
-  https://api.fifa.com/api/v3/picture/teams-sq-4/43928\nAway team flag: htt
- ps://api.fifa.com/api/v3/picture/flags-sq-4/PAR\nSource: https://api.fifa.
- com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSc
- hedule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexic
- ousa2026/articles/match-schedule-fixtures-results-teams-stadiums
+ enue: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group D
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1071,19 +854,12 @@ DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:USA - Australia
+SUMMARY:🇺🇸 USA - 🇦🇺 Australia
 LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 32\nStage: First Stage\nGroup: Group 
  D\nTeams: USA (USA) vs Australia (AUS)\nKickoff (UTC): 2026-06-19 19:00:00
   UTC\nKickoff (venue local): 2026-06-19 12:00 (America/Los_Angeles)\nVenue
- : Seattle Stadium\, Seattle\, USA\nHome team logo: https://api.fifa.com/ap
- i/v3/picture/teams-sq-4/43921\nHome team flag: https://api.fifa.com/api/v3
- /picture/flags-sq-4/USA\nAway team logo: https://api.fifa.com/api/v3/pictu
- re/teams-sq-4/43976\nAway team flag: https://api.fifa.com/api/v3/picture/f
- lags-sq-4/AUS\nSource: https://api.fifa.com/api/v3/calendar/matches?idComp
- etition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/
- en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
- ixtures-results-teams-stadiums
+ : Seattle Stadium\, Seattle\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group D
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1105,19 +881,12 @@ DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Germany - Côte d'Ivoire
+SUMMARY:🇩🇪 Germany - 🇨🇮 Côte d'Ivoire
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 33\nStage: First Stage\nGroup: Group 
  E\nTeams: Germany (GER) vs Côte d'Ivoire (CIV)\nKickoff (UTC): 2026-06-20
   20:00:00 UTC\nKickoff (venue local): 2026-06-20 16:00 (America/Toronto)\n
- Venue: Toronto Stadium\, Toronto\, CAN\nHome team logo: https://api.fifa.c
- om/api/v3/picture/teams-sq-4/43948\nHome team flag: https://api.fifa.com/a
- pi/v3/picture/flags-sq-4/GER\nAway team logo: https://api.fifa.com/api/v3/
- picture/teams-sq-4/43854\nAway team flag: https://api.fifa.com/api/v3/pict
- ure/flags-sq-4/CIV\nSource: https://api.fifa.com/api/v3/calendar/matches?i
- dCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa
- .com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sched
- ule-fixtures-results-teams-stadiums
+ Venue: Toronto Stadium\, Toronto\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group E
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1139,19 +908,12 @@ DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Ecuador - Curaçao
+SUMMARY:🇪🇨 Ecuador - 🇨🇼 Curaçao
 LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 34\nStage: First Stage\nGroup: Group 
  E\nTeams: Ecuador (ECU) vs Curaçao (CUW)\nKickoff (UTC): 2026-06-21 00:00
  :00 UTC\nKickoff (venue local): 2026-06-20 19:00 (America/Chicago)\nVenue:
-  Kansas City Stadium\, Kansas City\, USA\nHome team logo: https://api.fifa
- .com/api/v3/picture/teams-sq-4/43927\nHome team flag: https://api.fifa.com
- /api/v3/picture/flags-sq-4/ECU\nAway team logo: https://api.fifa.com/api/v
- 3/picture/teams-sq-4/1895293\nAway team flag: https://api.fifa.com/api/v3/
- picture/flags-sq-4/CUW\nSource: https://api.fifa.com/api/v3/calendar/match
- es?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.
- fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-s
- chedule-fixtures-results-teams-stadiums
+  Kansas City Stadium\, Kansas City\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group E
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1173,19 +935,12 @@ DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Netherlands - Sweden
+SUMMARY:🇳🇱 Netherlands - 🇸🇪 Sweden
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 35\nStage: First Stage\nGroup: Group 
  F\nTeams: Netherlands (NED) vs Sweden (SWE)\nKickoff (UTC): 2026-06-20 17:
  00:00 UTC\nKickoff (venue local): 2026-06-20 12:00 (America/Chicago)\nVenu
- e: Houston Stadium\, Houston\, USA\nHome team logo: https://api.fifa.com/a
- pi/v3/picture/teams-sq-4/43960\nHome team flag: https://api.fifa.com/api/v
- 3/picture/flags-sq-4/NED\nAway team logo: https://api.fifa.com/api/v3/pict
- ure/teams-sq-4/43970\nAway team flag: https://api.fifa.com/api/v3/picture/
- flags-sq-4/SWE\nSource: https://api.fifa.com/api/v3/calendar/matches?idCom
- petition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com
- /en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-
- fixtures-results-teams-stadiums
+ e: Houston Stadium\, Houston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group F
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1207,19 +962,12 @@ DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Tunisia - Japan
+SUMMARY:🇹🇳 Tunisia - 🇯🇵 Japan
 LOCATION:Monterrey Stadium\, Monterrey\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 36\nStage: First Stage\nGroup: Group 
  F\nTeams: Tunisia (TUN) vs Japan (JPN)\nKickoff (UTC): 2026-06-21 04:00:00
   UTC\nKickoff (venue local): 2026-06-20 22:00 (America/Monterrey)\nVenue: 
- Monterrey Stadium\, Monterrey\, MEX\nHome team logo: https://api.fifa.com/
- api/v3/picture/teams-sq-4/43888\nHome team flag: https://api.fifa.com/api/
- v3/picture/flags-sq-4/TUN\nAway team logo: https://api.fifa.com/api/v3/pic
- ture/teams-sq-4/43819\nAway team flag: https://api.fifa.com/api/v3/picture
- /flags-sq-4/JPN\nSource: https://api.fifa.com/api/v3/calendar/matches?idCo
- mpetition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.co
- m/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule
- -fixtures-results-teams-stadiums
+ Monterrey Stadium\, Monterrey\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group F
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1241,19 +989,12 @@ DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Uruguay - Cabo Verde
+SUMMARY:🇺🇾 Uruguay - 🇨🇻 Cabo Verde
 LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 37\nStage: First Stage\nGroup: Group 
  H\nTeams: Uruguay (URU) vs Cabo Verde (CPV)\nKickoff (UTC): 2026-06-21 22:
  00:00 UTC\nKickoff (venue local): 2026-06-21 18:00 (America/New_York)\nVen
- ue: Miami Stadium\, Miami\, USA\nHome team logo: https://api.fifa.com/api/
- v3/picture/teams-sq-4/43930\nHome team flag: https://api.fifa.com/api/v3/p
- icture/flags-sq-4/URU\nAway team logo: https://api.fifa.com/api/v3/picture
- /teams-sq-4/43850\nAway team flag: https://api.fifa.com/api/v3/picture/fla
- gs-sq-4/CPV\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompet
- ition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en
- /tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fix
- tures-results-teams-stadiums
+ ue: Miami Stadium\, Miami\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group H
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1275,19 +1016,12 @@ DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Spain - Saudi Arabia
+SUMMARY:🇪🇸 Spain - 🇸🇦 Saudi Arabia
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 38\nStage: First Stage\nGroup: Group 
  H\nTeams: Spain (ESP) vs Saudi Arabia (KSA)\nKickoff (UTC): 2026-06-21 16:
  00:00 UTC\nKickoff (venue local): 2026-06-21 12:00 (America/New_York)\nVen
- ue: Atlanta Stadium\, Atlanta\, USA\nHome team logo: https://api.fifa.com/
- api/v3/picture/teams-sq-4/43969\nHome team flag: https://api.fifa.com/api/
- v3/picture/flags-sq-4/ESP\nAway team logo: https://api.fifa.com/api/v3/pic
- ture/teams-sq-4/43835\nAway team flag: https://api.fifa.com/api/v3/picture
- /flags-sq-4/KSA\nSource: https://api.fifa.com/api/v3/calendar/matches?idCo
- mpetition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.co
- m/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule
- -fixtures-results-teams-stadiums
+ ue: Atlanta Stadium\, Atlanta\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group H
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1309,19 +1043,12 @@ DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Belgium - IR Iran
+SUMMARY:🇧🇪 Belgium - 🇮🇷 IR Iran
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 39\nStage: First Stage\nGroup: Group 
  G\nTeams: Belgium (BEL) vs IR Iran (IRN)\nKickoff (UTC): 2026-06-21 19:00:
  00 UTC\nKickoff (venue local): 2026-06-21 12:00 (America/Los_Angeles)\nVen
- ue: Los Angeles Stadium\, Los Angeles\, USA\nHome team logo: https://api.f
- ifa.com/api/v3/picture/teams-sq-4/43935\nHome team flag: https://api.fifa.
- com/api/v3/picture/flags-sq-4/BEL\nAway team logo: https://api.fifa.com/ap
- i/v3/picture/teams-sq-4/43817\nAway team flag: https://api.fifa.com/api/v3
- /picture/flags-sq-4/IRN\nSource: https://api.fifa.com/api/v3/calendar/matc
- hes?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www
- .fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-
- schedule-fixtures-results-teams-stadiums
+ ue: Los Angeles Stadium\, Los Angeles\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group G
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1343,19 +1070,12 @@ DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:New Zealand - Egypt
+SUMMARY:🇳🇿 New Zealand - 🇪🇬 Egypt
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 40\nStage: First Stage\nGroup: Group 
  G\nTeams: New Zealand (NZL) vs Egypt (EGY)\nKickoff (UTC): 2026-06-22 01:0
  0:00 UTC\nKickoff (venue local): 2026-06-21 18:00 (America/Vancouver)\nVen
- ue: BC Place Vancouver\, Vancouver\, CAN\nHome team logo: https://api.fifa
- .com/api/v3/picture/teams-sq-4/43978\nHome team flag: https://api.fifa.com
- /api/v3/picture/flags-sq-4/NZL\nAway team logo: https://api.fifa.com/api/v
- 3/picture/teams-sq-4/43855\nAway team flag: https://api.fifa.com/api/v3/pi
- cture/flags-sq-4/EGY\nSource: https://api.fifa.com/api/v3/calendar/matches
- ?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fi
- fa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sch
- edule-fixtures-results-teams-stadiums
+ ue: BC Place Vancouver\, Vancouver\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group G
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1377,19 +1097,12 @@ DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Norway - Senegal
+SUMMARY:🇳🇴 Norway - 🇸🇳 Senegal
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 41\nStage: First Stage\nGroup: Group 
  I\nTeams: Norway (NOR) vs Senegal (SEN)\nKickoff (UTC): 2026-06-23 00:00:0
  0 UTC\nKickoff (venue local): 2026-06-22 20:00 (America/New_York)\nVenue: 
- New York/New Jersey Stadium\, New Jersey\, USA\nHome team logo: https://ap
- i.fifa.com/api/v3/picture/teams-sq-4/43961\nHome team flag: https://api.fi
- fa.com/api/v3/picture/flags-sq-4/NOR\nAway team logo: https://api.fifa.com
- /api/v3/picture/teams-sq-4/43879\nAway team flag: https://api.fifa.com/api
- /v3/picture/flags-sq-4/SEN\nSource: https://api.fifa.com/api/v3/calendar/m
- atches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://
- www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mat
- ch-schedule-fixtures-results-teams-stadiums
+ New York/New Jersey Stadium\, New Jersey\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group I
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1411,19 +1124,12 @@ DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:France - Iraq
+SUMMARY:🇫🇷 France - 🇮🇶 Iraq
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 42\nStage: First Stage\nGroup: Group 
  I\nTeams: France (FRA) vs Iraq (IRQ)\nKickoff (UTC): 2026-06-22 21:00:00 U
  TC\nKickoff (venue local): 2026-06-22 17:00 (America/New_York)\nVenue: Phi
- ladelphia Stadium\, Philadelphia\, USA\nHome team logo: https://api.fifa.c
- om/api/v3/picture/teams-sq-4/43946\nHome team flag: https://api.fifa.com/a
- pi/v3/picture/flags-sq-4/FRA\nAway team logo: https://api.fifa.com/api/v3/
- picture/teams-sq-4/43818\nAway team flag: https://api.fifa.com/api/v3/pict
- ure/flags-sq-4/IRQ\nSource: https://api.fifa.com/api/v3/calendar/matches?i
- dCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa
- .com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sched
- ule-fixtures-results-teams-stadiums
+ ladelphia Stadium\, Philadelphia\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group I
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1445,19 +1151,12 @@ DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Argentina - Austria
+SUMMARY:🇦🇷 Argentina - 🇦🇹 Austria
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 43\nStage: First Stage\nGroup: Group 
  J\nTeams: Argentina (ARG) vs Austria (AUT)\nKickoff (UTC): 2026-06-22 17:0
  0:00 UTC\nKickoff (venue local): 2026-06-22 12:00 (America/Chicago)\nVenue
- : Dallas Stadium\, Dallas\, USA\nHome team logo: https://api.fifa.com/api/
- v3/picture/teams-sq-4/43922\nHome team flag: https://api.fifa.com/api/v3/p
- icture/flags-sq-4/ARG\nAway team logo: https://api.fifa.com/api/v3/picture
- /teams-sq-4/43934\nAway team flag: https://api.fifa.com/api/v3/picture/fla
- gs-sq-4/AUT\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompet
- ition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en
- /tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fix
- tures-results-teams-stadiums
+ : Dallas Stadium\, Dallas\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group J
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1479,19 +1178,12 @@ DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Jordan - Algeria
+SUMMARY:🇯🇴 Jordan - 🇩🇿 Algeria
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 44\nStage: First Stage\nGroup: Group 
  J\nTeams: Jordan (JOR) vs Algeria (ALG)\nKickoff (UTC): 2026-06-23 03:00:0
  0 UTC\nKickoff (venue local): 2026-06-22 20:00 (America/Los_Angeles)\nVenu
- e: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA\nHome tea
- m logo: https://api.fifa.com/api/v3/picture/teams-sq-4/43820\nHome team fl
- ag: https://api.fifa.com/api/v3/picture/flags-sq-4/JOR\nAway team logo: ht
- tps://api.fifa.com/api/v3/picture/teams-sq-4/43843\nAway team flag: https:
- //api.fifa.com/api/v3/picture/flags-sq-4/ALG\nSource: https://api.fifa.com
- /api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSched
- ule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicous
- a2026/articles/match-schedule-fixtures-results-teams-stadiums
+ e: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group J
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1513,19 +1205,12 @@ DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:England - Ghana
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England - 🇬🇭 Ghana
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 45\nStage: First Stage\nGroup: Group 
  L\nTeams: England (ENG) vs Ghana (GHA)\nKickoff (UTC): 2026-06-23 20:00:00
   UTC\nKickoff (venue local): 2026-06-23 16:00 (America/New_York)\nVenue: B
- oston Stadium\, Boston\, USA\nHome team logo: https://api.fifa.com/api/v3/
- picture/teams-sq-4/43942\nHome team flag: https://api.fifa.com/api/v3/pict
- ure/flags-sq-4/ENG\nAway team logo: https://api.fifa.com/api/v3/picture/te
- ams-sq-4/43860\nAway team flag: https://api.fifa.com/api/v3/picture/flags-
- sq-4/GHA\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetiti
- on=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/to
- urnaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtur
- es-results-teams-stadiums
+ oston Stadium\, Boston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group L
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1547,19 +1232,12 @@ DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Panama - Croatia
+SUMMARY:🇵🇦 Panama - 🇭🇷 Croatia
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 46\nStage: First Stage\nGroup: Group 
  L\nTeams: Panama (PAN) vs Croatia (CRO)\nKickoff (UTC): 2026-06-23 23:00:0
  0 UTC\nKickoff (venue local): 2026-06-23 19:00 (America/Toronto)\nVenue: T
- oronto Stadium\, Toronto\, CAN\nHome team logo: https://api.fifa.com/api/v
- 3/picture/teams-sq-4/43914\nHome team flag: https://api.fifa.com/api/v3/pi
- cture/flags-sq-4/PAN\nAway team logo: https://api.fifa.com/api/v3/picture/
- teams-sq-4/43938\nAway team flag: https://api.fifa.com/api/v3/picture/flag
- s-sq-4/CRO\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompeti
- tion=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/
- tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixt
- ures-results-teams-stadiums
+ oronto Stadium\, Toronto\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group L
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1581,19 +1259,12 @@ DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Portugal - Uzbekistan
+SUMMARY:🇵🇹 Portugal - 🇺🇿 Uzbekistan
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 47\nStage: First Stage\nGroup: Group 
  K\nTeams: Portugal (POR) vs Uzbekistan (UZB)\nKickoff (UTC): 2026-06-23 17
  :00:00 UTC\nKickoff (venue local): 2026-06-23 12:00 (America/Chicago)\nVen
- ue: Houston Stadium\, Houston\, USA\nHome team logo: https://api.fifa.com/
- api/v3/picture/teams-sq-4/43963\nHome team flag: https://api.fifa.com/api/
- v3/picture/flags-sq-4/POR\nAway team logo: https://api.fifa.com/api/v3/pic
- ture/teams-sq-4/44005\nAway team flag: https://api.fifa.com/api/v3/picture
- /flags-sq-4/UZB\nSource: https://api.fifa.com/api/v3/calendar/matches?idCo
- mpetition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.co
- m/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule
- -fixtures-results-teams-stadiums
+ ue: Houston Stadium\, Houston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group K
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1615,19 +1286,12 @@ DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Colombia - Congo DR
+SUMMARY:🇨🇴 Colombia - 🇨🇩 Congo DR
 LOCATION:Guadalajara Stadium\, Guadalajara\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 48\nStage: First Stage\nGroup: Group 
  K\nTeams: Colombia (COL) vs Congo DR (COD)\nKickoff (UTC): 2026-06-24 02:0
  0:00 UTC\nKickoff (venue local): 2026-06-23 20:00 (America/Mexico_City)\nV
- enue: Guadalajara Stadium\, Guadalajara\, MEX\nHome team logo: https://api
- .fifa.com/api/v3/picture/teams-sq-4/43926\nHome team flag: https://api.fif
- a.com/api/v3/picture/flags-sq-4/COL\nAway team logo: https://api.fifa.com/
- api/v3/picture/teams-sq-4/20014\nAway team flag: https://api.fifa.com/api/
- v3/picture/flags-sq-4/COD\nSource: https://api.fifa.com/api/v3/calendar/ma
- tches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://w
- ww.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/matc
- h-schedule-fixtures-results-teams-stadiums
+ enue: Guadalajara Stadium\, Guadalajara\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group K
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1649,19 +1313,12 @@ DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Scotland - Brazil
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland - 🇧🇷 Brazil
 LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 49\nStage: First Stage\nGroup: Group 
  C\nTeams: Scotland (SCO) vs Brazil (BRA)\nKickoff (UTC): 2026-06-24 22:00:
  00 UTC\nKickoff (venue local): 2026-06-24 18:00 (America/New_York)\nVenue:
-  Miami Stadium\, Miami\, USA\nHome team logo: https://api.fifa.com/api/v3/
- picture/teams-sq-4/43967\nHome team flag: https://api.fifa.com/api/v3/pict
- ure/flags-sq-4/SCO\nAway team logo: https://api.fifa.com/api/v3/picture/te
- ams-sq-4/43924\nAway team flag: https://api.fifa.com/api/v3/picture/flags-
- sq-4/BRA\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetiti
- on=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/to
- urnaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtur
- es-results-teams-stadiums
+  Miami Stadium\, Miami\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group C
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1683,19 +1340,12 @@ DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Morocco - Haiti
+SUMMARY:🇲🇦 Morocco - 🇭🇹 Haiti
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 50\nStage: First Stage\nGroup: Group 
  C\nTeams: Morocco (MAR) vs Haiti (HAI)\nKickoff (UTC): 2026-06-24 22:00:00
   UTC\nKickoff (venue local): 2026-06-24 18:00 (America/New_York)\nVenue: A
- tlanta Stadium\, Atlanta\, USA\nHome team logo: https://api.fifa.com/api/v
- 3/picture/teams-sq-4/43872\nHome team flag: https://api.fifa.com/api/v3/pi
- cture/flags-sq-4/MAR\nAway team logo: https://api.fifa.com/api/v3/picture/
- teams-sq-4/43908\nAway team flag: https://api.fifa.com/api/v3/picture/flag
- s-sq-4/HAI\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompeti
- tion=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/
- tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixt
- ures-results-teams-stadiums
+ tlanta Stadium\, Atlanta\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group C
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1717,19 +1367,12 @@ DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Switzerland - Canada
+SUMMARY:🇨🇭 Switzerland - 🇨🇦 Canada
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 51\nStage: First Stage\nGroup: Group 
  B\nTeams: Switzerland (SUI) vs Canada (CAN)\nKickoff (UTC): 2026-06-24 19:
  00:00 UTC\nKickoff (venue local): 2026-06-24 12:00 (America/Vancouver)\nVe
- nue: BC Place Vancouver\, Vancouver\, CAN\nHome team logo: https://api.fif
- a.com/api/v3/picture/teams-sq-4/43971\nHome team flag: https://api.fifa.co
- m/api/v3/picture/flags-sq-4/SUI\nAway team logo: https://api.fifa.com/api/
- v3/picture/teams-sq-4/43899\nAway team flag: https://api.fifa.com/api/v3/p
- icture/flags-sq-4/CAN\nSource: https://api.fifa.com/api/v3/calendar/matche
- s?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.f
- ifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sc
- hedule-fixtures-results-teams-stadiums
+ nue: BC Place Vancouver\, Vancouver\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group B
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1751,19 +1394,12 @@ DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Bosnia and Herzegovina - Qatar
+SUMMARY:🇧🇦 Bosnia and Herzegovina - 🇶🇦 Qatar
 LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 52\nStage: First Stage\nGroup: Group 
  B\nTeams: Bosnia and Herzegovina (BIH) vs Qatar (QAT)\nKickoff (UTC): 2026
  -06-24 19:00:00 UTC\nKickoff (venue local): 2026-06-24 12:00 (America/Los_
- Angeles)\nVenue: Seattle Stadium\, Seattle\, USA\nHome team logo: https://
- api.fifa.com/api/v3/picture/teams-sq-4/44037\nHome team flag: https://api.
- fifa.com/api/v3/picture/flags-sq-4/BIH\nAway team logo: https://api.fifa.c
- om/api/v3/picture/teams-sq-4/43834\nAway team flag: https://api.fifa.com/a
- pi/v3/picture/flags-sq-4/QAT\nSource: https://api.fifa.com/api/v3/calendar
- /matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https:
- //www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/m
- atch-schedule-fixtures-results-teams-stadiums
+ Angeles)\nVenue: Seattle Stadium\, Seattle\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group B
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1785,19 +1421,12 @@ DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Czechia - Mexico
+SUMMARY:🇨🇿 Czechia - 🇲🇽 Mexico
 LOCATION:Mexico City Stadium\, Mexico City\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 53\nStage: First Stage\nGroup: Group 
  A\nTeams: Czechia (CZE) vs Mexico (MEX)\nKickoff (UTC): 2026-06-25 01:00:0
  0 UTC\nKickoff (venue local): 2026-06-24 19:00 (America/Mexico_City)\nVenu
- e: Mexico City Stadium\, Mexico City\, MEX\nHome team logo: https://api.fi
- fa.com/api/v3/picture/teams-sq-4/43995\nHome team flag: https://api.fifa.c
- om/api/v3/picture/flags-sq-4/CZE\nAway team logo: https://api.fifa.com/api
- /v3/picture/teams-sq-4/43911\nAway team flag: https://api.fifa.com/api/v3/
- picture/flags-sq-4/MEX\nSource: https://api.fifa.com/api/v3/calendar/match
- es?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.
- fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-s
- chedule-fixtures-results-teams-stadiums
+ e: Mexico City Stadium\, Mexico City\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group A
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1819,19 +1448,12 @@ DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:South Africa - Korea Republic
+SUMMARY:🇿🇦 South Africa - 🇰🇷 Korea Republic
 LOCATION:Monterrey Stadium\, Monterrey\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 54\nStage: First Stage\nGroup: Group 
  A\nTeams: South Africa (RSA) vs Korea Republic (KOR)\nKickoff (UTC): 2026-
  06-25 01:00:00 UTC\nKickoff (venue local): 2026-06-24 19:00 (America/Monte
- rrey)\nVenue: Monterrey Stadium\, Monterrey\, MEX\nHome team logo: https:/
- /api.fifa.com/api/v3/picture/teams-sq-4/43883\nHome team flag: https://api
- .fifa.com/api/v3/picture/flags-sq-4/RSA\nAway team logo: https://api.fifa.
- com/api/v3/picture/teams-sq-4/43822\nAway team flag: https://api.fifa.com/
- api/v3/picture/flags-sq-4/KOR\nSource: https://api.fifa.com/api/v3/calenda
- r/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https
- ://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/
- match-schedule-fixtures-results-teams-stadiums
+ rrey)\nVenue: Monterrey Stadium\, Monterrey\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group A
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1853,19 +1475,12 @@ DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Curaçao - Côte d'Ivoire
+SUMMARY:🇨🇼 Curaçao - 🇨🇮 Côte d'Ivoire
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 55\nStage: First Stage\nGroup: Group 
  E\nTeams: Curaçao (CUW) vs Côte d'Ivoire (CIV)\nKickoff (UTC): 2026-06-2
  5 20:00:00 UTC\nKickoff (venue local): 2026-06-25 16:00 (America/New_York)
- \nVenue: Philadelphia Stadium\, Philadelphia\, USA\nHome team logo: https:
- //api.fifa.com/api/v3/picture/teams-sq-4/1895293\nHome team flag: https://
- api.fifa.com/api/v3/picture/flags-sq-4/CUW\nAway team logo: https://api.fi
- fa.com/api/v3/picture/teams-sq-4/43854\nAway team flag: https://api.fifa.c
- om/api/v3/picture/flags-sq-4/CIV\nSource: https://api.fifa.com/api/v3/cale
- ndar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: ht
- tps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articl
- es/match-schedule-fixtures-results-teams-stadiums
+ \nVenue: Philadelphia Stadium\, Philadelphia\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group E
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1887,19 +1502,12 @@ DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Ecuador - Germany
+SUMMARY:🇪🇨 Ecuador - 🇩🇪 Germany
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 56\nStage: First Stage\nGroup: Group 
  E\nTeams: Ecuador (ECU) vs Germany (GER)\nKickoff (UTC): 2026-06-25 20:00:
  00 UTC\nKickoff (venue local): 2026-06-25 16:00 (America/New_York)\nVenue:
-  New York/New Jersey Stadium\, New Jersey\, USA\nHome team logo: https://a
- pi.fifa.com/api/v3/picture/teams-sq-4/43927\nHome team flag: https://api.f
- ifa.com/api/v3/picture/flags-sq-4/ECU\nAway team logo: https://api.fifa.co
- m/api/v3/picture/teams-sq-4/43948\nAway team flag: https://api.fifa.com/ap
- i/v3/picture/flags-sq-4/GER\nSource: https://api.fifa.com/api/v3/calendar/
- matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https:/
- /www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ma
- tch-schedule-fixtures-results-teams-stadiums
+  New York/New Jersey Stadium\, New Jersey\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group E
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1921,19 +1529,12 @@ DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Japan - Sweden
+SUMMARY:🇯🇵 Japan - 🇸🇪 Sweden
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 57\nStage: First Stage\nGroup: Group 
  F\nTeams: Japan (JPN) vs Sweden (SWE)\nKickoff (UTC): 2026-06-25 23:00:00 
  UTC\nKickoff (venue local): 2026-06-25 18:00 (America/Chicago)\nVenue: Dal
- las Stadium\, Dallas\, USA\nHome team logo: https://api.fifa.com/api/v3/pi
- cture/teams-sq-4/43819\nHome team flag: https://api.fifa.com/api/v3/pictur
- e/flags-sq-4/JPN\nAway team logo: https://api.fifa.com/api/v3/picture/team
- s-sq-4/43970\nAway team flag: https://api.fifa.com/api/v3/picture/flags-sq
- -4/SWE\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetition
- =17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/tour
- naments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures
- -results-teams-stadiums
+ las Stadium\, Dallas\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group F
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1955,19 +1556,12 @@ DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Tunisia - Netherlands
+SUMMARY:🇹🇳 Tunisia - 🇳🇱 Netherlands
 LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 58\nStage: First Stage\nGroup: Group 
  F\nTeams: Tunisia (TUN) vs Netherlands (NED)\nKickoff (UTC): 2026-06-25 23
  :00:00 UTC\nKickoff (venue local): 2026-06-25 18:00 (America/Chicago)\nVen
- ue: Kansas City Stadium\, Kansas City\, USA\nHome team logo: https://api.f
- ifa.com/api/v3/picture/teams-sq-4/43888\nHome team flag: https://api.fifa.
- com/api/v3/picture/flags-sq-4/TUN\nAway team logo: https://api.fifa.com/ap
- i/v3/picture/teams-sq-4/43960\nAway team flag: https://api.fifa.com/api/v3
- /picture/flags-sq-4/NED\nSource: https://api.fifa.com/api/v3/calendar/matc
- hes?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www
- .fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-
- schedule-fixtures-results-teams-stadiums
+ ue: Kansas City Stadium\, Kansas City\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group F
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -1989,19 +1583,12 @@ DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Türkiye - USA
+SUMMARY:🇹🇷 Türkiye - 🇺🇸 USA
 LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 59\nStage: First Stage\nGroup: Group 
  D\nTeams: Türkiye (TUR) vs USA (USA)\nKickoff (UTC): 2026-06-26 02:00:00 
  UTC\nKickoff (venue local): 2026-06-25 19:00 (America/Los_Angeles)\nVenue:
-  Los Angeles Stadium\, Los Angeles\, USA\nHome team logo: https://api.fifa
- .com/api/v3/picture/teams-sq-4/43972\nHome team flag: https://api.fifa.com
- /api/v3/picture/flags-sq-4/TUR\nAway team logo: https://api.fifa.com/api/v
- 3/picture/teams-sq-4/43921\nAway team flag: https://api.fifa.com/api/v3/pi
- cture/flags-sq-4/USA\nSource: https://api.fifa.com/api/v3/calendar/matches
- ?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fi
- fa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sch
- edule-fixtures-results-teams-stadiums
+  Los Angeles Stadium\, Los Angeles\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group D
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2023,19 +1610,12 @@ DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Paraguay - Australia
+SUMMARY:🇵🇾 Paraguay - 🇦🇺 Australia
 LOCATION:San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 60\nStage: First Stage\nGroup: Group 
  D\nTeams: Paraguay (PAR) vs Australia (AUS)\nKickoff (UTC): 2026-06-26 02:
  00:00 UTC\nKickoff (venue local): 2026-06-25 19:00 (America/Los_Angeles)\n
- Venue: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA\nHome
-  team logo: https://api.fifa.com/api/v3/picture/teams-sq-4/43928\nHome tea
- m flag: https://api.fifa.com/api/v3/picture/flags-sq-4/PAR\nAway team logo
- : https://api.fifa.com/api/v3/picture/teams-sq-4/43976\nAway team flag: ht
- tps://api.fifa.com/api/v3/picture/flags-sq-4/AUS\nSource: https://api.fifa
- .com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nS
- chedule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexi
- cousa2026/articles/match-schedule-fixtures-results-teams-stadiums
+ Venue: San Francisco Bay Area Stadium\, San Francisco Bay Area\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group D
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2057,19 +1637,12 @@ DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Norway - France
+SUMMARY:🇳🇴 Norway - 🇫🇷 France
 LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 61\nStage: First Stage\nGroup: Group 
  I\nTeams: Norway (NOR) vs France (FRA)\nKickoff (UTC): 2026-06-26 19:00:00
   UTC\nKickoff (venue local): 2026-06-26 15:00 (America/New_York)\nVenue: B
- oston Stadium\, Boston\, USA\nHome team logo: https://api.fifa.com/api/v3/
- picture/teams-sq-4/43961\nHome team flag: https://api.fifa.com/api/v3/pict
- ure/flags-sq-4/NOR\nAway team logo: https://api.fifa.com/api/v3/picture/te
- ams-sq-4/43946\nAway team flag: https://api.fifa.com/api/v3/picture/flags-
- sq-4/FRA\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetiti
- on=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/to
- urnaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtur
- es-results-teams-stadiums
+ oston Stadium\, Boston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group I
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2091,19 +1664,12 @@ DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Senegal - Iraq
+SUMMARY:🇸🇳 Senegal - 🇮🇶 Iraq
 LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 62\nStage: First Stage\nGroup: Group 
  I\nTeams: Senegal (SEN) vs Iraq (IRQ)\nKickoff (UTC): 2026-06-26 19:00:00 
  UTC\nKickoff (venue local): 2026-06-26 15:00 (America/Toronto)\nVenue: Tor
- onto Stadium\, Toronto\, CAN\nHome team logo: https://api.fifa.com/api/v3/
- picture/teams-sq-4/43879\nHome team flag: https://api.fifa.com/api/v3/pict
- ure/flags-sq-4/SEN\nAway team logo: https://api.fifa.com/api/v3/picture/te
- ams-sq-4/43818\nAway team flag: https://api.fifa.com/api/v3/picture/flags-
- sq-4/IRQ\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetiti
- on=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/to
- urnaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtur
- es-results-teams-stadiums
+ onto Stadium\, Toronto\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group I
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2125,19 +1691,12 @@ DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Egypt - IR Iran
+SUMMARY:🇪🇬 Egypt - 🇮🇷 IR Iran
 LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 63\nStage: First Stage\nGroup: Group 
  G\nTeams: Egypt (EGY) vs IR Iran (IRN)\nKickoff (UTC): 2026-06-27 03:00:00
   UTC\nKickoff (venue local): 2026-06-26 20:00 (America/Los_Angeles)\nVenue
- : Seattle Stadium\, Seattle\, USA\nHome team logo: https://api.fifa.com/ap
- i/v3/picture/teams-sq-4/43855\nHome team flag: https://api.fifa.com/api/v3
- /picture/flags-sq-4/EGY\nAway team logo: https://api.fifa.com/api/v3/pictu
- re/teams-sq-4/43817\nAway team flag: https://api.fifa.com/api/v3/picture/f
- lags-sq-4/IRN\nSource: https://api.fifa.com/api/v3/calendar/matches?idComp
- etition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/
- en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-f
- ixtures-results-teams-stadiums
+ : Seattle Stadium\, Seattle\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group G
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2159,19 +1718,12 @@ DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:New Zealand - Belgium
+SUMMARY:🇳🇿 New Zealand - 🇧🇪 Belgium
 LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 64\nStage: First Stage\nGroup: Group 
  G\nTeams: New Zealand (NZL) vs Belgium (BEL)\nKickoff (UTC): 2026-06-27 03
  :00:00 UTC\nKickoff (venue local): 2026-06-26 20:00 (America/Vancouver)\nV
- enue: BC Place Vancouver\, Vancouver\, CAN\nHome team logo: https://api.fi
- fa.com/api/v3/picture/teams-sq-4/43978\nHome team flag: https://api.fifa.c
- om/api/v3/picture/flags-sq-4/NZL\nAway team logo: https://api.fifa.com/api
- /v3/picture/teams-sq-4/43935\nAway team flag: https://api.fifa.com/api/v3/
- picture/flags-sq-4/BEL\nSource: https://api.fifa.com/api/v3/calendar/match
- es?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.
- fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-s
- chedule-fixtures-results-teams-stadiums
+ enue: BC Place Vancouver\, Vancouver\, CAN
 CATEGORIES:FIFA World Cup 2026,First Stage,Group G
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2193,19 +1745,12 @@ DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Cabo Verde - Saudi Arabia
+SUMMARY:🇨🇻 Cabo Verde - 🇸🇦 Saudi Arabia
 LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 65\nStage: First Stage\nGroup: Group 
  H\nTeams: Cabo Verde (CPV) vs Saudi Arabia (KSA)\nKickoff (UTC): 2026-06-2
  7 00:00:00 UTC\nKickoff (venue local): 2026-06-26 19:00 (America/Chicago)\
- nVenue: Houston Stadium\, Houston\, USA\nHome team logo: https://api.fifa.
- com/api/v3/picture/teams-sq-4/43850\nHome team flag: https://api.fifa.com/
- api/v3/picture/flags-sq-4/CPV\nAway team logo: https://api.fifa.com/api/v3
- /picture/teams-sq-4/43835\nAway team flag: https://api.fifa.com/api/v3/pic
- ture/flags-sq-4/KSA\nSource: https://api.fifa.com/api/v3/calendar/matches?
- idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fif
- a.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sche
- dule-fixtures-results-teams-stadiums
+ nVenue: Houston Stadium\, Houston\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group H
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2227,19 +1772,12 @@ DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Uruguay - Spain
+SUMMARY:🇺🇾 Uruguay - 🇪🇸 Spain
 LOCATION:Guadalajara Stadium\, Guadalajara\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 66\nStage: First Stage\nGroup: Group 
  H\nTeams: Uruguay (URU) vs Spain (ESP)\nKickoff (UTC): 2026-06-27 00:00:00
   UTC\nKickoff (venue local): 2026-06-26 18:00 (America/Mexico_City)\nVenue
- : Guadalajara Stadium\, Guadalajara\, MEX\nHome team logo: https://api.fif
- a.com/api/v3/picture/teams-sq-4/43930\nHome team flag: https://api.fifa.co
- m/api/v3/picture/flags-sq-4/URU\nAway team logo: https://api.fifa.com/api/
- v3/picture/teams-sq-4/43969\nAway team flag: https://api.fifa.com/api/v3/p
- icture/flags-sq-4/ESP\nSource: https://api.fifa.com/api/v3/calendar/matche
- s?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.f
- ifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sc
- hedule-fixtures-results-teams-stadiums
+ : Guadalajara Stadium\, Guadalajara\, MEX
 CATEGORIES:FIFA World Cup 2026,First Stage,Group H
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2261,19 +1799,12 @@ DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Panama - England
+SUMMARY:🇵🇦 Panama - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 67\nStage: First Stage\nGroup: Group 
  L\nTeams: Panama (PAN) vs England (ENG)\nKickoff (UTC): 2026-06-27 21:00:0
  0 UTC\nKickoff (venue local): 2026-06-27 17:00 (America/New_York)\nVenue: 
- New York/New Jersey Stadium\, New Jersey\, USA\nHome team logo: https://ap
- i.fifa.com/api/v3/picture/teams-sq-4/43914\nHome team flag: https://api.fi
- fa.com/api/v3/picture/flags-sq-4/PAN\nAway team logo: https://api.fifa.com
- /api/v3/picture/teams-sq-4/43942\nAway team flag: https://api.fifa.com/api
- /v3/picture/flags-sq-4/ENG\nSource: https://api.fifa.com/api/v3/calendar/m
- atches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://
- www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/mat
- ch-schedule-fixtures-results-teams-stadiums
+ New York/New Jersey Stadium\, New Jersey\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group L
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2295,19 +1826,12 @@ DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Croatia - Ghana
+SUMMARY:🇭🇷 Croatia - 🇬🇭 Ghana
 LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 68\nStage: First Stage\nGroup: Group 
  L\nTeams: Croatia (CRO) vs Ghana (GHA)\nKickoff (UTC): 2026-06-27 21:00:00
   UTC\nKickoff (venue local): 2026-06-27 17:00 (America/New_York)\nVenue: P
- hiladelphia Stadium\, Philadelphia\, USA\nHome team logo: https://api.fifa
- .com/api/v3/picture/teams-sq-4/43938\nHome team flag: https://api.fifa.com
- /api/v3/picture/flags-sq-4/CRO\nAway team logo: https://api.fifa.com/api/v
- 3/picture/teams-sq-4/43860\nAway team flag: https://api.fifa.com/api/v3/pi
- cture/flags-sq-4/GHA\nSource: https://api.fifa.com/api/v3/calendar/matches
- ?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fi
- fa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sch
- edule-fixtures-results-teams-stadiums
+ hiladelphia Stadium\, Philadelphia\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group L
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2329,19 +1853,12 @@ DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Algeria - Austria
+SUMMARY:🇩🇿 Algeria - 🇦🇹 Austria
 LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 69\nStage: First Stage\nGroup: Group 
  J\nTeams: Algeria (ALG) vs Austria (AUT)\nKickoff (UTC): 2026-06-28 02:00:
  00 UTC\nKickoff (venue local): 2026-06-27 21:00 (America/Chicago)\nVenue: 
- Kansas City Stadium\, Kansas City\, USA\nHome team logo: https://api.fifa.
- com/api/v3/picture/teams-sq-4/43843\nHome team flag: https://api.fifa.com/
- api/v3/picture/flags-sq-4/ALG\nAway team logo: https://api.fifa.com/api/v3
- /picture/teams-sq-4/43934\nAway team flag: https://api.fifa.com/api/v3/pic
- ture/flags-sq-4/AUT\nSource: https://api.fifa.com/api/v3/calendar/matches?
- idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fif
- a.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sche
- dule-fixtures-results-teams-stadiums
+ Kansas City Stadium\, Kansas City\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group J
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2363,19 +1880,12 @@ DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Jordan - Argentina
+SUMMARY:🇯🇴 Jordan - 🇦🇷 Argentina
 LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 70\nStage: First Stage\nGroup: Group 
  J\nTeams: Jordan (JOR) vs Argentina (ARG)\nKickoff (UTC): 2026-06-28 02:00
  :00 UTC\nKickoff (venue local): 2026-06-27 21:00 (America/Chicago)\nVenue:
-  Dallas Stadium\, Dallas\, USA\nHome team logo: https://api.fifa.com/api/v
- 3/picture/teams-sq-4/43820\nHome team flag: https://api.fifa.com/api/v3/pi
- cture/flags-sq-4/JOR\nAway team logo: https://api.fifa.com/api/v3/picture/
- teams-sq-4/43922\nAway team flag: https://api.fifa.com/api/v3/picture/flag
- s-sq-4/ARG\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompeti
- tion=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/
- tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixt
- ures-results-teams-stadiums
+  Dallas Stadium\, Dallas\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group J
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2397,19 +1907,12 @@ DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Colombia - Portugal
+SUMMARY:🇨🇴 Colombia - 🇵🇹 Portugal
 LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 71\nStage: First Stage\nGroup: Group 
  K\nTeams: Colombia (COL) vs Portugal (POR)\nKickoff (UTC): 2026-06-27 23:3
  0:00 UTC\nKickoff (venue local): 2026-06-27 19:30 (America/New_York)\nVenu
- e: Miami Stadium\, Miami\, USA\nHome team logo: https://api.fifa.com/api/v
- 3/picture/teams-sq-4/43926\nHome team flag: https://api.fifa.com/api/v3/pi
- cture/flags-sq-4/COL\nAway team logo: https://api.fifa.com/api/v3/picture/
- teams-sq-4/43963\nAway team flag: https://api.fifa.com/api/v3/picture/flag
- s-sq-4/POR\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompeti
- tion=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/
- tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixt
- ures-results-teams-stadiums
+ e: Miami Stadium\, Miami\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group K
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2431,19 +1934,12 @@ DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-SUMMARY:Congo DR - Uzbekistan
+SUMMARY:🇨🇩 Congo DR - 🇺🇿 Uzbekistan
 LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 72\nStage: First Stage\nGroup: Group 
  K\nTeams: Congo DR (COD) vs Uzbekistan (UZB)\nKickoff (UTC): 2026-06-27 23
  :30:00 UTC\nKickoff (venue local): 2026-06-27 19:30 (America/New_York)\nVe
- nue: Atlanta Stadium\, Atlanta\, USA\nHome team logo: https://api.fifa.com
- /api/v3/picture/teams-sq-4/20014\nHome team flag: https://api.fifa.com/api
- /v3/picture/flags-sq-4/COD\nAway team logo: https://api.fifa.com/api/v3/pi
- cture/teams-sq-4/44005\nAway team flag: https://api.fifa.com/api/v3/pictur
- e/flags-sq-4/UZB\nSource: https://api.fifa.com/api/v3/calendar/matches?idC
- ompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fifa.c
- om/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedul
- e-fixtures-results-teams-stadiums
+ nue: Atlanta Stadium\, Atlanta\, USA
 CATEGORIES:FIFA World Cup 2026,First Stage,Group K
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2470,10 +1966,7 @@ LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 73\nStage: Round of 32\nTeams: Group 
  A runner-up [2A] vs Group B runner-up [2B]\nKickoff (UTC): 2026-06-28 19:0
  0:00 UTC\nKickoff (venue local): 2026-06-28 12:00 (America/Los_Angeles)\nV
- enue: Los Angeles Stadium\, Los Angeles\, USA\nSource: https://api.fifa.co
- m/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSche
- dule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicou
- sa2026/articles/match-schedule-fixtures-results-teams-stadiums
+ enue: Los Angeles Stadium\, Los Angeles\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2495,11 +1988,7 @@ LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 74\nStage: Round of 32\nTeams: Group 
  E winner [1E] vs Best third-place team from Groups A/B/C/D/F [3ABCDF]\nKic
  koff (UTC): 2026-06-29 20:30:00 UTC\nKickoff (venue local): 2026-06-29 16:
- 30 (America/New_York)\nVenue: Boston Stadium\, Boston\, USA\nSource: https
- ://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&c
- ount=200\nSchedule page: https://www.fifa.com/en/tournaments/mens/worldcup
- /canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiu
- ms
+ 30 (America/New_York)\nVenue: Boston Stadium\, Boston\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2521,10 +2010,7 @@ LOCATION:Monterrey Stadium\, Monterrey\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 75\nStage: Round of 32\nTeams: Group 
  F winner [1F] vs Group C runner-up [2C]\nKickoff (UTC): 2026-06-30 01:00:0
  0 UTC\nKickoff (venue local): 2026-06-29 19:00 (America/Monterrey)\nVenue:
-  Monterrey Stadium\, Monterrey\, MEX\nSource: https://api.fifa.com/api/v3/
- calendar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page
- : https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/ar
- ticles/match-schedule-fixtures-results-teams-stadiums
+  Monterrey Stadium\, Monterrey\, MEX
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2546,10 +2032,7 @@ LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 76\nStage: Round of 32\nTeams: Group 
  C winner [1C] vs Group F runner-up [2F]\nKickoff (UTC): 2026-06-29 17:00:0
  0 UTC\nKickoff (venue local): 2026-06-29 12:00 (America/Chicago)\nVenue: H
- ouston Stadium\, Houston\, USA\nSource: https://api.fifa.com/api/v3/calend
- ar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: http
- s://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles
- /match-schedule-fixtures-results-teams-stadiums
+ ouston Stadium\, Houston\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2572,10 +2055,7 @@ DESCRIPTION:FIFA World Cup 2026 Match 77\nStage: Round of 32\nTeams: Group
  I winner [1I] vs Best third-place team from Groups C/D/F/G/H [3CDFGH]\nKic
  koff (UTC): 2026-06-30 21:00:00 UTC\nKickoff (venue local): 2026-06-30 17:
  00 (America/New_York)\nVenue: New York/New Jersey Stadium\, New Jersey\, U
- SA\nSource: https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&
- idSeason=285023&count=200\nSchedule page: https://www.fifa.com/en/tourname
- nts/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-res
- ults-teams-stadiums
+ SA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2597,10 +2077,7 @@ LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 78\nStage: Round of 32\nTeams: Group 
  E runner-up [2E] vs Group I runner-up [2I]\nKickoff (UTC): 2026-06-30 17:0
  0:00 UTC\nKickoff (venue local): 2026-06-30 12:00 (America/Chicago)\nVenue
- : Dallas Stadium\, Dallas\, USA\nSource: https://api.fifa.com/api/v3/calen
- dar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: htt
- ps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/article
- s/match-schedule-fixtures-results-teams-stadiums
+ : Dallas Stadium\, Dallas\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2622,11 +2099,7 @@ LOCATION:Mexico City Stadium\, Mexico City\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 79\nStage: Round of 32\nTeams: Group 
  A winner [1A] vs Best third-place team from Groups C/E/F/H/I [3CEFHI]\nKic
  koff (UTC): 2026-07-01 01:00:00 UTC\nKickoff (venue local): 2026-06-30 19:
- 00 (America/Mexico_City)\nVenue: Mexico City Stadium\, Mexico City\, MEX\n
- Source: https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSe
- ason=285023&count=200\nSchedule page: https://www.fifa.com/en/tournaments/
- mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results
- -teams-stadiums
+ 00 (America/Mexico_City)\nVenue: Mexico City Stadium\, Mexico City\, MEX
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2648,11 +2121,7 @@ LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 80\nStage: Round of 32\nTeams: Group 
  L winner [1L] vs Best third-place team from Groups E/H/I/J/K [3EHIJK]\nKic
  koff (UTC): 2026-07-01 16:00:00 UTC\nKickoff (venue local): 2026-07-01 12:
- 00 (America/New_York)\nVenue: Atlanta Stadium\, Atlanta\, USA\nSource: htt
- ps://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023
- &count=200\nSchedule page: https://www.fifa.com/en/tournaments/mens/worldc
- up/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stad
- iums
+ 00 (America/New_York)\nVenue: Atlanta Stadium\, Atlanta\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2675,10 +2144,7 @@ DESCRIPTION:FIFA World Cup 2026 Match 81\nStage: Round of 32\nTeams: Group
  D winner [1D] vs Best third-place team from Groups B/E/F/I/J [3BEFIJ]\nKic
  koff (UTC): 2026-07-02 00:00:00 UTC\nKickoff (venue local): 2026-07-01 17:
  00 (America/Los_Angeles)\nVenue: San Francisco Bay Area Stadium\, San Fran
- cisco Bay Area\, USA\nSource: https://api.fifa.com/api/v3/calendar/matches
- ?idCompetition=17&idSeason=285023&count=200\nSchedule page: https://www.fi
- fa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-sch
- edule-fixtures-results-teams-stadiums
+ cisco Bay Area\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2700,11 +2166,7 @@ LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 82\nStage: Round of 32\nTeams: Group 
  G winner [1G] vs Best third-place team from Groups A/E/H/I/J [3AEHIJ]\nKic
  koff (UTC): 2026-07-01 20:00:00 UTC\nKickoff (venue local): 2026-07-01 13:
- 00 (America/Los_Angeles)\nVenue: Seattle Stadium\, Seattle\, USA\nSource: 
- https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285
- 023&count=200\nSchedule page: https://www.fifa.com/en/tournaments/mens/wor
- ldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-s
- tadiums
+ 00 (America/Los_Angeles)\nVenue: Seattle Stadium\, Seattle\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2726,10 +2188,7 @@ LOCATION:Toronto Stadium\, Toronto\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 83\nStage: Round of 32\nTeams: Group 
  K runner-up [2K] vs Group L runner-up [2L]\nKickoff (UTC): 2026-07-02 23:0
  0:00 UTC\nKickoff (venue local): 2026-07-02 19:00 (America/Toronto)\nVenue
- : Toronto Stadium\, Toronto\, CAN\nSource: https://api.fifa.com/api/v3/cal
- endar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: h
- ttps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/artic
- les/match-schedule-fixtures-results-teams-stadiums
+ : Toronto Stadium\, Toronto\, CAN
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2751,10 +2210,7 @@ LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 84\nStage: Round of 32\nTeams: Group 
  H winner [1H] vs Group J runner-up [2J]\nKickoff (UTC): 2026-07-02 19:00:0
  0 UTC\nKickoff (venue local): 2026-07-02 12:00 (America/Los_Angeles)\nVenu
- e: Los Angeles Stadium\, Los Angeles\, USA\nSource: https://api.fifa.com/a
- pi/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSchedul
- e page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2
- 026/articles/match-schedule-fixtures-results-teams-stadiums
+ e: Los Angeles Stadium\, Los Angeles\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2776,11 +2232,7 @@ LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 85\nStage: Round of 32\nTeams: Group 
  B winner [1B] vs Best third-place team from Groups E/F/G/I/J [3EFGIJ]\nKic
  koff (UTC): 2026-07-03 03:00:00 UTC\nKickoff (venue local): 2026-07-02 20:
- 00 (America/Vancouver)\nVenue: BC Place Vancouver\, Vancouver\, CAN\nSourc
- e: https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=
- 285023&count=200\nSchedule page: https://www.fifa.com/en/tournaments/mens/
- worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-team
- s-stadiums
+ 00 (America/Vancouver)\nVenue: BC Place Vancouver\, Vancouver\, CAN
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2802,10 +2254,7 @@ LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 86\nStage: Round of 32\nTeams: Group 
  J winner [1J] vs Group H runner-up [2H]\nKickoff (UTC): 2026-07-03 22:00:0
  0 UTC\nKickoff (venue local): 2026-07-03 18:00 (America/New_York)\nVenue: 
- Miami Stadium\, Miami\, USA\nSource: https://api.fifa.com/api/v3/calendar/
- matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https:/
- /www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/ma
- tch-schedule-fixtures-results-teams-stadiums
+ Miami Stadium\, Miami\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2827,11 +2276,7 @@ LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 87\nStage: Round of 32\nTeams: Group 
  K winner [1K] vs Best third-place team from Groups D/E/I/J/L [3DEIJL]\nKic
  koff (UTC): 2026-07-04 01:30:00 UTC\nKickoff (venue local): 2026-07-03 20:
- 30 (America/Chicago)\nVenue: Kansas City Stadium\, Kansas City\, USA\nSour
- ce: https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason
- =285023&count=200\nSchedule page: https://www.fifa.com/en/tournaments/mens
- /worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-tea
- ms-stadiums
+ 30 (America/Chicago)\nVenue: Kansas City Stadium\, Kansas City\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2853,10 +2298,7 @@ LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 88\nStage: Round of 32\nTeams: Group 
  D runner-up [2D] vs Group G runner-up [2G]\nKickoff (UTC): 2026-07-03 18:0
  0:00 UTC\nKickoff (venue local): 2026-07-03 13:00 (America/Chicago)\nVenue
- : Dallas Stadium\, Dallas\, USA\nSource: https://api.fifa.com/api/v3/calen
- dar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: htt
- ps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/article
- s/match-schedule-fixtures-results-teams-stadiums
+ : Dallas Stadium\, Dallas\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 32
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2878,10 +2320,7 @@ LOCATION:Philadelphia Stadium\, Philadelphia\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 89\nStage: Round of 16\nTeams: Winner
   Match 74 [W74] vs Winner Match 77 [W77]\nKickoff (UTC): 2026-07-04 21:00:
  00 UTC\nKickoff (venue local): 2026-07-04 17:00 (America/New_York)\nVenue:
-  Philadelphia Stadium\, Philadelphia\, USA\nSource: https://api.fifa.com/a
- pi/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSchedul
- e page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2
- 026/articles/match-schedule-fixtures-results-teams-stadiums
+  Philadelphia Stadium\, Philadelphia\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 16
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2903,10 +2342,7 @@ LOCATION:Houston Stadium\, Houston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 90\nStage: Round of 16\nTeams: Winner
   Match 73 [W73] vs Winner Match 75 [W75]\nKickoff (UTC): 2026-07-04 17:00:
  00 UTC\nKickoff (venue local): 2026-07-04 12:00 (America/Chicago)\nVenue: 
- Houston Stadium\, Houston\, USA\nSource: https://api.fifa.com/api/v3/calen
- dar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: htt
- ps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/article
- s/match-schedule-fixtures-results-teams-stadiums
+ Houston Stadium\, Houston\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 16
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2928,10 +2364,7 @@ LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 91\nStage: Round of 16\nTeams: Winner
   Match 76 [W76] vs Winner Match 78 [W78]\nKickoff (UTC): 2026-07-05 20:00:
  00 UTC\nKickoff (venue local): 2026-07-05 16:00 (America/New_York)\nVenue:
-  New York/New Jersey Stadium\, New Jersey\, USA\nSource: https://api.fifa.
- com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSc
- hedule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexic
- ousa2026/articles/match-schedule-fixtures-results-teams-stadiums
+  New York/New Jersey Stadium\, New Jersey\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 16
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2953,10 +2386,7 @@ LOCATION:Mexico City Stadium\, Mexico City\, MEX
 DESCRIPTION:FIFA World Cup 2026 Match 92\nStage: Round of 16\nTeams: Winner
   Match 79 [W79] vs Winner Match 80 [W80]\nKickoff (UTC): 2026-07-06 00:00:
  00 UTC\nKickoff (venue local): 2026-07-05 18:00 (America/Mexico_City)\nVen
- ue: Mexico City Stadium\, Mexico City\, MEX\nSource: https://api.fifa.com/
- api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSchedu
- le page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa
- 2026/articles/match-schedule-fixtures-results-teams-stadiums
+ ue: Mexico City Stadium\, Mexico City\, MEX
 CATEGORIES:FIFA World Cup 2026,Round of 16
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -2978,10 +2408,7 @@ LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 93\nStage: Round of 16\nTeams: Winner
   Match 83 [W83] vs Winner Match 84 [W84]\nKickoff (UTC): 2026-07-06 19:00:
  00 UTC\nKickoff (venue local): 2026-07-06 14:00 (America/Chicago)\nVenue: 
- Dallas Stadium\, Dallas\, USA\nSource: https://api.fifa.com/api/v3/calenda
- r/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https
- ://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/
- match-schedule-fixtures-results-teams-stadiums
+ Dallas Stadium\, Dallas\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 16
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3003,10 +2430,7 @@ LOCATION:Seattle Stadium\, Seattle\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 94\nStage: Round of 16\nTeams: Winner
   Match 81 [W81] vs Winner Match 82 [W82]\nKickoff (UTC): 2026-07-07 00:00:
  00 UTC\nKickoff (venue local): 2026-07-06 17:00 (America/Los_Angeles)\nVen
- ue: Seattle Stadium\, Seattle\, USA\nSource: https://api.fifa.com/api/v3/c
- alendar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page:
-  https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/art
- icles/match-schedule-fixtures-results-teams-stadiums
+ ue: Seattle Stadium\, Seattle\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 16
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3028,10 +2452,7 @@ LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 95\nStage: Round of 16\nTeams: Winner
   Match 86 [W86] vs Winner Match 88 [W88]\nKickoff (UTC): 2026-07-07 16:00:
  00 UTC\nKickoff (venue local): 2026-07-07 12:00 (America/New_York)\nVenue:
-  Atlanta Stadium\, Atlanta\, USA\nSource: https://api.fifa.com/api/v3/cale
- ndar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: ht
- tps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articl
- es/match-schedule-fixtures-results-teams-stadiums
+  Atlanta Stadium\, Atlanta\, USA
 CATEGORIES:FIFA World Cup 2026,Round of 16
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3053,10 +2474,7 @@ LOCATION:BC Place Vancouver\, Vancouver\, CAN
 DESCRIPTION:FIFA World Cup 2026 Match 96\nStage: Round of 16\nTeams: Winner
   Match 85 [W85] vs Winner Match 87 [W87]\nKickoff (UTC): 2026-07-07 20:00:
  00 UTC\nKickoff (venue local): 2026-07-07 13:00 (America/Vancouver)\nVenue
- : BC Place Vancouver\, Vancouver\, CAN\nSource: https://api.fifa.com/api/v
- 3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule pa
- ge: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/
- articles/match-schedule-fixtures-results-teams-stadiums
+ : BC Place Vancouver\, Vancouver\, CAN
 CATEGORIES:FIFA World Cup 2026,Round of 16
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3078,10 +2496,7 @@ LOCATION:Boston Stadium\, Boston\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 97\nStage: Quarter-final\nTeams: Winn
  er Match 89 [W89] vs Winner Match 90 [W90]\nKickoff (UTC): 2026-07-09 20:0
  0:00 UTC\nKickoff (venue local): 2026-07-09 16:00 (America/New_York)\nVenu
- e: Boston Stadium\, Boston\, USA\nSource: https://api.fifa.com/api/v3/cale
- ndar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: ht
- tps://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articl
- es/match-schedule-fixtures-results-teams-stadiums
+ e: Boston Stadium\, Boston\, USA
 CATEGORIES:FIFA World Cup 2026,Quarter-final
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3103,10 +2518,7 @@ LOCATION:Los Angeles Stadium\, Los Angeles\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 98\nStage: Quarter-final\nTeams: Winn
  er Match 93 [W93] vs Winner Match 94 [W94]\nKickoff (UTC): 2026-07-10 19:0
  0:00 UTC\nKickoff (venue local): 2026-07-10 12:00 (America/Los_Angeles)\nV
- enue: Los Angeles Stadium\, Los Angeles\, USA\nSource: https://api.fifa.co
- m/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSche
- dule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicou
- sa2026/articles/match-schedule-fixtures-results-teams-stadiums
+ enue: Los Angeles Stadium\, Los Angeles\, USA
 CATEGORIES:FIFA World Cup 2026,Quarter-final
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3128,10 +2540,7 @@ LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 99\nStage: Quarter-final\nTeams: Winn
  er Match 91 [W91] vs Winner Match 92 [W92]\nKickoff (UTC): 2026-07-11 21:0
  0:00 UTC\nKickoff (venue local): 2026-07-11 17:00 (America/New_York)\nVenu
- e: Miami Stadium\, Miami\, USA\nSource: https://api.fifa.com/api/v3/calend
- ar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: http
- s://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles
- /match-schedule-fixtures-results-teams-stadiums
+ e: Miami Stadium\, Miami\, USA
 CATEGORIES:FIFA World Cup 2026,Quarter-final
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3153,10 +2562,7 @@ LOCATION:Kansas City Stadium\, Kansas City\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 100\nStage: Quarter-final\nTeams: Win
  ner Match 95 [W95] vs Winner Match 96 [W96]\nKickoff (UTC): 2026-07-12 01:
  00:00 UTC\nKickoff (venue local): 2026-07-11 20:00 (America/Chicago)\nVenu
- e: Kansas City Stadium\, Kansas City\, USA\nSource: https://api.fifa.com/a
- pi/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSchedul
- e page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2
- 026/articles/match-schedule-fixtures-results-teams-stadiums
+ e: Kansas City Stadium\, Kansas City\, USA
 CATEGORIES:FIFA World Cup 2026,Quarter-final
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3178,10 +2584,7 @@ LOCATION:Dallas Stadium\, Dallas\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 101\nStage: Semi-final\nTeams: Winner
   Match 97 [W97] vs Winner Match 98 [W98]\nKickoff (UTC): 2026-07-14 19:00:
  00 UTC\nKickoff (venue local): 2026-07-14 14:00 (America/Chicago)\nVenue: 
- Dallas Stadium\, Dallas\, USA\nSource: https://api.fifa.com/api/v3/calenda
- r/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: https
- ://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/
- match-schedule-fixtures-results-teams-stadiums
+ Dallas Stadium\, Dallas\, USA
 CATEGORIES:FIFA World Cup 2026,Semi-final
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3203,10 +2606,7 @@ LOCATION:Atlanta Stadium\, Atlanta\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 102\nStage: Semi-final\nTeams: Winner
   Match 99 [W99] vs Winner Match 100 [W100]\nKickoff (UTC): 2026-07-15 19:0
  0:00 UTC\nKickoff (venue local): 2026-07-15 15:00 (America/New_York)\nVenu
- e: Atlanta Stadium\, Atlanta\, USA\nSource: https://api.fifa.com/api/v3/ca
- lendar/matches?idCompetition=17&idSeason=285023&count=200\nSchedule page: 
- https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/arti
- cles/match-schedule-fixtures-results-teams-stadiums
+ e: Atlanta Stadium\, Atlanta\, USA
 CATEGORIES:FIFA World Cup 2026,Semi-final
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3228,10 +2628,7 @@ LOCATION:Miami Stadium\, Miami\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 103\nStage: Play-off for third place\
  nTeams: Runner-up Match 101 [RU101] vs Runner-up Match 102 [RU102]\nKickof
  f (UTC): 2026-07-18 21:00:00 UTC\nKickoff (venue local): 2026-07-18 17:00 
- (America/New_York)\nVenue: Miami Stadium\, Miami\, USA\nSource: https://ap
- i.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=
- 200\nSchedule page: https://www.fifa.com/en/tournaments/mens/worldcup/cana
- damexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums
+ (America/New_York)\nVenue: Miami Stadium\, Miami\, USA
 CATEGORIES:FIFA World Cup 2026,Play-off for third place
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums
@@ -3253,10 +2650,7 @@ LOCATION:New York/New Jersey Stadium\, New Jersey\, USA
 DESCRIPTION:FIFA World Cup 2026 Match 104\nStage: Final\nTeams: Winner Matc
  h 101 [W101] vs Winner Match 102 [W102]\nKickoff (UTC): 2026-07-19 19:00:0
  0 UTC\nKickoff (venue local): 2026-07-19 15:00 (America/New_York)\nVenue: 
- New York/New Jersey Stadium\, New Jersey\, USA\nSource: https://api.fifa.c
- om/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200\nSch
- edule page: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexico
- usa2026/articles/match-schedule-fixtures-results-teams-stadiums
+ New York/New Jersey Stadium\, New Jersey\, USA
 CATEGORIES:FIFA World Cup 2026,Final
 URL:https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/a
  rticles/match-schedule-fixtures-results-teams-stadiums

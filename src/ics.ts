@@ -6,6 +6,57 @@ import {
 } from "./constants.ts";
 import type { NormalizedDataFile, NormalizedMatch, Participant } from "./types.ts";
 
+const FIFA_FLAG_CODES: Record<string, string> = {
+  ALG: "DZ",
+  ARG: "AR",
+  AUS: "AU",
+  AUT: "AT",
+  BEL: "BE",
+  BIH: "BA",
+  BRA: "BR",
+  CAN: "CA",
+  CIV: "CI",
+  COD: "CD",
+  COL: "CO",
+  CPV: "CV",
+  CRO: "HR",
+  CUW: "CW",
+  CZE: "CZ",
+  ECU: "EC",
+  EGY: "EG",
+  ENG: "GB-ENG",
+  ESP: "ES",
+  FRA: "FR",
+  GER: "DE",
+  GHA: "GH",
+  HAI: "HT",
+  IRN: "IR",
+  IRQ: "IQ",
+  JOR: "JO",
+  JPN: "JP",
+  KOR: "KR",
+  KSA: "SA",
+  MAR: "MA",
+  MEX: "MX",
+  NED: "NL",
+  NOR: "NO",
+  NZL: "NZ",
+  PAN: "PA",
+  PAR: "PY",
+  POR: "PT",
+  QAT: "QA",
+  RSA: "ZA",
+  SCO: "GB-SCT",
+  SEN: "SN",
+  SUI: "CH",
+  SWE: "SE",
+  TUN: "TN",
+  TUR: "TR",
+  URU: "UY",
+  USA: "US",
+  UZB: "UZ"
+};
+
 export function buildIcs(data: NormalizedDataFile): string {
   const generatedAt = toIcsUtc(new Date(data.generatedAt));
   const lines = [
@@ -75,26 +126,25 @@ function eventDescription(match: NormalizedMatch): string {
     match.winner ? `Winner: ${match.winner === "home" ? match.home.name : match.away.name}` : undefined,
     `Kickoff (UTC): ${formatUtcDisplay(match.utcKickoff)}`,
     `Kickoff (venue local): ${formatLocalDisplay(match.localKickoff)} (${match.venue.timeZone})`,
-    `Venue: ${match.venue.name}, ${match.venue.city}${match.venue.countryCode ? `, ${match.venue.countryCode}` : ""}`,
-    ...teamImageLines("Home", match.home),
-    ...teamImageLines("Away", match.away),
-    `Source: ${match.sourceUrl}`,
-    `Schedule page: ${FIFA_SCHEDULE_PAGE}`
+    `Venue: ${match.venue.name}, ${match.venue.city}${match.venue.countryCode ? `, ${match.venue.countryCode}` : ""}`
   ].filter((line): line is string => Boolean(line));
 
   return lines.join("\n");
 }
 
 function eventSummary(match: NormalizedMatch): string {
+  const homeName = formatSummaryParticipant(match.home);
+  const awayName = formatSummaryParticipant(match.away);
+
   if (!match.score) {
-    return `${match.home.name} - ${match.away.name}`;
+    return `${homeName} - ${awayName}`;
   }
 
   const penaltySuffix = match.score.homePenalties !== undefined && match.score.awayPenalties !== undefined
     ? ` (pens ${match.score.homePenalties}-${match.score.awayPenalties})`
     : "";
 
-  return `${match.home.name} (${match.score.home}) - ${match.away.name} (${match.score.away})${penaltySuffix}`;
+  return `${homeName} (${match.score.home}) - ${awayName} (${match.score.away})${penaltySuffix}`;
 }
 
 function formatScore(match: NormalizedMatch): string {
@@ -114,13 +164,34 @@ function formatParticipant(participant: Participant): string {
   return participant.name;
 }
 
-function teamImageLines(label: string, participant: Participant): string[] {
-  const lines = [];
-  if (participant.logoUrl) lines.push(`${label} team logo: ${participant.logoUrl}`);
-  if (participant.flagUrl && participant.flagUrl !== participant.logoUrl) {
-    lines.push(`${label} team flag: ${participant.flagUrl}`);
+function formatSummaryParticipant(participant: Participant): string {
+  const flag = flagEmoji(participant);
+  return flag ? `${flag} ${participant.name}` : participant.name;
+}
+
+function flagEmoji(participant: Participant): string | undefined {
+  const fifaCode = participant.countryCode ?? participant.abbreviation;
+  if (!fifaCode) return undefined;
+
+  const flagCode = FIFA_FLAG_CODES[fifaCode] ?? fifaCode;
+  if (/^[A-Z]{2}$/.test(flagCode)) {
+    return [...flagCode]
+      .map((letter) => String.fromCodePoint(0x1F1E6 + letter.charCodeAt(0) - 65))
+      .join("");
   }
-  return lines;
+
+  if (flagCode === "GB-ENG") return subdivisionFlagEmoji("gbeng");
+  if (flagCode === "GB-SCT") return subdivisionFlagEmoji("gbsct");
+
+  return undefined;
+}
+
+function subdivisionFlagEmoji(tag: string): string {
+  return [
+    String.fromCodePoint(0x1F3F4),
+    ...[...tag].map((letter) => String.fromCodePoint(0xE0000 + letter.charCodeAt(0))),
+    String.fromCodePoint(0xE007F)
+  ].join("");
 }
 
 function property(name: string, value: string, escape = true): string {

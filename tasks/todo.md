@@ -1,5 +1,21 @@
 # World Cup 2026 Calendar Feed
 
+## Active Polish Plan: Event Summaries And Descriptions
+
+- [x] Add flag icons before team names in event summaries.
+- [x] Remove team logo and flag URL text from descriptions.
+- [x] Remove source and schedule page URL text from descriptions.
+- [x] Add tests and validator checks for the new title/description contract.
+- [x] Regenerate and validate the calendar feed.
+
+## Event Summary And Description Polish Review
+
+- Event summaries now prefix known teams with flag emoji, for example `🇲🇽 Mexico (2) - 🇿🇦 South Africa (0)`.
+- Event descriptions no longer include team logo URLs, flag URLs, source URL text, or schedule page URL text.
+- ICS metadata properties such as `URL`, `X-FIFA-SOURCE`, `ATTACH`, and `IMAGE` remain available outside the description for clients that use them.
+- Verification: `npm run build` passed with 11 tests and 104 validated events.
+- Generated ICS inspection: 0 `SUMMARY:Match X:` prefixes, 0 descriptions with URLs, and 0 descriptions with image URL text.
+
 ## Active Feature Fix Plan: Event Result Titles
 
 - [x] Change event `SUMMARY` formatting to remove `Match X` prefixes.
