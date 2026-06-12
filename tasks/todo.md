@@ -6,7 +6,16 @@
 - [x] Show scores in event titles as `Team (goals) - Team (goals)`.
 - [x] Add regression tests for scored and unscored event summaries.
 - [x] Regenerate and validate the calendar feed.
-- [ ] Push and rerun the refresh workflow remotely.
+- [x] Push and rerun the refresh workflow remotely.
+
+## Event Result Title Review
+
+- Event `SUMMARY` values no longer start with `Match X:`.
+- Completed match summaries now use `Team (goals) - Team (goals)`, for example `Mexico (2) - South Africa (0)`.
+- Future/unscored match summaries now use `Team - Team`.
+- Validator now rejects old `Match X:` summary prefixes and checks formatted score summaries for scored matches.
+- Verification: local `npm run build` passed with 10 tests and 104 validated events; workflow run `27409729518` passed on commit `1319727`.
+- Live verification: `https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics` serves 104 events, 0 old `SUMMARY:Match X:` prefixes, and the first two result titles in the requested score format.
 
 ## Active Hardening Plan: FIFA Venue Label Changes
 
