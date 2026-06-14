@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T05:10:07.537Z",
+  "generatedAt": "2026-06-14T14:30:23.869Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -236,11 +236,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR"
       },
       "score": {
-        "home": 1,
+        "home": 2,
         "away": 0
       },
-      "matchStatus": 3,
-      "resultType": 0,
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "BC Place Vancouver",
         "city": "Vancouver",
