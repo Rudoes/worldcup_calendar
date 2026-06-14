@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T04:52:55.413Z",
+  "generatedAt": "2026-06-14T05:10:07.537Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -194,8 +194,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43967",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SCO"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Boston Stadium",
         "city": "Boston",
@@ -230,7 +235,11 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43972",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUR"
       },
-      "matchStatus": 1,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "matchStatus": 3,
       "resultType": 0,
       "venue": {
         "name": "BC Place Vancouver",
@@ -266,8 +275,12 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43872",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
@@ -302,8 +315,12 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43971",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SUI"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "San Francisco Bay Area Stadium",
         "city": "San Francisco Bay Area",
