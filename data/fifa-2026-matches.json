@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T14:30:23.869Z",
+  "generatedAt": "2026-06-15T05:29:30.314Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -356,8 +356,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43927",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Philadelphia Stadium",
         "city": "Philadelphia",
@@ -392,8 +397,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/1895293",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CUW"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 7,
+        "away": 1
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Houston Stadium",
         "city": "Houston",
@@ -428,8 +438,12 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43819",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/JPN"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Dallas Stadium",
         "city": "Dallas",
@@ -464,8 +478,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43888",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/TUN"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Monterrey Stadium",
         "city": "Monterrey",
