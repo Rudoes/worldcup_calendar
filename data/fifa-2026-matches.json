@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T05:29:30.314Z",
+  "generatedAt": "2026-06-15T17:27:32.592Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -555,7 +555,11 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43850",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV"
       },
-      "matchStatus": 1,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "matchStatus": 3,
       "resultType": 0,
       "venue": {
         "name": "Atlanta Stadium",
