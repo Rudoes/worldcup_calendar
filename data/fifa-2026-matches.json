@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T17:27:32.592Z",
+  "generatedAt": "2026-06-16T05:35:37.890Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -519,8 +519,12 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43930",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/URU"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Miami Stadium",
         "city": "Miami",
@@ -559,8 +563,8 @@
         "home": 0,
         "away": 0
       },
-      "matchStatus": 3,
-      "resultType": 0,
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Atlanta Stadium",
         "city": "Atlanta",
@@ -595,8 +599,12 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43978",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NZL"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
@@ -631,8 +639,12 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43855",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/EGY"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Seattle Stadium",
         "city": "Seattle",
