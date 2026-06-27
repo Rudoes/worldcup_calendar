@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T04:17:34.795Z",
+  "generatedAt": "2026-06-27T14:07:23.210Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -2561,8 +2561,8 @@
         "home": 1,
         "away": 1
       },
-      "matchStatus": 3,
-      "resultType": 0,
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Seattle Stadium",
         "city": "Seattle",
@@ -2598,11 +2598,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
       },
       "score": {
-        "home": 0,
-        "away": 2
+        "home": 1,
+        "away": 5
       },
-      "matchStatus": 3,
-      "resultType": 0,
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "BC Place Vancouver",
         "city": "Vancouver",
@@ -3221,8 +3222,12 @@
       "localKickoff": "2026-07-01T13:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Group G winner",
-        "placeholder": "1G"
+        "name": "Belgium",
+        "abbreviation": "BEL",
+        "fifaTeamId": "43935",
+        "countryCode": "BEL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43935",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
       },
       "away": {
         "name": "Best third-place team from Groups A/E/H/I/J",
@@ -3407,8 +3412,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUS"
       },
       "away": {
-        "name": "Group G runner-up",
-        "placeholder": "2G"
+        "name": "Egypt",
+        "abbreviation": "EGY",
+        "fifaTeamId": "43855",
+        "countryCode": "EGY",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43855",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/EGY"
       },
       "matchStatus": 1,
       "resultType": 0,
