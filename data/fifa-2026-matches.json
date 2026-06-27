@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T04:41:05.655Z",
+  "generatedAt": "2026-06-27T04:17:34.795Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -2475,8 +2475,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43946",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Boston Stadium",
         "city": "Boston",
@@ -2511,8 +2516,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43818",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRQ"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Toronto Stadium",
         "city": "Toronto",
@@ -2547,7 +2557,11 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43817",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/IRN"
       },
-      "matchStatus": 1,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "matchStatus": 3,
       "resultType": 0,
       "venue": {
         "name": "Seattle Stadium",
@@ -2583,7 +2597,11 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43935",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
       },
-      "matchStatus": 1,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "matchStatus": 3,
       "resultType": 0,
       "venue": {
         "name": "BC Place Vancouver",
@@ -2619,8 +2637,12 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43835",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/KSA"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Houston Stadium",
         "city": "Houston",
@@ -2655,8 +2677,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43969",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Guadalajara Stadium",
         "city": "Guadalajara",
@@ -2934,8 +2961,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/GER"
       },
       "away": {
-        "name": "Best third-place team from Groups A/B/C/D/F",
-        "placeholder": "3ABCDF"
+        "name": "Paraguay",
+        "abbreviation": "PAR",
+        "fifaTeamId": "43928",
+        "countryCode": "PAR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43928",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3027,12 +3058,20 @@
       "localKickoff": "2026-06-30T17:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Group I winner",
-        "placeholder": "1I"
+        "name": "France",
+        "abbreviation": "FRA",
+        "fifaTeamId": "43946",
+        "countryCode": "FRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43946",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA"
       },
       "away": {
-        "name": "Best third-place team from Groups C/D/F/G/H",
-        "placeholder": "3CDFGH"
+        "name": "Sweden",
+        "abbreviation": "SWE",
+        "fifaTeamId": "43970",
+        "countryCode": "SWE",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43970",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3062,8 +3101,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CIV"
       },
       "away": {
-        "name": "Group I runner-up",
-        "placeholder": "2I"
+        "name": "Norway",
+        "abbreviation": "NOR",
+        "fifaTeamId": "43961",
+        "countryCode": "NOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43961",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3232,8 +3275,12 @@
       "localKickoff": "2026-07-02T12:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Group H winner",
-        "placeholder": "1H"
+        "name": "Spain",
+        "abbreviation": "ESP",
+        "fifaTeamId": "43969",
+        "countryCode": "ESP",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43969",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
       },
       "away": {
         "name": "Group J runner-up",
@@ -3298,8 +3345,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ARG"
       },
       "away": {
-        "name": "Group H runner-up",
-        "placeholder": "2H"
+        "name": "Cabo Verde",
+        "abbreviation": "CPV",
+        "fifaTeamId": "43850",
+        "countryCode": "CPV",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43850",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CPV"
       },
       "matchStatus": 1,
       "resultType": 0,
