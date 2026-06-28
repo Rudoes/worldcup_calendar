@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T14:07:23.210Z",
+  "generatedAt": "2026-06-28T04:52:51.740Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -2719,8 +2719,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43942",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
@@ -2755,8 +2760,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43860",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/GHA"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Philadelphia Stadium",
         "city": "Philadelphia",
@@ -2791,8 +2801,12 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43934",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUT"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Kansas City Stadium",
         "city": "Kansas City",
@@ -2827,8 +2841,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43922",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ARG"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Dallas Stadium",
         "city": "Dallas",
@@ -2863,8 +2882,12 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43963",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/POR"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Miami Stadium",
         "city": "Miami",
@@ -2899,8 +2922,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/44005",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/UZB"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Atlanta Stadium",
         "city": "Atlanta",
@@ -3137,8 +3165,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MEX"
       },
       "away": {
-        "name": "Best third-place team from Groups C/E/F/H/I",
-        "placeholder": "3CEFHI"
+        "name": "Ecuador",
+        "abbreviation": "ECU",
+        "fifaTeamId": "43927",
+        "countryCode": "ECU",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43927",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3160,12 +3192,20 @@
       "localKickoff": "2026-07-01T12:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Group L winner",
-        "placeholder": "1L"
+        "name": "England",
+        "abbreviation": "ENG",
+        "fifaTeamId": "43942",
+        "countryCode": "ENG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43942",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG"
       },
       "away": {
-        "name": "Best third-place team from Groups E/H/I/J/K",
-        "placeholder": "3EHIJK"
+        "name": "Congo DR",
+        "abbreviation": "COD",
+        "fifaTeamId": "20014",
+        "countryCode": "COD",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/20014",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/COD"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3230,8 +3270,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
       },
       "away": {
-        "name": "Best third-place team from Groups A/E/H/I/J",
-        "placeholder": "3AEHIJ"
+        "name": "Senegal",
+        "abbreviation": "SEN",
+        "fifaTeamId": "43879",
+        "countryCode": "SEN",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43879",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SEN"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3253,12 +3297,20 @@
       "localKickoff": "2026-07-02T19:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Group K runner-up",
-        "placeholder": "2K"
+        "name": "Portugal",
+        "abbreviation": "POR",
+        "fifaTeamId": "43963",
+        "countryCode": "POR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43963",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/POR"
       },
       "away": {
-        "name": "Group L runner-up",
-        "placeholder": "2L"
+        "name": "Croatia",
+        "abbreviation": "CRO",
+        "fifaTeamId": "43938",
+        "countryCode": "CRO",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43938",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3288,8 +3340,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
       },
       "away": {
-        "name": "Group J runner-up",
-        "placeholder": "2J"
+        "name": "Austria",
+        "abbreviation": "AUT",
+        "fifaTeamId": "43934",
+        "countryCode": "AUT",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43934",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUT"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3319,8 +3375,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SUI"
       },
       "away": {
-        "name": "Best third-place team from Groups E/F/G/I/J",
-        "placeholder": "3EFGIJ"
+        "name": "Algeria",
+        "abbreviation": "ALG",
+        "fifaTeamId": "43843",
+        "countryCode": "ALG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43843",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ALG"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3377,12 +3437,20 @@
       "localKickoff": "2026-07-03T20:30:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Group K winner",
-        "placeholder": "1K"
+        "name": "Colombia",
+        "abbreviation": "COL",
+        "fifaTeamId": "43926",
+        "countryCode": "COL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43926",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/COL"
       },
       "away": {
-        "name": "Best third-place team from Groups D/E/I/J/L",
-        "placeholder": "3DEIJL"
+        "name": "Ghana",
+        "abbreviation": "GHA",
+        "fifaTeamId": "43860",
+        "countryCode": "GHA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43860",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/GHA"
       },
       "matchStatus": 1,
       "resultType": 0,
