@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T05:00:26.432Z",
+  "generatedAt": "2026-06-30T04:34:48.848Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -3002,8 +3002,15 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43928",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homePenalties": 3,
+        "awayPenalties": 4
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 2,
       "venue": {
         "name": "Boston Stadium",
         "city": "Boston",
@@ -3037,8 +3044,15 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43872",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 1,
+        "homePenalties": 2,
+        "awayPenalties": 3
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 2,
       "venue": {
         "name": "Monterrey Stadium",
         "city": "Monterrey",
@@ -3072,8 +3086,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43819",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/JPN"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Houston Stadium",
         "city": "Houston",
@@ -3512,8 +3531,12 @@
       "localKickoff": "2026-07-04T17:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Winner Match 74",
-        "placeholder": "W74"
+        "name": "Paraguay",
+        "abbreviation": "PAR",
+        "fifaTeamId": "43928",
+        "countryCode": "PAR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43928",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR"
       },
       "away": {
         "name": "Winner Match 77",
@@ -3547,8 +3570,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CAN"
       },
       "away": {
-        "name": "Winner Match 75",
-        "placeholder": "W75"
+        "name": "Morocco",
+        "abbreviation": "MAR",
+        "fifaTeamId": "43872",
+        "countryCode": "MAR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43872",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3570,8 +3597,12 @@
       "localKickoff": "2026-07-05T16:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Winner Match 76",
-        "placeholder": "W76"
+        "name": "Brazil",
+        "abbreviation": "BRA",
+        "fifaTeamId": "43924",
+        "countryCode": "BRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43924",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BRA"
       },
       "away": {
         "name": "Winner Match 78",
