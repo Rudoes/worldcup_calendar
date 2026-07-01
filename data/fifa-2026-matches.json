@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T04:34:48.848Z",
+  "generatedAt": "2026-07-01T04:53:22.468Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -3126,8 +3126,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43970",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/SWE"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
@@ -3161,8 +3166,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43961",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Dallas Stadium",
         "city": "Dallas",
@@ -3177,8 +3187,8 @@
       "matchNumber": 79,
       "fifaMatchId": "400021520",
       "stage": "Round of 32",
-      "utcKickoff": "2026-07-01T01:00:00Z",
-      "localKickoff": "2026-06-30T19:00:00Z",
+      "utcKickoff": "2026-07-01T02:00:00Z",
+      "localKickoff": "2026-06-30T20:00:00Z",
       "durationMinutes": 180,
       "home": {
         "name": "Mexico",
@@ -3196,8 +3206,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43927",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ECU"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Mexico City Stadium",
         "city": "Mexico City",
@@ -3539,8 +3554,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/PAR"
       },
       "away": {
-        "name": "Winner Match 77",
-        "placeholder": "W77"
+        "name": "France",
+        "abbreviation": "FRA",
+        "fifaTeamId": "43946",
+        "countryCode": "FRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43946",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3605,8 +3624,12 @@
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BRA"
       },
       "away": {
-        "name": "Winner Match 78",
-        "placeholder": "W78"
+        "name": "Norway",
+        "abbreviation": "NOR",
+        "fifaTeamId": "43961",
+        "countryCode": "NOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43961",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR"
       },
       "matchStatus": 1,
       "resultType": 0,
@@ -3628,8 +3651,12 @@
       "localKickoff": "2026-07-05T18:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Winner Match 79",
-        "placeholder": "W79"
+        "name": "Mexico",
+        "abbreviation": "MEX",
+        "fifaTeamId": "43911",
+        "countryCode": "MEX",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43911",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MEX"
       },
       "away": {
         "name": "Winner Match 80",
