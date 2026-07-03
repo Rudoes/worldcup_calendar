@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T04:20:47.612Z",
+  "generatedAt": "2026-07-03T04:07:36.226Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -3366,8 +3366,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43938",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/CRO"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Toronto Stadium",
         "city": "Toronto",
@@ -3401,8 +3406,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43934",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/AUT"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Los Angeles Stadium",
         "city": "Los Angeles",
@@ -3436,7 +3446,11 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43843",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ALG"
       },
-      "matchStatus": 1,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "matchStatus": 3,
       "resultType": 0,
       "venue": {
         "name": "BC Place Vancouver",
@@ -3701,12 +3715,20 @@
       "localKickoff": "2026-07-06T14:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Winner Match 83",
-        "placeholder": "W83"
+        "name": "Portugal",
+        "abbreviation": "POR",
+        "fifaTeamId": "43963",
+        "countryCode": "POR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43963",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/POR"
       },
       "away": {
-        "name": "Winner Match 84",
-        "placeholder": "W84"
+        "name": "Spain",
+        "abbreviation": "ESP",
+        "fifaTeamId": "43969",
+        "countryCode": "ESP",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43969",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
       },
       "matchStatus": 1,
       "resultType": 0,
