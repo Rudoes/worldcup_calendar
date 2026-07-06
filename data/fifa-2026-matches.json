@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T04:19:52.099Z",
+  "generatedAt": "2026-07-06T04:38:30.018Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -3688,8 +3688,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43961",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "New York/New Jersey Stadium",
         "city": "New Jersey",
@@ -3704,8 +3709,8 @@
       "matchNumber": 92,
       "fifaMatchId": "400021531",
       "stage": "Round of 16",
-      "utcKickoff": "2026-07-06T00:00:00Z",
-      "localKickoff": "2026-07-05T18:00:00Z",
+      "utcKickoff": "2026-07-06T01:00:00Z",
+      "localKickoff": "2026-07-05T19:00:00Z",
       "durationMinutes": 180,
       "home": {
         "name": "Mexico",
@@ -3723,8 +3728,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43942",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Mexico City Stadium",
         "city": "Mexico City",
@@ -3945,12 +3955,20 @@
       "localKickoff": "2026-07-11T17:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Winner Match 91",
-        "placeholder": "W91"
+        "name": "Norway",
+        "abbreviation": "NOR",
+        "fifaTeamId": "43961",
+        "countryCode": "NOR",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43961",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/NOR"
       },
       "away": {
-        "name": "Winner Match 92",
-        "placeholder": "W92"
+        "name": "England",
+        "abbreviation": "ENG",
+        "fifaTeamId": "43942",
+        "countryCode": "ENG",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43942",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ENG"
       },
       "matchStatus": 1,
       "resultType": 0,
