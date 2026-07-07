@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T04:38:30.018Z",
+  "generatedAt": "2026-07-07T04:16:19.481Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -3768,8 +3768,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43969",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Dallas Stadium",
         "city": "Dallas",
@@ -3803,8 +3808,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43935",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "winner": "away",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Seattle Stadium",
         "city": "Seattle",
@@ -3928,12 +3938,20 @@
       "localKickoff": "2026-07-10T12:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Winner Match 93",
-        "placeholder": "W93"
+        "name": "Spain",
+        "abbreviation": "ESP",
+        "fifaTeamId": "43969",
+        "countryCode": "ESP",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43969",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/ESP"
       },
       "away": {
-        "name": "Winner Match 94",
-        "placeholder": "W94"
+        "name": "Belgium",
+        "abbreviation": "BEL",
+        "fifaTeamId": "43935",
+        "countryCode": "BEL",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43935",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/BEL"
       },
       "matchStatus": 1,
       "resultType": 0,
