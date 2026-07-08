@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>FIFA World Cup 2026 Calendar</title>
+    <title>Calendar Feeds</title>
     <style>
       :root {
         color-scheme: light;
@@ -59,7 +59,7 @@
         display: flex;
         flex-wrap: wrap;
         gap: 12px;
-        margin-top: 28px;
+        margin-top: 18px;
       }
 
       a.button {
@@ -80,11 +80,34 @@
         background: #eef3ff;
       }
 
+      .feed-list {
+        display: grid;
+        gap: 28px;
+        margin-top: 28px;
+      }
+
+      .feed {
+        border-top: 1px solid var(--line);
+        padding-top: 24px;
+      }
+
+      .feed:first-child {
+        border-top: 0;
+        padding-top: 0;
+      }
+
+      h2 {
+        margin: 0 0 8px;
+        font-size: 1.35rem;
+        line-height: 1.2;
+        letter-spacing: 0;
+      }
+
       dl {
         display: grid;
         grid-template-columns: max-content 1fr;
         gap: 10px 18px;
-        margin: 28px 0 0;
+        margin: 18px 0 0;
       }
 
       dt {
@@ -120,26 +143,50 @@
   <body>
     <main>
       <section class="panel">
-        <h1>FIFA World Cup 2026 Calendar</h1>
-        <p>Subscribe to the static ICS feed for all 104 matches, with kickoff times, venues, teams, and FIFA-hosted team image references.</p>
-        <div class="actions">
-          <a class="button" id="google-link" href="#">Subscribe in Google Calendar</a>
-          <a class="button secondary" id="ics-link" href="worldcup-2026.ics">Open ICS Feed</a>
+        <h1>Calendar Feeds</h1>
+        <p>Subscribe to static ICS feeds generated from official schedule sources and refreshed automatically.</p>
+
+        <div class="feed-list">
+          <section class="feed" data-feed="worldcup-2026.ics">
+            <h2>FIFA World Cup 2026</h2>
+            <p>All 104 matches with kickoff times, venues, teams, scores when FIFA publishes them, and calendar-compatible team image references.</p>
+            <div class="actions">
+              <a class="button google-link" href="#">Subscribe in Google Calendar</a>
+              <a class="button secondary ics-link" href="worldcup-2026.ics">Open ICS Feed</a>
+            </div>
+            <dl>
+              <dt>Feed URL</dt>
+              <dd><code class="feed-url">worldcup-2026.ics</code></dd>
+              <dt>Source</dt>
+              <dd>FIFA public fixture data for competition 17, season 285023.</dd>
+            </dl>
+          </section>
+
+          <section class="feed" data-feed="fescinal-2026.ics">
+            <h2>Fescinal 2026</h2>
+            <p>Upcoming official Fescinal programming sessions, using Madrid local times and including screen information.</p>
+            <div class="actions">
+              <a class="button google-link" href="#">Subscribe in Google Calendar</a>
+              <a class="button secondary ics-link" href="fescinal-2026.ics">Open ICS Feed</a>
+            </div>
+            <dl>
+              <dt>Feed URL</dt>
+              <dd><code class="feed-url">fescinal-2026.ics</code></dd>
+              <dt>Source</dt>
+              <dd>Fescinal official 2026 programming pages.</dd>
+            </dl>
+          </section>
         </div>
-        <dl>
-          <dt>Feed URL</dt>
-          <dd><code id="feed-url">worldcup-2026.ics</code></dd>
-          <dt>Source</dt>
-          <dd>FIFA public fixture data for competition 17, season 285023.</dd>
-        </dl>
       </section>
     </main>
     <script>
-      const feedUrl = new URL("worldcup-2026.ics?v=20260612-noflags", window.location.href).href;
-      document.getElementById("feed-url").textContent = feedUrl;
-      document.getElementById("ics-link").href = feedUrl;
-      document.getElementById("google-link").href =
-        `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(feedUrl)}`;
+      for (const feed of document.querySelectorAll("[data-feed]")) {
+        const feedUrl = new URL(feed.dataset.feed, window.location.href).href;
+        feed.querySelector(".feed-url").textContent = feedUrl;
+        feed.querySelector(".ics-link").href = feedUrl;
+        feed.querySelector(".google-link").href =
+          `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(feedUrl)}`;
+      }
     </script>
   </body>
 </html>

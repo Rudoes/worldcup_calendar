@@ -1,28 +1,29 @@
 # World Cup 2026 Calendar Feed
 
-## Proposed Plan: Fescinal Calendar Feed
+## Active Plan: Fescinal Calendar Feed
 
-- [ ] Confirm scope with user before implementation.
-- [ ] Treat Fescinal programming sessions as the calendar events, not the RSS feed alone.
-- [ ] Scrape the 2026 programming month pages listed by the site: `/programacion/6/2026/`, `/programacion/7/2026/`, `/programacion/8/2026/`, and `/programacion/9/2026/`.
-- [ ] Extract each session deterministically from the HTML cards: title, date, start/end time, screen, film URL, poster URL, and ticket URL when available.
-- [ ] Normalize times as Madrid local time and emit ICS `DTSTART`/`DTEND` in UTC.
-- [ ] Handle sessions ending after midnight by rolling the end time to the next calendar day.
-- [ ] Generate `data/fescinal-2026-sessions.json` and `docs/fescinal-2026.ics` alongside the existing World Cup files.
-- [ ] Add Fescinal-specific validation for event count, unique UIDs, required ICS fields, valid dates, no duplicate sessions, and valid Madrid timezone conversion.
-- [ ] Update the static landing page to expose both calendar feeds and Google Calendar subscribe links.
-- [ ] Update npm scripts so `npm run build` builds and validates both calendars without breaking the World Cup workflow.
-- [ ] Add or update GitHub Actions refresh so the Fescinal feed is refreshed automatically while the 2026 season is active.
-- [ ] Run local build/tests, inspect generated ICS samples, push, run Actions, and verify the live feed URL.
+- [x] Confirm scope with user before implementation: upcoming sessions only, no poster metadata.
+- [x] Treat Fescinal programming sessions as the calendar events, not the RSS feed alone.
+- [x] Scrape the 2026 programming month pages listed by the site: `/programacion/6/2026/`, `/programacion/7/2026/`, `/programacion/8/2026/`, and `/programacion/9/2026/`.
+- [x] Extract each session deterministically from the HTML cards: title, date, start/end time, screen, film URL, and ticket URL when available.
+- [x] Normalize times as Madrid local time and emit ICS `DTSTART`/`DTEND` in UTC.
+- [x] Handle after-midnight sessions by rolling early-morning start times and later end times to the next calendar day.
+- [x] Filter generated data to upcoming sessions only.
+- [x] Generate `data/fescinal-2026-sessions.json` and `docs/fescinal-2026.ics` alongside the existing World Cup files.
+- [x] Add Fescinal-specific tests and validation for event count, unique UIDs, required ICS fields, valid dates, no duplicate sessions, and valid Madrid timezone conversion.
+- [x] Update the static landing page to expose both calendar feeds and Google Calendar subscribe links.
+- [x] Update npm scripts so `npm run build` builds and validates both calendars without breaking the World Cup workflow.
+- [x] Add or update GitHub Actions refresh so the Fescinal feed is refreshed automatically while the 2026 season is active.
+- [ ] Push generated changes, verify GitHub Pages serves the Fescinal feed, and record the review.
 
 ## Active Correction Plan: Remove Flag Emoji From Titles
 
 - [x] Remove Unicode flag emoji from event summaries.
 - [x] Add a validator guard against unsupported flag emoji in summaries.
 - [x] Update the cache-busted subscribe URL for immediate resubscription.
-- [ ] Regenerate and validate the calendar feed.
-- [ ] Push and rerun the refresh workflow remotely.
-- [ ] Verify the live versioned feed.
+- [x] Regenerate and validate the calendar feed.
+- [x] Push and rerun the refresh workflow remotely.
+- [x] Verify the live versioned feed.
 
 ## Active Polish Plan: Event Summaries And Descriptions
 

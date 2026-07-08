@@ -9,8 +9,12 @@
   },
   "scripts": {
     "test": "node --experimental-strip-types --test test/*.test.ts",
-    "generate": "node --experimental-strip-types src/generate.ts",
-    "validate": "node --experimental-strip-types src/validate.ts",
+    "generate:worldcup": "node --experimental-strip-types src/generate.ts",
+    "generate:fescinal": "node --experimental-strip-types src/generate-fescinal.ts",
+    "generate": "npm run generate:worldcup && npm run generate:fescinal",
+    "validate:worldcup": "node --experimental-strip-types src/validate.ts",
+    "validate:fescinal": "node --experimental-strip-types src/validate-fescinal.ts",
+    "validate": "npm run validate:worldcup && npm run validate:fescinal",
     "build": "npm run test && npm run generate && npm run validate"
   }
 }

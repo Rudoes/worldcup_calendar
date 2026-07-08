@@ -108,3 +108,28 @@ export interface NormalizedDataFile {
   expectedMatchCount: number;
   matches: NormalizedMatch[];
 }
+
+export interface FescinalSession {
+  id: string;
+  title: string;
+  screen: string;
+  programmingDate: string;
+  localStart: string;
+  localEnd: string;
+  startUtc: string;
+  endUtc: string;
+  filmUrl: string;
+  ticketUrl?: string;
+  sourceUrl: string;
+}
+
+export interface FescinalDataFile {
+  generatedAt: string;
+  upcomingFrom: string;
+  timeZone: string;
+  source: {
+    siteUrl: string;
+    programmingUrls: string[];
+  };
+  sessions: FescinalSession[];
+}

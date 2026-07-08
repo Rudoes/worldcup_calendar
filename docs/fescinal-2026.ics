@@ -1,0 +1,1081 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//Fescinal 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fescinal 2026
+X-WR-CALDESC:Upcoming Fescinal 2026 sessions from the official Fescinal pro
+ gramming pages.
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-08-2215-sala-1-morir-no-siempre-sale-bien-413@wor
+ ldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260708T201500Z
+DTEND:20260708T220200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:MORIR NO SIEMPRE SALE BIEN + COLOQUIO
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-08 22:15 - 2
+ 026-07-09 00:02 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/pelicula/morir-no-siempre-sale-bien-413/
+X-FESCINAL-ID:2026-07-08-2215-sala-1-morir-no-siempre-sale-bien-413
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/morir-no-siempre-sale-
+ bien-413/
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-08-2215-sala-2-valor-sentimental-356@worldcup-cal
+ endar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260708T201500Z
+DTEND:20260708T224000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:VALOR SENTIMENTAL
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-08 22:15 - 2
+ 026-07-09 00:40 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/pelicula/valor-sentimental-356/
+X-FESCINAL-ID:2026-07-08-2215-sala-2-valor-sentimental-356
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/valor-sentimental-356/
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-09-2215-sala-1-el-maquinista-de-la-general-154@wo
+ rldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260709T201500Z
+DTEND:20260709T213900Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL MAQUINISTA DE LA GENERAL (CINE MUDO CON MUSICA EN DIRECTO)
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-09 22:15 - 2
+ 026-07-09 23:39 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=688
+X-FESCINAL-ID:2026-07-09-2215-sala-1-el-maquinista-de-la-general-154
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-maquinista-de-la-ge
+ neral-154/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=688
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-10-2215-sala-1-proyecto-salvacion-353@worldcup-ca
+ lendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260710T201500Z
+DTEND:20260710T230100Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:PROYECTO SALVACIÓN
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-10 22:15 - 2
+ 026-07-11 01:01 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=691
+X-FESCINAL-ID:2026-07-10-2215-sala-1-proyecto-salvacion-353
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/proyecto-salvacion-353
+ /
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=691
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-10-2215-sala-2-goat-como-cabras-420@worldcup-cale
+ ndar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260710T201500Z
+DTEND:20260710T220400Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:GOAT\, COMO CABRAS
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-10 22:15 - 2
+ 026-07-11 00:04 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=717
+X-FESCINAL-ID:2026-07-10-2215-sala-2-goat-como-cabras-420
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/goat-como-cabras-420/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=717
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-11-0101-sala-1-morir-no-siempre-sale-bien-413@wor
+ ldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260710T230100Z
+DTEND:20260711T004800Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:MORIR NO SIEMPRE SALE BIEN
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-11 01:01 - 2
+ 026-07-11 02:48 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=730
+X-FESCINAL-ID:2026-07-11-0101-sala-1-morir-no-siempre-sale-bien-413
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/morir-no-siempre-sale-
+ bien-413/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=730
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-11-2215-sala-1-el-dia-de-la-revelacion-395@worldc
+ up-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260711T201500Z
+DTEND:20260711T225000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL DÍA DE LA REVELACIÓN
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-11 22:15 - 2
+ 026-07-12 00:50 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=692
+X-FESCINAL-ID:2026-07-11-2215-sala-1-el-dia-de-la-revelacion-395
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-dia-de-la-revelacio
+ n-395/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=692
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-11-2215-sala-2-goat-como-cabras-420@worldcup-cale
+ ndar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260711T201500Z
+DTEND:20260711T220400Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:GOAT\, COMO CABRAS
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-11 22:15 - 2
+ 026-07-12 00:04 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=718
+X-FESCINAL-ID:2026-07-11-2215-sala-2-goat-como-cabras-420
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/goat-como-cabras-420/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=718
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-12-0050-sala-1-familia-de-alquiler-412@worldcup-c
+ alendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260711T225000Z
+DTEND:20260712T004900Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:FAMILIA DE ALQUILER
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-12 00:50 - 2
+ 026-07-12 02:49 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=693
+X-FESCINAL-ID:2026-07-12-0050-sala-1-familia-de-alquiler-412
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/familia-de-alquiler-41
+ 2/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=693
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-12-2215-sala-1-los-goonies-231@worldcup-calendar.
+ local
+DTSTAMP:20260708T195548Z
+DTSTART:20260712T201500Z
+DTEND:20260712T221900Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:LOS GOONIES (HOMENAJE AL AUTOCINE)
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-12 22:15 - 2
+ 026-07-13 00:19 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=694
+X-FESCINAL-ID:2026-07-12-2215-sala-1-los-goonies-231
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/los-goonies-231/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=694
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-12-2215-sala-2-hamnet-357@worldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260712T201500Z
+DTEND:20260712T223000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:HAMNET (V.O.S.E)
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-12 22:15 - 2
+ 026-07-13 00:30 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=695
+X-FESCINAL-ID:2026-07-12-2215-sala-2-hamnet-357
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/hamnet-357/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=695
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-13-2215-sala-1-el-dia-de-la-revelacion-395@worldc
+ up-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260713T201500Z
+DTEND:20260713T225000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL DÍA DE LA REVELACIÓN
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-13 22:15 - 2
+ 026-07-14 00:50 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=696
+X-FESCINAL-ID:2026-07-13-2215-sala-1-el-dia-de-la-revelacion-395
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-dia-de-la-revelacio
+ n-395/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=696
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-13-2215-sala-2-el-agente-secreto-360@worldcup-cal
+ endar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260713T201500Z
+DTEND:20260713T230300Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL AGENTE SECRETO (V.O.S.E)
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-13 22:15 - 2
+ 026-07-14 01:03 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=697
+X-FESCINAL-ID:2026-07-13-2215-sala-2-el-agente-secreto-360
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-agente-secreto-360/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=697
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-14-2215-sala-1-armas-de-mujer-415@worldcup-calend
+ ar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260714T201500Z
+DTEND:20260714T225500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:CINE CALIENTE ARMAS DE MUJER
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-14 22:15 - 2
+ 026-07-15 00:55 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=698
+X-FESCINAL-ID:2026-07-14-2215-sala-1-armas-de-mujer-415
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/armas-de-mujer-415/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=698
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-15-2215-sala-1-tal-vez-416@worldcup-calendar.loca
+ l
+DTSTAMP:20260708T195548Z
+DTSTART:20260715T201500Z
+DTEND:20260715T222000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:TAL VEZ + COLOQUIO
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-15 22:15 - 2
+ 026-07-16 00:20 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=699
+X-FESCINAL-ID:2026-07-15-2215-sala-1-tal-vez-416
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/tal-vez-416/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=699
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-15-2215-sala-2-los-goonies-231@worldcup-calendar.
+ local
+DTSTAMP:20260708T195548Z
+DTSTART:20260715T201500Z
+DTEND:20260715T221900Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:LOS GOONIES
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-15 22:15 - 2
+ 026-07-16 00:19 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=700
+X-FESCINAL-ID:2026-07-15-2215-sala-2-los-goonies-231
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/los-goonies-231/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=700
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-16-2000-sala-2-gran-final-de-la-folclorica-del-si
+ glo-xxi-433@worldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260716T180000Z
+DTEND:20260716T201500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:GRAN FINAL DE LA FOLCLÓRICA DEL SIGLO XXI
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-16 20:00 - 2
+ 026-07-16 22:15 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=741
+X-FESCINAL-ID:2026-07-16-2000-sala-2-gran-final-de-la-folclorica-del-siglo-
+ xxi-433
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/gran-final-de-la-folcl
+ orica-del-siglo-xxi-433/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=741
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-16-2215-sala-1-volver-417@worldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260716T201500Z
+DTEND:20260716T223000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:VOLVER (25 ANIVERSARIO)
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-16 22:15 - 2
+ 026-07-17 00:30 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=701
+X-FESCINAL-ID:2026-07-16-2215-sala-1-volver-417
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/volver-417/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=701
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-17-2215-sala-1-toy-story-5-397@worldcup-calendar.
+ local
+DTSTAMP:20260708T195548Z
+DTSTART:20260717T201500Z
+DTEND:20260717T220600Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:TOY STORY 5
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-17 22:15 - 2
+ 026-07-18 00:06 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=702
+X-FESCINAL-ID:2026-07-17-2215-sala-1-toy-story-5-397
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/toy-story-5-397/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=702
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-17-2215-sala-2-hamnet-357@worldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260717T201500Z
+DTEND:20260717T223000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:HAMNET
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-17 22:15 - 2
+ 026-07-18 00:30 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=704
+X-FESCINAL-ID:2026-07-17-2215-sala-2-hamnet-357
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/hamnet-357/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=704
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-18-0000-sala-1-el-agente-secreto-360@worldcup-cal
+ endar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260717T220000Z
+DTEND:20260718T004800Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL AGENTE SECRETO
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-18 00:00 - 2
+ 026-07-18 02:48 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=709
+X-FESCINAL-ID:2026-07-18-0000-sala-1-el-agente-secreto-360
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-agente-secreto-360/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=709
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-18-2215-sala-1-michael-393@worldcup-calendar.loca
+ l
+DTSTAMP:20260708T195548Z
+DTSTART:20260718T201500Z
+DTEND:20260718T222500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:MICHAEL
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-18 22:15 - 2
+ 026-07-19 00:25 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=705
+X-FESCINAL-ID:2026-07-18-2215-sala-1-michael-393
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/michael-393/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=705
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-18-2215-sala-2-haciendo-amigos-418@worldcup-calen
+ dar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260718T201500Z
+DTEND:20260718T220500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:HACIENDO AMIGOS
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-18 22:15 - 2
+ 026-07-19 00:05 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=708
+X-FESCINAL-ID:2026-07-18-2215-sala-2-haciendo-amigos-418
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/haciendo-amigos-418/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=708
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-19-0020-sala-1-tal-vez-416@worldcup-calendar.loca
+ l
+DTSTAMP:20260708T195548Z
+DTSTART:20260718T222000Z
+DTEND:20260719T002500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:TAL VEZ
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-19 00:20 - 2
+ 026-07-19 02:25 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=707
+X-FESCINAL-ID:2026-07-19-0020-sala-1-tal-vez-416
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/tal-vez-416/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=707
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-19-2215-sala-1-toy-story-5-397@worldcup-calendar.
+ local
+DTSTAMP:20260708T195548Z
+DTSTART:20260719T201500Z
+DTEND:20260719T220600Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:TOY STORY 5
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-19 22:15 - 2
+ 026-07-20 00:06 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=710
+X-FESCINAL-ID:2026-07-19-2215-sala-1-toy-story-5-397
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/toy-story-5-397/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=710
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-19-2215-sala-2-el-beso-de-la-mujer-arana-387@worl
+ dcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260719T201500Z
+DTEND:20260719T223300Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL BESO DE LA MUJER ARAÑA (V.O.S.E)
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-19 22:15 - 2
+ 026-07-20 00:33 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=711
+X-FESCINAL-ID:2026-07-19-2215-sala-2-el-beso-de-la-mujer-arana-387
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-beso-de-la-mujer-ar
+ ana-387/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=711
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-20-2215-sala-1-michael-393@worldcup-calendar.loca
+ l
+DTSTAMP:20260708T195548Z
+DTSTART:20260720T201500Z
+DTEND:20260720T222500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:MICHAEL
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-20 22:15 - 2
+ 026-07-21 00:25 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=712
+X-FESCINAL-ID:2026-07-20-2215-sala-1-michael-393
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/michael-393/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=712
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-20-2215-sala-2-haciendo-amigos-418@worldcup-calen
+ dar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260720T201500Z
+DTEND:20260720T220500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:HACIENDO AMIGOS
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-20 22:15 - 2
+ 026-07-21 00:05 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=713
+X-FESCINAL-ID:2026-07-20-2215-sala-2-haciendo-amigos-418
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/haciendo-amigos-418/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=713
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-21-2215-sala-1-a-wong-foo-gracias-por-todo-julie-
+ newmar-419@worldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260721T201500Z
+DTEND:20260721T221600Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:CINE CALIENTE A WONG FOO\, GRACIAS POR TODO\, JULIE NEWMAR
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-21 22:15 - 2
+ 026-07-22 00:16 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=714
+X-FESCINAL-ID:2026-07-21-2215-sala-1-a-wong-foo-gracias-por-todo-julie-newm
+ ar-419
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/a-wong-foo-gracias-por
+ -todo-julie-newmar-419/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=714
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-22-2215-sala-1-la-bala-414@worldcup-calendar.loca
+ l
+DTSTAMP:20260708T195548Z
+DTSTART:20260722T201500Z
+DTEND:20260722T220000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:LA BALA + COLOQUIO
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-22 22:15 - 2
+ 026-07-23 00:00 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=719
+X-FESCINAL-ID:2026-07-22-2215-sala-1-la-bala-414
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/la-bala-414/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=719
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-22-2215-sala-2-cumbres-borrascosas-422@worldcup-c
+ alendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260722T201500Z
+DTEND:20260722T224000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:CUMBRES BORRASCOSAS
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-22 22:15 - 2
+ 026-07-23 00:40 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=720
+X-FESCINAL-ID:2026-07-22-2215-sala-2-cumbres-borrascosas-422
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/cumbres-borrascosas-42
+ 2/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=720
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-23-2215-sala-1-ay-mi-madre-423@worldcup-calendar.
+ local
+DTSTAMP:20260708T195548Z
+DTSTART:20260723T201500Z
+DTEND:20260723T212500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:AY\, MI MADRE (CINE MUDO CON MUSICA EN DIRECTO)
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-23 22:15 - 2
+ 026-07-23 23:25 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=721
+X-FESCINAL-ID:2026-07-23-2215-sala-1-ay-mi-madre-423
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/ay-mi-madre-423/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=721
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-24-2215-sala-1-vaiana-398@worldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260724T201500Z
+DTEND:20260724T221800Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:VAIANA
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-24 22:15 - 2
+ 026-07-25 00:18 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=722
+X-FESCINAL-ID:2026-07-24-2215-sala-1-vaiana-398
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/vaiana-398/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=722
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-24-2215-sala-2-cumbres-borrascosas-422@worldcup-c
+ alendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260724T201500Z
+DTEND:20260724T224000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:CUMBRES BORRASCOSAS
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-24 22:15 - 2
+ 026-07-25 00:40 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=724
+X-FESCINAL-ID:2026-07-24-2215-sala-2-cumbres-borrascosas-422
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/cumbres-borrascosas-42
+ 2/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=724
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-25-0015-sala-1-el-beso-de-la-mujer-arana-387@worl
+ dcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260724T221500Z
+DTEND:20260725T003300Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL BESO DE LA MUJER ARAÑA
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-25 00:15 - 2
+ 026-07-25 02:33 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=723
+X-FESCINAL-ID:2026-07-25-0015-sala-1-el-beso-de-la-mujer-arana-387
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-beso-de-la-mujer-ar
+ ana-387/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=723
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-25-2215-sala-1-supergirl-401@worldcup-calendar.lo
+ cal
+DTSTAMP:20260708T195548Z
+DTSTART:20260725T201500Z
+DTEND:20260725T221500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:SUPERGIRL
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-25 22:15 - 2
+ 026-07-26 00:15 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=725
+X-FESCINAL-ID:2026-07-25-2215-sala-1-supergirl-401
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/supergirl-401/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=725
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-25-2215-sala-2-amarga-navidad-424@worldcup-calend
+ ar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260725T201500Z
+DTEND:20260725T221600Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:AMARGA NAVIDAD
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-25 22:15 - 2
+ 026-07-26 00:16 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=727
+X-FESCINAL-ID:2026-07-25-2215-sala-2-amarga-navidad-424
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/amarga-navidad-424/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=727
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-26-0010-sala-1-la-bala-414@worldcup-calendar.loca
+ l
+DTSTAMP:20260708T195548Z
+DTSTART:20260725T221000Z
+DTEND:20260725T235500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:LA BALA
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-26 00:10 - 2
+ 026-07-26 01:55 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=726
+X-FESCINAL-ID:2026-07-26-0010-sala-1-la-bala-414
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/la-bala-414/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=726
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-26-2215-sala-1-vaiana-398@worldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260726T201500Z
+DTEND:20260726T221800Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:VAIANA
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-26 22:15 - 2
+ 026-07-27 00:18 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=728
+X-FESCINAL-ID:2026-07-26-2215-sala-1-vaiana-398
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/vaiana-398/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=728
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-26-2215-sala-2-el-ultimo-vikingo-369@worldcup-cal
+ endar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260726T201500Z
+DTEND:20260726T222100Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL ULTIMO VIKINGO (V.O.S.E)
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-26 22:15 - 2
+ 026-07-27 00:21 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=742
+X-FESCINAL-ID:2026-07-26-2215-sala-2-el-ultimo-vikingo-369
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-ultimo-vikingo-369/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=742
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-27-2215-sala-1-nuremberg-359@worldcup-calendar.lo
+ cal
+DTSTAMP:20260708T195548Z
+DTSTART:20260727T201500Z
+DTEND:20260727T225300Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:NÚREMBERG
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-27 22:15 - 2
+ 026-07-28 00:53 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=743
+X-FESCINAL-ID:2026-07-27-2215-sala-1-nuremberg-359
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/nuremberg-359/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=743
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-27-2215-sala-2-supergirl-401@worldcup-calendar.lo
+ cal
+DTSTAMP:20260708T195548Z
+DTSTART:20260727T201500Z
+DTEND:20260727T221500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:SUPERGIRL
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-27 22:15 - 2
+ 026-07-28 00:15 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=744
+X-FESCINAL-ID:2026-07-27-2215-sala-2-supergirl-401
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/supergirl-401/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=744
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-28-2215-sala-1-misery-426@worldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260728T201500Z
+DTEND:20260728T220900Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:CINE CALIENTE MISERY
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-28 22:15 - 2
+ 026-07-29 00:09 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=736
+X-FESCINAL-ID:2026-07-28-2215-sala-1-misery-426
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/misery-426/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=736
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-29-2215-sala-1-la-ahorcada-383@worldcup-calendar.
+ local
+DTSTAMP:20260708T195548Z
+DTSTART:20260729T201500Z
+DTEND:20260729T215600Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:LA AHORCADA + COLOQUIO
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-29 22:15 - 2
+ 026-07-29 23:56 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=729
+X-FESCINAL-ID:2026-07-29-2215-sala-1-la-ahorcada-383
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/la-ahorcada-383/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=729
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-29-2215-sala-2-amarga-navidad-424@worldcup-calend
+ ar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260729T201500Z
+DTEND:20260729T221600Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:AMARGA NAVIDAD
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 2
+DESCRIPTION:Fescinal 2026\nScreen: Sala 2\nLocal time: 2026-07-29 22:15 - 2
+ 026-07-30 00:16 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=745
+X-FESCINAL-ID:2026-07-29-2215-sala-2-amarga-navidad-424
+X-FESCINAL-SCREEN:Sala 2
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/amarga-navidad-424/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=745
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-07-30-2215-sala-1-el-golpe-431@worldcup-calendar.loc
+ al
+DTSTAMP:20260708T195548Z
+DTSTART:20260730T201500Z
+DTEND:20260730T223400Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL GOLPE
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-07-30 22:15 - 2
+ 026-07-31 00:34 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=746
+X-FESCINAL-ID:2026-07-30-2215-sala-1-el-golpe-431
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-golpe-431/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=746
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/7/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-08-01-2215-sala-1-obsession-394@worldcup-calendar.lo
+ cal
+DTSTAMP:20260708T195548Z
+DTSTART:20260801T201500Z
+DTEND:20260801T220500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:OBSESSION
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-08-01 22:15 - 2
+ 026-08-02 00:05 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=747
+X-FESCINAL-ID:2026-08-01-2215-sala-1-obsession-394
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/obsession-394/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=747
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/8/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-08-03-2215-sala-1-obsession-394@worldcup-calendar.lo
+ cal
+DTSTAMP:20260708T195548Z
+DTSTART:20260803T201500Z
+DTEND:20260803T220500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:OBSESSION
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-08-03 22:15 - 2
+ 026-08-04 00:05 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=748
+X-FESCINAL-ID:2026-08-03-2215-sala-1-obsession-394
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/obsession-394/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=748
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/8/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-08-04-2215-sala-1-a-por-todas-427@worldcup-calendar.
+ local
+DTSTAMP:20260708T195548Z
+DTSTART:20260804T201500Z
+DTEND:20260804T221000Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:CINE CALIENTE A POR TODAS
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-08-04 22:15 - 2
+ 026-08-05 00:10 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=737
+X-FESCINAL-ID:2026-08-04-2215-sala-1-a-por-todas-427
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/a-por-todas-427/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=737
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/8/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-08-11-2215-sala-1-pretty-woman-428@worldcup-calendar
+ .local
+DTSTAMP:20260708T195548Z
+DTSTART:20260811T201500Z
+DTEND:20260811T222400Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:CINE CALIENTE PRETTY WOMAN
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-08-11 22:15 - 2
+ 026-08-12 00:24 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=738
+X-FESCINAL-ID:2026-08-11-2215-sala-1-pretty-woman-428
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/pretty-woman-428/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=738
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/8/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-08-13-2215-sala-1-el-gabinete-del-dr-galigari-430@wo
+ rldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260813T201500Z
+DTEND:20260813T214200Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:EL GABINETE DEL DR. GALIGARI (CINE MUDO CON MUSICA EN DIRECTO)
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-08-13 22:15 - 2
+ 026-08-13 23:42 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=734
+X-FESCINAL-ID:2026-08-13-2215-sala-1-el-gabinete-del-dr-galigari-430
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/el-gabinete-del-dr-gal
+ igari-430/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=734
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/8/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-08-18-2200-sala-1-lazos-ardientes-429@worldcup-calen
+ dar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260818T200000Z
+DTEND:20260818T215900Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:CINE CALIENTE LAZOS ARDIENTES
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-08-18 22:00 - 2
+ 026-08-18 23:59 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=739
+X-FESCINAL-ID:2026-08-18-2200-sala-1-lazos-ardientes-429
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/lazos-ardientes-429/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=739
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/8/2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:fescinal-2026-2026-08-20-2200-sala-1-las-aventuras-del-principe-achmed-
+ 71@worldcup-calendar.local
+DTSTAMP:20260708T195548Z
+DTSTART:20260820T200000Z
+DTEND:20260820T211500Z
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+SUMMARY:LAS AVENTURAS DEL PRINCIPE ACHMED
+LOCATION:Fescinal - Cine de verano de La Bombilla\, Madrid\, Sala 1
+DESCRIPTION:Fescinal 2026\nScreen: Sala 1\nLocal time: 2026-08-20 22:00 - 2
+ 026-08-20 23:15 (Europe/Madrid)
+CATEGORIES:Fescinal 2026,Cinema
+URL:https://www.fescinal.es/add/?pid=735
+X-FESCINAL-ID:2026-08-20-2200-sala-1-las-aventuras-del-principe-achmed-71
+X-FESCINAL-SCREEN:Sala 1
+X-FESCINAL-FILM-URL:https://www.fescinal.es/pelicula/las-aventuras-del-prin
+ cipe-achmed-71/
+X-FESCINAL-TICKET-URL:https://www.fescinal.es/add/?pid=735
+X-FESCINAL-SOURCE:https://www.fescinal.es/programacion/8/2026/
+END:VEVENT
+END:VCALENDAR

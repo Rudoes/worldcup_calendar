@@ -17,6 +17,21 @@ export const UID_DOMAIN = "worldcup-calendar.local";
 export const GROUP_STAGE_DURATION_MINUTES = 120;
 export const KNOCKOUT_DURATION_MINUTES = 180;
 
+export const FESCINAL_SITE_URL = "https://www.fescinal.es/";
+export const FESCINAL_PROGRAMMING_URLS = [
+  new URL("/programacion/6/2026/", FESCINAL_SITE_URL).href,
+  new URL("/programacion/7/2026/", FESCINAL_SITE_URL).href,
+  new URL("/programacion/8/2026/", FESCINAL_SITE_URL).href,
+  new URL("/programacion/9/2026/", FESCINAL_SITE_URL).href
+] as const;
+export const FESCINAL_DATA_PATH = "data/fescinal-2026-sessions.json";
+export const FESCINAL_ICS_PATH = "docs/fescinal-2026.ics";
+export const FESCINAL_CALENDAR_NAME = "Fescinal 2026";
+export const FESCINAL_CALENDAR_DESCRIPTION =
+  "Upcoming Fescinal 2026 sessions from the official Fescinal programming pages.";
+export const FESCINAL_TIME_ZONE = "Europe/Madrid";
+export const FESCINAL_LOCATION = "Fescinal - Cine de verano de La Bombilla, Madrid";
+
 export const STADIUM_TIME_ZONES: Record<string, string> = {
   "400017978": "America/Los_Angeles",
   "400098290": "America/New_York",
