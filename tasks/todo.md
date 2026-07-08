@@ -14,7 +14,18 @@
 - [x] Update the static landing page to expose both calendar feeds and Google Calendar subscribe links.
 - [x] Update npm scripts so `npm run build` builds and validates both calendars without breaking the World Cup workflow.
 - [x] Add or update GitHub Actions refresh so the Fescinal feed is refreshed automatically while the 2026 season is active.
-- [ ] Push generated changes, verify GitHub Pages serves the Fescinal feed, and record the review.
+- [x] Push generated changes, verify GitHub Pages serves the Fescinal feed, and record the review.
+
+## Fescinal Calendar Feed Review
+
+- Added `docs/fescinal-2026.ics` and `data/fescinal-2026-sessions.json`.
+- Added a Fescinal parser/generator/validator that reads the official 2026 programming month pages, filters to upcoming sessions only, omits poster metadata, and emits UTC ICS times from `Europe/Madrid` local times.
+- Added after-midnight handling for early-morning sessions listed under the prior programming date.
+- Updated `npm run build` to test, generate, and validate both the World Cup and Fescinal feeds.
+- Updated the subscribe page to expose both stable feed URLs.
+- Updated the refresh workflow to cover June 11 through September 6, 2026, and commit both generated feeds when they change.
+- Verification: `npm run build` passed with 16 tests, 104 validated World Cup events, and 53 validated Fescinal events.
+- Live verification: `https://rudoes.github.io/worldcup_calendar/fescinal-2026.ics` returns 53 `VEVENT` entries, and `https://rudoes.github.io/worldcup_calendar/worldcup-2026.ics` still returns 104 `VEVENT` entries.
 
 ## Active Correction Plan: Remove Flag Emoji From Titles
 
