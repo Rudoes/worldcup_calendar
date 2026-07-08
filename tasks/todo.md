@@ -1,5 +1,20 @@
 # World Cup 2026 Calendar Feed
 
+## Proposed Plan: Fescinal Calendar Feed
+
+- [ ] Confirm scope with user before implementation.
+- [ ] Treat Fescinal programming sessions as the calendar events, not the RSS feed alone.
+- [ ] Scrape the 2026 programming month pages listed by the site: `/programacion/6/2026/`, `/programacion/7/2026/`, `/programacion/8/2026/`, and `/programacion/9/2026/`.
+- [ ] Extract each session deterministically from the HTML cards: title, date, start/end time, screen, film URL, poster URL, and ticket URL when available.
+- [ ] Normalize times as Madrid local time and emit ICS `DTSTART`/`DTEND` in UTC.
+- [ ] Handle sessions ending after midnight by rolling the end time to the next calendar day.
+- [ ] Generate `data/fescinal-2026-sessions.json` and `docs/fescinal-2026.ics` alongside the existing World Cup files.
+- [ ] Add Fescinal-specific validation for event count, unique UIDs, required ICS fields, valid dates, no duplicate sessions, and valid Madrid timezone conversion.
+- [ ] Update the static landing page to expose both calendar feeds and Google Calendar subscribe links.
+- [ ] Update npm scripts so `npm run build` builds and validates both calendars without breaking the World Cup workflow.
+- [ ] Add or update GitHub Actions refresh so the Fescinal feed is refreshed automatically while the 2026 season is active.
+- [ ] Run local build/tests, inspect generated ICS samples, push, run Actions, and verify the live feed URL.
+
 ## Active Correction Plan: Remove Flag Emoji From Titles
 
 - [x] Remove Unicode flag emoji from event summaries.
