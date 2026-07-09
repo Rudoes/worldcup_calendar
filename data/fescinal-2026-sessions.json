@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T19:55:48.576Z",
-  "upcomingFrom": "2026-07-08T19:55:48.576Z",
+  "generatedAt": "2026-07-09T04:14:45.715Z",
+  "upcomingFrom": "2026-07-09T04:14:45.715Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,30 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-08-2215-sala-1-morir-no-siempre-sale-bien-413",
-      "title": "MORIR NO SIEMPRE SALE BIEN + COLOQUIO",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-08",
-      "localStart": "2026-07-08T22:15:00",
-      "localEnd": "2026-07-09T00:02:00",
-      "startUtc": "2026-07-08T20:15:00.000Z",
-      "endUtc": "2026-07-08T22:02:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/morir-no-siempre-sale-bien-413/",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-08-2215-sala-2-valor-sentimental-356",
-      "title": "VALOR SENTIMENTAL",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-08",
-      "localStart": "2026-07-08T22:15:00",
-      "localEnd": "2026-07-09T00:40:00",
-      "startUtc": "2026-07-08T20:15:00.000Z",
-      "endUtc": "2026-07-08T22:40:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/valor-sentimental-356/",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-09-2215-sala-1-el-maquinista-de-la-general-154",
       "title": "EL MAQUINISTA DE LA GENERAL (CINE MUDO CON MUSICA EN DIRECTO)",
