@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T04:14:45.715Z",
-  "upcomingFrom": "2026-07-09T04:14:45.715Z",
+  "generatedAt": "2026-07-10T04:15:52.023Z",
+  "upcomingFrom": "2026-07-10T04:15:52.023Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,19 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-09-2215-sala-1-el-maquinista-de-la-general-154",
-      "title": "EL MAQUINISTA DE LA GENERAL (CINE MUDO CON MUSICA EN DIRECTO)",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-09",
-      "localStart": "2026-07-09T22:15:00",
-      "localEnd": "2026-07-09T23:39:00",
-      "startUtc": "2026-07-09T20:15:00.000Z",
-      "endUtc": "2026-07-09T21:39:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/el-maquinista-de-la-general-154/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=688",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-10-2215-sala-1-proyecto-salvacion-353",
       "title": "PROYECTO SALVACIÓN",

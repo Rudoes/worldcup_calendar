@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T03:43:42.511Z",
+  "generatedAt": "2026-07-10T04:15:51.327Z",
   "source": {
     "apiUrl": "https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&idSeason=285023&count=200",
     "schedulePage": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
@@ -3930,8 +3930,13 @@
         "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43872",
         "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/MAR"
       },
-      "matchStatus": 1,
-      "resultType": 0,
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "winner": "home",
+      "matchStatus": 0,
+      "resultType": 1,
       "venue": {
         "name": "Boston Stadium",
         "city": "Boston",
@@ -4055,8 +4060,12 @@
       "localKickoff": "2026-07-14T14:00:00Z",
       "durationMinutes": 180,
       "home": {
-        "name": "Winner Match 97",
-        "placeholder": "W97"
+        "name": "France",
+        "abbreviation": "FRA",
+        "fifaTeamId": "43946",
+        "countryCode": "FRA",
+        "logoUrl": "https://api.fifa.com/api/v3/picture/teams-sq-4/43946",
+        "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-4/FRA"
       },
       "away": {
         "name": "Winner Match 98",
