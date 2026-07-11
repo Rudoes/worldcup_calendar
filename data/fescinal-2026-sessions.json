@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T04:15:52.023Z",
-  "upcomingFrom": "2026-07-10T04:15:52.023Z",
+  "generatedAt": "2026-07-11T03:43:57.498Z",
+  "upcomingFrom": "2026-07-11T03:43:57.498Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,45 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-10-2215-sala-1-proyecto-salvacion-353",
-      "title": "PROYECTO SALVACIÓN",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-10",
-      "localStart": "2026-07-10T22:15:00",
-      "localEnd": "2026-07-11T01:01:00",
-      "startUtc": "2026-07-10T20:15:00.000Z",
-      "endUtc": "2026-07-10T23:01:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/proyecto-salvacion-353/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=691",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-10-2215-sala-2-goat-como-cabras-420",
-      "title": "GOAT, COMO CABRAS",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-10",
-      "localStart": "2026-07-10T22:15:00",
-      "localEnd": "2026-07-11T00:04:00",
-      "startUtc": "2026-07-10T20:15:00.000Z",
-      "endUtc": "2026-07-10T22:04:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/goat-como-cabras-420/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=717",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-11-0101-sala-1-morir-no-siempre-sale-bien-413",
-      "title": "MORIR NO SIEMPRE SALE BIEN",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-10",
-      "localStart": "2026-07-11T01:01:00",
-      "localEnd": "2026-07-11T02:48:00",
-      "startUtc": "2026-07-10T23:01:00.000Z",
-      "endUtc": "2026-07-11T00:48:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/morir-no-siempre-sale-bien-413/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=730",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-11-2215-sala-1-el-dia-de-la-revelacion-395",
       "title": "EL DÍA DE LA REVELACIÓN",
