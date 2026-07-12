@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T03:43:57.498Z",
-  "upcomingFrom": "2026-07-11T03:43:57.498Z",
+  "generatedAt": "2026-07-12T03:58:35.362Z",
+  "upcomingFrom": "2026-07-12T03:58:35.362Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,45 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-11-2215-sala-1-el-dia-de-la-revelacion-395",
-      "title": "EL DÍA DE LA REVELACIÓN",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-11",
-      "localStart": "2026-07-11T22:15:00",
-      "localEnd": "2026-07-12T00:50:00",
-      "startUtc": "2026-07-11T20:15:00.000Z",
-      "endUtc": "2026-07-11T22:50:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/el-dia-de-la-revelacion-395/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=692",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-11-2215-sala-2-goat-como-cabras-420",
-      "title": "GOAT, COMO CABRAS",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-11",
-      "localStart": "2026-07-11T22:15:00",
-      "localEnd": "2026-07-12T00:04:00",
-      "startUtc": "2026-07-11T20:15:00.000Z",
-      "endUtc": "2026-07-11T22:04:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/goat-como-cabras-420/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=718",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-12-0050-sala-1-familia-de-alquiler-412",
-      "title": "FAMILIA DE ALQUILER",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-11",
-      "localStart": "2026-07-12T00:50:00",
-      "localEnd": "2026-07-12T02:49:00",
-      "startUtc": "2026-07-11T22:50:00.000Z",
-      "endUtc": "2026-07-12T00:49:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/familia-de-alquiler-412/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=693",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-12-2215-sala-1-los-goonies-231",
       "title": "LOS GOONIES (HOMENAJE AL AUTOCINE)",
@@ -520,15 +481,15 @@
       "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
     },
     {
-      "id": "2026-07-30-2215-sala-1-el-golpe-431",
-      "title": "EL GOLPE",
+      "id": "2026-07-30-2215-sala-1-el-golpe-con-musica-en-directo-431",
+      "title": "EL GOLPE CON MUSICA EN DIRECTO",
       "screen": "Sala 1",
       "programmingDate": "2026-07-30",
       "localStart": "2026-07-30T22:15:00",
       "localEnd": "2026-07-31T00:34:00",
       "startUtc": "2026-07-30T20:15:00.000Z",
       "endUtc": "2026-07-30T22:34:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/el-golpe-431/",
+      "filmUrl": "https://www.fescinal.es/pelicula/el-golpe-con-musica-en-directo-431/",
       "ticketUrl": "https://www.fescinal.es/add/?pid=746",
       "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
     },
