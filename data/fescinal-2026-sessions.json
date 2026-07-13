@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T04:02:09.585Z",
-  "upcomingFrom": "2026-07-13T04:02:09.585Z",
+  "generatedAt": "2026-07-13T15:12:45.426Z",
+  "upcomingFrom": "2026-07-13T15:12:45.426Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -390,19 +390,6 @@
       "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
     },
     {
-      "id": "2026-07-27-2215-sala-1-nuremberg-359",
-      "title": "NÚREMBERG",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-27",
-      "localStart": "2026-07-27T22:15:00",
-      "localEnd": "2026-07-28T00:53:00",
-      "startUtc": "2026-07-27T20:15:00.000Z",
-      "endUtc": "2026-07-27T22:53:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/nuremberg-359/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=743",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
       "id": "2026-07-27-2215-sala-2-supergirl-401",
       "title": "SUPERGIRL",
       "screen": "Sala 2",
@@ -468,6 +455,45 @@
       "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
     },
     {
+      "id": "2026-07-31-2215-sala-1-minions-monsters-396",
+      "title": "MINIONS & MONSTERS",
+      "screen": "Sala 1",
+      "programmingDate": "2026-07-31",
+      "localStart": "2026-07-31T22:15:00",
+      "localEnd": "2026-07-31T23:55:00",
+      "startUtc": "2026-07-31T20:15:00.000Z",
+      "endUtc": "2026-07-31T21:55:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/minions-monsters-396/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=749",
+      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
+    },
+    {
+      "id": "2026-07-31-2215-sala-2-nuremberg-359",
+      "title": "NÚREMBERG",
+      "screen": "Sala 2",
+      "programmingDate": "2026-07-31",
+      "localStart": "2026-07-31T22:15:00",
+      "localEnd": "2026-08-01T00:53:00",
+      "startUtc": "2026-07-31T20:15:00.000Z",
+      "endUtc": "2026-07-31T22:53:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/nuremberg-359/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=750",
+      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
+    },
+    {
+      "id": "2026-08-01-0015-sala-1-la-ahorcada-383",
+      "title": "LA AHORCADA",
+      "screen": "Sala 1",
+      "programmingDate": "2026-07-31",
+      "localStart": "2026-08-01T00:15:00",
+      "localEnd": "2026-08-01T01:56:00",
+      "startUtc": "2026-07-31T22:15:00.000Z",
+      "endUtc": "2026-07-31T23:56:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/la-ahorcada-383/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=751",
+      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
+    },
+    {
       "id": "2026-08-01-2215-sala-1-obsession-394",
       "title": "OBSESSION",
       "screen": "Sala 1",
@@ -478,6 +504,19 @@
       "endUtc": "2026-08-01T22:05:00.000Z",
       "filmUrl": "https://www.fescinal.es/pelicula/obsession-394/",
       "ticketUrl": "https://www.fescinal.es/add/?pid=747",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-02-2215-sala-1-minions-monsters-396",
+      "title": "MINIONS & MONSTERS",
+      "screen": "Sala 1",
+      "programmingDate": "2026-08-02",
+      "localStart": "2026-08-02T22:15:00",
+      "localEnd": "2026-08-02T23:55:00",
+      "startUtc": "2026-08-02T20:15:00.000Z",
+      "endUtc": "2026-08-02T21:55:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/minions-monsters-396/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=752",
       "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
     },
     {
