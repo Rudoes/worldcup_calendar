@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T03:58:35.362Z",
-  "upcomingFrom": "2026-07-12T03:58:35.362Z",
+  "generatedAt": "2026-07-13T04:02:09.585Z",
+  "upcomingFrom": "2026-07-13T04:02:09.585Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,32 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-12-2215-sala-1-los-goonies-231",
-      "title": "LOS GOONIES (HOMENAJE AL AUTOCINE)",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-12",
-      "localStart": "2026-07-12T22:15:00",
-      "localEnd": "2026-07-13T00:19:00",
-      "startUtc": "2026-07-12T20:15:00.000Z",
-      "endUtc": "2026-07-12T22:19:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/los-goonies-231/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=694",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-12-2215-sala-2-hamnet-357",
-      "title": "HAMNET (V.O.S.E)",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-12",
-      "localStart": "2026-07-12T22:15:00",
-      "localEnd": "2026-07-13T00:30:00",
-      "startUtc": "2026-07-12T20:15:00.000Z",
-      "endUtc": "2026-07-12T22:30:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/hamnet-357/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=695",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-13-2215-sala-1-el-dia-de-la-revelacion-395",
       "title": "EL DÍA DE LA REVELACIÓN",
