@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T15:12:45.426Z",
-  "upcomingFrom": "2026-07-13T15:12:45.426Z",
+  "generatedAt": "2026-07-14T03:35:25.933Z",
+  "upcomingFrom": "2026-07-14T03:35:25.933Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,32 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-13-2215-sala-1-el-dia-de-la-revelacion-395",
-      "title": "EL DÍA DE LA REVELACIÓN",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-13",
-      "localStart": "2026-07-13T22:15:00",
-      "localEnd": "2026-07-14T00:50:00",
-      "startUtc": "2026-07-13T20:15:00.000Z",
-      "endUtc": "2026-07-13T22:50:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/el-dia-de-la-revelacion-395/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=696",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-13-2215-sala-2-el-agente-secreto-360",
-      "title": "EL AGENTE SECRETO (V.O.S.E)",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-13",
-      "localStart": "2026-07-13T22:15:00",
-      "localEnd": "2026-07-14T01:03:00",
-      "startUtc": "2026-07-13T20:15:00.000Z",
-      "endUtc": "2026-07-13T23:03:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/el-agente-secreto-360/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=697",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-14-2215-sala-1-armas-de-mujer-415",
       "title": "CINE CALIENTE ARMAS DE MUJER",
