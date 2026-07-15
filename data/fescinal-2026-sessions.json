@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T03:35:25.933Z",
-  "upcomingFrom": "2026-07-14T03:35:25.933Z",
+  "generatedAt": "2026-07-15T03:36:29.175Z",
+  "upcomingFrom": "2026-07-15T03:36:29.175Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,19 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-14-2215-sala-1-armas-de-mujer-415",
-      "title": "CINE CALIENTE ARMAS DE MUJER",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-14",
-      "localStart": "2026-07-14T22:15:00",
-      "localEnd": "2026-07-15T00:55:00",
-      "startUtc": "2026-07-14T20:15:00.000Z",
-      "endUtc": "2026-07-14T22:55:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/armas-de-mujer-415/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=698",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-15-2215-sala-1-tal-vez-416",
       "title": "TAL VEZ + COLOQUIO",
