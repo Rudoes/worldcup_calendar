@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T03:36:29.175Z",
-  "upcomingFrom": "2026-07-15T03:36:29.175Z",
+  "generatedAt": "2026-07-16T03:38:44.707Z",
+  "upcomingFrom": "2026-07-16T03:38:44.707Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,32 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-15-2215-sala-1-tal-vez-416",
-      "title": "TAL VEZ + COLOQUIO",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-15",
-      "localStart": "2026-07-15T22:15:00",
-      "localEnd": "2026-07-16T00:20:00",
-      "startUtc": "2026-07-15T20:15:00.000Z",
-      "endUtc": "2026-07-15T22:20:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/tal-vez-416/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=699",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-15-2215-sala-2-los-goonies-231",
-      "title": "LOS GOONIES",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-15",
-      "localStart": "2026-07-15T22:15:00",
-      "localEnd": "2026-07-16T00:19:00",
-      "startUtc": "2026-07-15T20:15:00.000Z",
-      "endUtc": "2026-07-15T22:19:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/los-goonies-231/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=700",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-16-2000-sala-2-gran-final-de-la-folclorica-del-siglo-xxi-433",
       "title": "GRAN FINAL DE LA FOLCLÓRICA DEL SIGLO XXI",
