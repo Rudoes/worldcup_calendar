@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T03:38:44.707Z",
-  "upcomingFrom": "2026-07-16T03:38:44.707Z",
+  "generatedAt": "2026-07-16T14:24:27.580Z",
+  "upcomingFrom": "2026-07-16T14:24:27.580Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -531,6 +531,19 @@
       "filmUrl": "https://www.fescinal.es/pelicula/las-aventuras-del-principe-achmed-71/",
       "ticketUrl": "https://www.fescinal.es/add/?pid=735",
       "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-09-05-1100-sala-1-bombilla-fest-2026-434",
+      "title": "BOMBILLA FEST 2026",
+      "screen": "Sala 1",
+      "programmingDate": "2026-09-05",
+      "localStart": "2026-09-05T11:00:00",
+      "localEnd": "2026-09-05T19:10:00",
+      "startUtc": "2026-09-05T09:00:00.000Z",
+      "endUtc": "2026-09-05T17:10:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/bombilla-fest-2026-434/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=753",
+      "sourceUrl": "https://www.fescinal.es/programacion/9/2026/"
     }
   ]
 }
