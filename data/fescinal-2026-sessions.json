@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T14:24:27.580Z",
-  "upcomingFrom": "2026-07-16T14:24:27.580Z",
+  "generatedAt": "2026-07-17T03:38:49.896Z",
+  "upcomingFrom": "2026-07-17T03:38:49.896Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,32 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-16-2000-sala-2-gran-final-de-la-folclorica-del-siglo-xxi-433",
-      "title": "GRAN FINAL DE LA FOLCLÓRICA DEL SIGLO XXI",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-16",
-      "localStart": "2026-07-16T20:00:00",
-      "localEnd": "2026-07-16T22:15:00",
-      "startUtc": "2026-07-16T18:00:00.000Z",
-      "endUtc": "2026-07-16T20:15:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/gran-final-de-la-folclorica-del-siglo-xxi-433/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=741",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-16-2215-sala-1-volver-417",
-      "title": "VOLVER (25 ANIVERSARIO)",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-16",
-      "localStart": "2026-07-16T22:15:00",
-      "localEnd": "2026-07-17T00:30:00",
-      "startUtc": "2026-07-16T20:15:00.000Z",
-      "endUtc": "2026-07-16T22:30:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/volver-417/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=701",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-17-2215-sala-1-toy-story-5-397",
       "title": "TOY STORY 5",
