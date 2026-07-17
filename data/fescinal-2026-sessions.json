@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T03:38:49.896Z",
-  "upcomingFrom": "2026-07-17T03:38:49.896Z",
+  "generatedAt": "2026-07-17T14:04:21.247Z",
+  "upcomingFrom": "2026-07-17T14:04:21.247Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -299,6 +299,19 @@
       "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
     },
     {
+      "id": "2026-07-27-2215-sala-1-nuremberg-359",
+      "title": "NÚREMBERG",
+      "screen": "Sala 1",
+      "programmingDate": "2026-07-27",
+      "localStart": "2026-07-27T22:15:00",
+      "localEnd": "2026-07-28T00:53:00",
+      "startUtc": "2026-07-27T20:15:00.000Z",
+      "endUtc": "2026-07-27T22:53:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/nuremberg-359/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=743",
+      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
+    },
+    {
       "id": "2026-07-27-2215-sala-2-supergirl-401",
       "title": "SUPERGIRL",
       "screen": "Sala 2",
@@ -416,9 +429,35 @@
       "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
     },
     {
-      "id": "2026-08-02-2215-sala-1-minions-monsters-396",
-      "title": "MINIONS & MONSTERS",
+      "id": "2026-08-01-2215-sala-2-toy-story-5-397",
+      "title": "TOY STORY 5",
+      "screen": "Sala 2",
+      "programmingDate": "2026-08-01",
+      "localStart": "2026-08-01T22:15:00",
+      "localEnd": "2026-08-02T00:06:00",
+      "startUtc": "2026-08-01T20:15:00.000Z",
+      "endUtc": "2026-08-01T22:06:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/toy-story-5-397/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=754",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-02-2215-sala-1-mother-mary-435",
+      "title": "(ESTRENO) MOTHER MARY (ESTRENO)",
       "screen": "Sala 1",
+      "programmingDate": "2026-08-02",
+      "localStart": "2026-08-02T22:15:00",
+      "localEnd": "2026-08-03T00:17:00",
+      "startUtc": "2026-08-02T20:15:00.000Z",
+      "endUtc": "2026-08-02T22:17:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/mother-mary-435/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=755",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-02-2215-sala-2-minions-monsters-396",
+      "title": "MINIONS & MONSTERS",
+      "screen": "Sala 2",
       "programmingDate": "2026-08-02",
       "localStart": "2026-08-02T22:15:00",
       "localEnd": "2026-08-02T23:55:00",
@@ -439,6 +478,19 @@
       "endUtc": "2026-08-03T22:05:00.000Z",
       "filmUrl": "https://www.fescinal.es/pelicula/obsession-394/",
       "ticketUrl": "https://www.fescinal.es/add/?pid=748",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-03-2215-sala-2-tres-adioses-373",
+      "title": "TRES ADIOSES (V.O.S.E)",
+      "screen": "Sala 2",
+      "programmingDate": "2026-08-03",
+      "localStart": "2026-08-03T22:15:00",
+      "localEnd": "2026-08-04T00:25:00",
+      "startUtc": "2026-08-03T20:15:00.000Z",
+      "endUtc": "2026-08-03T22:25:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/tres-adioses-373/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=756",
       "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
     },
     {
