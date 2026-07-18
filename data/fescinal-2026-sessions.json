@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T14:04:21.247Z",
-  "upcomingFrom": "2026-07-17T14:04:21.247Z",
+  "generatedAt": "2026-07-18T03:33:28.033Z",
+  "upcomingFrom": "2026-07-18T03:33:28.033Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,45 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-17-2215-sala-1-toy-story-5-397",
-      "title": "TOY STORY 5",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-17",
-      "localStart": "2026-07-17T22:15:00",
-      "localEnd": "2026-07-18T00:06:00",
-      "startUtc": "2026-07-17T20:15:00.000Z",
-      "endUtc": "2026-07-17T22:06:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/toy-story-5-397/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=702",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-17-2215-sala-2-hamnet-357",
-      "title": "HAMNET",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-17",
-      "localStart": "2026-07-17T22:15:00",
-      "localEnd": "2026-07-18T00:30:00",
-      "startUtc": "2026-07-17T20:15:00.000Z",
-      "endUtc": "2026-07-17T22:30:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/hamnet-357/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=704",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-18-0000-sala-1-el-agente-secreto-360",
-      "title": "EL AGENTE SECRETO",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-17",
-      "localStart": "2026-07-18T00:00:00",
-      "localEnd": "2026-07-18T02:48:00",
-      "startUtc": "2026-07-17T22:00:00.000Z",
-      "endUtc": "2026-07-18T00:48:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/el-agente-secreto-360/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=709",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-18-2215-sala-1-michael-393",
       "title": "MICHAEL",
