@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-18T03:33:28.033Z",
-  "upcomingFrom": "2026-07-18T03:33:28.033Z",
+  "generatedAt": "2026-07-19T03:56:11.906Z",
+  "upcomingFrom": "2026-07-19T03:56:11.906Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,45 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-18-2215-sala-1-michael-393",
-      "title": "MICHAEL",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-18",
-      "localStart": "2026-07-18T22:15:00",
-      "localEnd": "2026-07-19T00:25:00",
-      "startUtc": "2026-07-18T20:15:00.000Z",
-      "endUtc": "2026-07-18T22:25:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/michael-393/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=705",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-18-2215-sala-2-haciendo-amigos-418",
-      "title": "HACIENDO AMIGOS",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-18",
-      "localStart": "2026-07-18T22:15:00",
-      "localEnd": "2026-07-19T00:05:00",
-      "startUtc": "2026-07-18T20:15:00.000Z",
-      "endUtc": "2026-07-18T22:05:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/haciendo-amigos-418/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=708",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-19-0020-sala-1-tal-vez-416",
-      "title": "TAL VEZ",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-18",
-      "localStart": "2026-07-19T00:20:00",
-      "localEnd": "2026-07-19T02:25:00",
-      "startUtc": "2026-07-18T22:20:00.000Z",
-      "endUtc": "2026-07-19T00:25:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/tal-vez-416/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=707",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-19-2215-sala-1-toy-story-5-397",
       "title": "TOY STORY 5",
