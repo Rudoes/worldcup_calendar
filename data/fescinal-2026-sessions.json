@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T03:56:11.906Z",
-  "upcomingFrom": "2026-07-19T03:56:11.906Z",
+  "generatedAt": "2026-07-20T04:06:05.630Z",
+  "upcomingFrom": "2026-07-20T04:06:05.630Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,32 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-19-2215-sala-1-toy-story-5-397",
-      "title": "TOY STORY 5",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-19",
-      "localStart": "2026-07-19T22:15:00",
-      "localEnd": "2026-07-20T00:06:00",
-      "startUtc": "2026-07-19T20:15:00.000Z",
-      "endUtc": "2026-07-19T22:06:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/toy-story-5-397/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=710",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-19-2215-sala-2-el-beso-de-la-mujer-arana-387",
-      "title": "EL BESO DE LA MUJER ARAÑA (V.O.S.E)",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-19",
-      "localStart": "2026-07-19T22:15:00",
-      "localEnd": "2026-07-20T00:33:00",
-      "startUtc": "2026-07-19T20:15:00.000Z",
-      "endUtc": "2026-07-19T22:33:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/el-beso-de-la-mujer-arana-387/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=711",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-20-2215-sala-1-michael-393",
       "title": "MICHAEL",
