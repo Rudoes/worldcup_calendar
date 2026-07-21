@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T14:34:17.101Z",
-  "upcomingFrom": "2026-07-20T14:34:17.101Z",
+  "generatedAt": "2026-07-21T03:46:44.745Z",
+  "upcomingFrom": "2026-07-21T03:46:44.745Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,32 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-20-2215-sala-1-michael-393",
-      "title": "MICHAEL",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-20",
-      "localStart": "2026-07-20T22:15:00",
-      "localEnd": "2026-07-21T00:25:00",
-      "startUtc": "2026-07-20T20:15:00.000Z",
-      "endUtc": "2026-07-20T22:25:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/michael-393/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=712",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-20-2215-sala-2-haciendo-amigos-418",
-      "title": "HACIENDO AMIGOS",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-20",
-      "localStart": "2026-07-20T22:15:00",
-      "localEnd": "2026-07-21T00:05:00",
-      "startUtc": "2026-07-20T20:15:00.000Z",
-      "endUtc": "2026-07-20T22:05:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/haciendo-amigos-418/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=713",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-21-2215-sala-1-a-wong-foo-gracias-por-todo-julie-newmar-419",
       "title": "CINE CALIENTE A WONG FOO, GRACIAS POR TODO, JULIE NEWMAR",
@@ -273,6 +247,19 @@
       "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
     },
     {
+      "id": "2026-07-30-2215-sala-2-los-domingos-355",
+      "title": "LOS DOMINGOS",
+      "screen": "Sala 2",
+      "programmingDate": "2026-07-30",
+      "localStart": "2026-07-30T22:15:00",
+      "localEnd": "2026-07-31T00:15:00",
+      "startUtc": "2026-07-30T20:15:00.000Z",
+      "endUtc": "2026-07-30T22:15:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/los-domingos-355/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=757",
+      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
+    },
+    {
       "id": "2026-07-31-2215-sala-1-minions-monsters-396",
       "title": "MINIONS & MONSTERS",
       "screen": "Sala 1",
@@ -338,6 +325,19 @@
       "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
     },
     {
+      "id": "2026-08-02-0005-sala-1-el-ultimo-vikingo-369",
+      "title": "EL ULTIMO VIKINGO",
+      "screen": "Sala 1",
+      "programmingDate": "2026-08-01",
+      "localStart": "2026-08-02T00:05:00",
+      "localEnd": "2026-08-02T02:11:00",
+      "startUtc": "2026-08-01T22:05:00.000Z",
+      "endUtc": "2026-08-02T00:11:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/el-ultimo-vikingo-369/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=758",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
       "id": "2026-08-02-2215-sala-1-mother-mary-435",
       "title": "(ESTRENO) MOTHER MARY (ESTRENO)",
       "screen": "Sala 1",
@@ -400,6 +400,84 @@
       "endUtc": "2026-08-04T22:10:00.000Z",
       "filmUrl": "https://www.fescinal.es/pelicula/a-por-todas-427/",
       "ticketUrl": "https://www.fescinal.es/add/?pid=737",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-05-2215-sala-1-los-domingos-355",
+      "title": "LOS DOMINGOS + COLOQUIO",
+      "screen": "Sala 1",
+      "programmingDate": "2026-08-05",
+      "localStart": "2026-08-05T22:15:00",
+      "localEnd": "2026-08-06T00:15:00",
+      "startUtc": "2026-08-05T20:15:00.000Z",
+      "endUtc": "2026-08-05T22:15:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/los-domingos-355/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=759",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-05-2215-sala-2-akira-436",
+      "title": "AKIRA",
+      "screen": "Sala 2",
+      "programmingDate": "2026-08-05",
+      "localStart": "2026-08-05T22:15:00",
+      "localEnd": "2026-08-06T00:29:00",
+      "startUtc": "2026-08-05T20:15:00.000Z",
+      "endUtc": "2026-08-05T22:29:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/akira-436/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=760",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-06-2215-sala-2-tres-de-mas-438",
+      "title": "TRES DE MÁS",
+      "screen": "Sala 2",
+      "programmingDate": "2026-08-06",
+      "localStart": "2026-08-06T22:15:00",
+      "localEnd": "2026-08-07T00:03:00",
+      "startUtc": "2026-08-06T20:15:00.000Z",
+      "endUtc": "2026-08-06T22:03:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/tres-de-mas-438/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=761",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-07-2215-sala-1-toy-story-5-397",
+      "title": "TOY STORY 5",
+      "screen": "Sala 1",
+      "programmingDate": "2026-08-07",
+      "localStart": "2026-08-07T22:15:00",
+      "localEnd": "2026-08-08T00:06:00",
+      "startUtc": "2026-08-07T20:15:00.000Z",
+      "endUtc": "2026-08-07T22:06:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/toy-story-5-397/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=765",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-07-2215-sala-2-incontrolable-437",
+      "title": "INCONTROLABLE",
+      "screen": "Sala 2",
+      "programmingDate": "2026-08-07",
+      "localStart": "2026-08-07T22:15:00",
+      "localEnd": "2026-08-08T00:25:00",
+      "startUtc": "2026-08-07T20:15:00.000Z",
+      "endUtc": "2026-08-07T22:25:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/incontrolable-437/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=763",
+      "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
+    },
+    {
+      "id": "2026-08-08-2215-sala-1-la-odisea-363",
+      "title": "LA ODISEA",
+      "screen": "Sala 1",
+      "programmingDate": "2026-08-08",
+      "localStart": "2026-08-08T22:15:00",
+      "localEnd": "2026-08-09T01:17:00",
+      "startUtc": "2026-08-08T20:15:00.000Z",
+      "endUtc": "2026-08-08T23:17:00.000Z",
+      "filmUrl": "https://www.fescinal.es/pelicula/la-odisea-363/",
+      "ticketUrl": "https://www.fescinal.es/add/?pid=766",
       "sourceUrl": "https://www.fescinal.es/programacion/8/2026/"
     },
     {
