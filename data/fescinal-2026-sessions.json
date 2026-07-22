@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T14:23:49.280Z",
-  "upcomingFrom": "2026-07-21T14:23:49.280Z",
+  "generatedAt": "2026-07-22T03:48:05.051Z",
+  "upcomingFrom": "2026-07-22T03:48:05.051Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,19 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-21-2215-sala-1-a-wong-foo-gracias-por-todo-julie-newmar-419",
-      "title": "CINE CALIENTE A WONG FOO, GRACIAS POR TODO, JULIE NEWMAR",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-21",
-      "localStart": "2026-07-21T22:15:00",
-      "localEnd": "2026-07-22T00:16:00",
-      "startUtc": "2026-07-21T20:15:00.000Z",
-      "endUtc": "2026-07-21T22:16:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/a-wong-foo-gracias-por-todo-julie-newmar-419/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=714",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-22-2215-sala-1-la-bala-414",
       "title": "LA BALA + COLOQUIO",
