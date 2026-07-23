@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T03:48:05.051Z",
-  "upcomingFrom": "2026-07-22T03:48:05.051Z",
+  "generatedAt": "2026-07-23T03:45:48.226Z",
+  "upcomingFrom": "2026-07-23T03:45:48.226Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,32 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-22-2215-sala-1-la-bala-414",
-      "title": "LA BALA + COLOQUIO",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-22",
-      "localStart": "2026-07-22T22:15:00",
-      "localEnd": "2026-07-23T00:00:00",
-      "startUtc": "2026-07-22T20:15:00.000Z",
-      "endUtc": "2026-07-22T22:00:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/la-bala-414/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=719",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-22-2215-sala-2-cumbres-borrascosas-422",
-      "title": "CUMBRES BORRASCOSAS",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-22",
-      "localStart": "2026-07-22T22:15:00",
-      "localEnd": "2026-07-23T00:40:00",
-      "startUtc": "2026-07-22T20:15:00.000Z",
-      "endUtc": "2026-07-22T22:40:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/cumbres-borrascosas-422/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=720",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-23-2215-sala-1-ay-mi-madre-cortometraje-sorpresa-423",
       "title": "AY, MI MADRE + CORTOMETRAJE SORPRESA (CINE MUDO CON MUSICA EN DIRECTO)",
