@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T03:45:48.226Z",
-  "upcomingFrom": "2026-07-23T03:45:48.226Z",
+  "generatedAt": "2026-07-24T03:45:26.015Z",
+  "upcomingFrom": "2026-07-24T03:45:26.015Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,19 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-23-2215-sala-1-ay-mi-madre-cortometraje-sorpresa-423",
-      "title": "AY, MI MADRE + CORTOMETRAJE SORPRESA (CINE MUDO CON MUSICA EN DIRECTO)",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-23",
-      "localStart": "2026-07-23T22:15:00",
-      "localEnd": "2026-07-23T23:25:00",
-      "startUtc": "2026-07-23T20:15:00.000Z",
-      "endUtc": "2026-07-23T21:25:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/ay-mi-madre-cortometraje-sorpresa-423/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=721",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-24-2215-sala-1-vaiana-398",
       "title": "VAIANA",
