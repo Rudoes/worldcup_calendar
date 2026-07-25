@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T03:45:26.015Z",
-  "upcomingFrom": "2026-07-24T03:45:26.015Z",
+  "generatedAt": "2026-07-25T03:39:03.844Z",
+  "upcomingFrom": "2026-07-25T03:39:03.844Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,45 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-24-2215-sala-1-vaiana-398",
-      "title": "VAIANA",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-24",
-      "localStart": "2026-07-24T22:15:00",
-      "localEnd": "2026-07-25T00:18:00",
-      "startUtc": "2026-07-24T20:15:00.000Z",
-      "endUtc": "2026-07-24T22:18:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/vaiana-398/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=722",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-24-2215-sala-2-cumbres-borrascosas-422",
-      "title": "CUMBRES BORRASCOSAS",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-24",
-      "localStart": "2026-07-24T22:15:00",
-      "localEnd": "2026-07-25T00:40:00",
-      "startUtc": "2026-07-24T20:15:00.000Z",
-      "endUtc": "2026-07-24T22:40:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/cumbres-borrascosas-422/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=724",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-25-0015-sala-1-el-beso-de-la-mujer-arana-387",
-      "title": "EL BESO DE LA MUJER ARAÑA",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-24",
-      "localStart": "2026-07-25T00:15:00",
-      "localEnd": "2026-07-25T02:33:00",
-      "startUtc": "2026-07-24T22:15:00.000Z",
-      "endUtc": "2026-07-25T00:33:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/el-beso-de-la-mujer-arana-387/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=723",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-25-2215-sala-1-supergirl-401",
       "title": "SUPERGIRL",
