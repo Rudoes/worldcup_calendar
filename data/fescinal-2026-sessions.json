@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25T03:39:03.844Z",
-  "upcomingFrom": "2026-07-25T03:39:03.844Z",
+  "generatedAt": "2026-07-26T03:56:31.310Z",
+  "upcomingFrom": "2026-07-26T03:56:31.310Z",
   "timeZone": "Europe/Madrid",
   "source": {
     "siteUrl": "https://www.fescinal.es/",
@@ -12,45 +12,6 @@
     ]
   },
   "sessions": [
-    {
-      "id": "2026-07-25-2215-sala-1-supergirl-401",
-      "title": "SUPERGIRL",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-25",
-      "localStart": "2026-07-25T22:15:00",
-      "localEnd": "2026-07-26T00:15:00",
-      "startUtc": "2026-07-25T20:15:00.000Z",
-      "endUtc": "2026-07-25T22:15:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/supergirl-401/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=725",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-25-2215-sala-2-amarga-navidad-424",
-      "title": "AMARGA NAVIDAD",
-      "screen": "Sala 2",
-      "programmingDate": "2026-07-25",
-      "localStart": "2026-07-25T22:15:00",
-      "localEnd": "2026-07-26T00:16:00",
-      "startUtc": "2026-07-25T20:15:00.000Z",
-      "endUtc": "2026-07-25T22:16:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/amarga-navidad-424/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=727",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
-    {
-      "id": "2026-07-26-0010-sala-1-la-bala-414",
-      "title": "LA BALA",
-      "screen": "Sala 1",
-      "programmingDate": "2026-07-25",
-      "localStart": "2026-07-26T00:10:00",
-      "localEnd": "2026-07-26T01:55:00",
-      "startUtc": "2026-07-25T22:10:00.000Z",
-      "endUtc": "2026-07-25T23:55:00.000Z",
-      "filmUrl": "https://www.fescinal.es/pelicula/la-bala-414/",
-      "ticketUrl": "https://www.fescinal.es/add/?pid=726",
-      "sourceUrl": "https://www.fescinal.es/programacion/7/2026/"
-    },
     {
       "id": "2026-07-26-2215-sala-1-vaiana-398",
       "title": "VAIANA",
