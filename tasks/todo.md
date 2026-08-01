@@ -2,13 +2,21 @@
 
 ## Active Removal Plan: Retire GitHub Publication
 
-- [ ] Confirm removal scope with user before any destructive or remote GitHub write action.
-- [ ] Decide whether to delete the remote repository entirely or keep the repository while disabling Pages and Actions.
-- [ ] If keeping the repository, remove or disable `.github/workflows/refresh-calendar.yml` and disable GitHub Pages for `main` `/docs`.
-- [ ] If deleting the repository, delete `Rudoes/worldcup_calendar` through GitHub CLI after explicit confirmation.
-- [ ] Verify the final GitHub state: repository removed or Pages/Actions disabled according to the confirmed scope.
+- [x] Confirm removal scope with user before any destructive or remote GitHub write action.
+- [x] Decide whether to delete the remote repository entirely or keep the repository while disabling Pages and Actions.
+- [x] Disable `.github/workflows/refresh-calendar.yml`, disable GitHub Pages for `main` `/docs`, and disable repository-level Actions while deletion is blocked by missing GitHub OAuth scope.
+- [ ] Delete `Rudoes/worldcup_calendar` through GitHub CLI after GitHub CLI has `delete_repo` scope.
+- [x] Verify the interim GitHub state: Pages disabled, refresh workflow disabled, repository Actions disabled; repository deletion still blocked by missing `delete_repo` scope.
 - [ ] Record the retirement review and verification outcome.
 
+## Removal Attempt Review
+
+- Confirmed scope: delete remote repository `Rudoes/worldcup_calendar` entirely from GitHub, including Pages and Actions history, while keeping the local folder.
+- Disabled GitHub Pages. Verification: `gh api repos/Rudoes/worldcup_calendar/pages` now returns `404 Not Found`.
+- Disabled the scheduled refresh workflow. Verification: `gh workflow list --all --repo Rudoes/worldcup_calendar` shows `Refresh Calendar Feed` as `disabled_manually`.
+- Disabled repository-level Actions. Verification: `gh api repos/Rudoes/worldcup_calendar/actions/permissions` returns `{"enabled":false,"sha_pinning_required":false}`.
+- Repository deletion attempted twice with `gh repo delete Rudoes/worldcup_calendar --yes`.
+- Current blocker: GitHub CLI token lacks `delete_repo`; GitHub returns `HTTP 403` and requires `gh auth refresh -h github.com -s delete_repo`.
 ## Active Plan: Fescinal Calendar Feed
 
 - [x] Confirm scope with user before implementation: upcoming sessions only, no poster metadata.
