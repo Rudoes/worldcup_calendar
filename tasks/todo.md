@@ -1,5 +1,14 @@
 # World Cup 2026 Calendar Feed
 
+## Active Removal Plan: Retire GitHub Publication
+
+- [ ] Confirm removal scope with user before any destructive or remote GitHub write action.
+- [ ] Decide whether to delete the remote repository entirely or keep the repository while disabling Pages and Actions.
+- [ ] If keeping the repository, remove or disable `.github/workflows/refresh-calendar.yml` and disable GitHub Pages for `main` `/docs`.
+- [ ] If deleting the repository, delete `Rudoes/worldcup_calendar` through GitHub CLI after explicit confirmation.
+- [ ] Verify the final GitHub state: repository removed or Pages/Actions disabled according to the confirmed scope.
+- [ ] Record the retirement review and verification outcome.
+
 ## Active Plan: Fescinal Calendar Feed
 
 - [x] Confirm scope with user before implementation: upcoming sessions only, no poster metadata.
